@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+2022,1,home
+2022,1,away,"[['20'], 'Gabriel Martinelli']","[['85'], '!Marc Guéhi']"
+2022,2,home,"[['02'], 'Jefferson Lerma']","[['80'], 'Kieffer Moore']"
+2022,2,away
+2022,3,home
+2022,3,away,"[['45.09'], ' Jorginho']"
+2022,4,home,"[['32', '72'], 'Aleksandar Mitrovic']"
+2022,4,away,"[['64'], 'Darwin Núñez']","[['80'], 'Mohamed Salah']"
+2022,5,home,"[['24'], ' Rodrigo']","[['74'], '!Rayan Aït-Nouri']"
+2022,5,away,"[['06'], 'Daniel Podence']"
+2022,6,home,"[['33'], 'Timothy Castagne']","[['46'], 'Kiernan Dewsbury-Hall']"
+2022,6,away,"[['62'], 'Ivan Toney']","[['86'], 'Josh Dasilva']"
+2022,7,home,"[['58'], 'Fabian Schär']","[['78'], 'Callum Wilson']"
+2022,7,away
+2022,8,home,"[['21'], 'Ryan Sessegnon']","[['31'], 'Eric Dier']","[['61'], '!Mohammed Salisu']","[['63'], 'Dejan Kulusevski']"
+2022,8,away,"[['12'], 'James Ward-Prowse']"
+2022,9,home,"[['68'], '!Alexis Mac Allister']"
+2022,9,away,"[['30', '39'], 'Pascal Groß']"
+2022,10,home
+2022,10,away,"[['36', '65'], 'Erling Haaland']"
+2022,11,home,"[['23', '35'], 'Gabriel Jesus']","[['55'], 'Granit Xhaka']","[['75'], 'Gabriel Martinelli']"
+2022,11,away,"[['53'], '!William Saliba']","[['74'], 'James Maddison']"
+2022,12,home,"[['31'], 'Danny Ings']","[['86'], 'Emiliano Buendía']"
+2022,12,away,"[['87'], '!Lucas Digne']"
+2022,13,home,"[['10'], 'Josh Dasilva']","[['18'], 'Mathias Jensen']","[['30'], 'Ben Mee']","[['35'], 'Bryan Mbeumo']"
+2022,13,away
+2022,14,home
+2022,14,away
+2022,15,home,"[['19'], 'Kalidou Koulibaly']","[['77'], 'Reece James']"
+2022,15,away,"[['68'], 'Pierre-Emile Højbjerg']","[['90.06'], 'Harry Kane']"
+2022,16,home,"[['61'], 'Luis Díaz']"
+2022,16,away,"[['32'], 'Wilfried Zaha']"
+2022,17,home,"[['19'], 'Ilkay Gündogan']","[['31'], 'Kevin De Bruyne']","[['37'], 'Phil Foden']","[['79'], '!Jefferson Lerma']"
+2022,17,away
+2022,18,home,"[['45.02'], 'Taiwo Awoniyi']"
+2022,18,away
+2022,19,home,"[['72'], 'Joe Aribo']","[['81'], 'Kyle Walker-Peters']"
+2022,19,away,"[['46', '60'], ' Rodrigo']"
+2022,20,home
+2022,20,away
+2022,21,home
+2022,21,away,"[['05', '11'], 'Martin Ødegaard']","[['54'], 'William Saliba']"
+2022,22,home,"[['07', '58'], 'Wilfried Zaha']","[['71'], 'Jean-Philippe Mateta']"
+2022,22,away,"[['05'], 'Ollie Watkins']"
+2022,23,home,"[['88'], 'Demarai Gray']"
+2022,23,away,"[['81'], 'Brennan Johnson']"
+2022,24,home,"[['01'], 'Bobby De Cordova-Reid']","[['20'], 'João Palhinha']","[['90'], 'Aleksandar Mitrovic']"
+2022,24,away,"[['44'], 'Christian Nørgaard']","[['71'], 'Ivan Toney']"
+2022,25,home,"[['33'], 'Brenden Aaronson']","[['37'], ' Rodrigo']","[['69'], 'Jack Harrison']"
+2022,25,away
+2022,26,home,"[['54'], 'James Maddison']"
+2022,26,away,"[['68', '84'], 'Ché Adams']"
+2022,27,home,"[['16'], 'Jadon Sancho']","[['53'], 'Marcus Rashford']"
+2022,27,away,"[['81'], 'Mohamed Salah']"
+2022,28,home,"[['28'], 'Miguel Almirón']","[['39'], 'Callum Wilson']","[['54'], 'Kieran Trippier']"
+2022,28,away,"[['05'], 'Ilkay Gündogan']","[['61'], 'Erling Haaland']","[['64'], 'Bernardo Silva']"
+2022,29,home,"[['64'], 'Harry Kane']"
+2022,29,away
+2022,30,home
+2022,30,away,"[['22'], 'Alexis Mac Allister']","[['66'], 'Leandro Trossard']"
+2022,31,home,"[['64'], 'Martin Ødegaard']","[['86'], 'Gabriel Magalhães']"
+2022,31,away,"[['56'], 'Aleksandar Mitrovic']"
+2022,32,home
+2022,32,away,"[['74'], 'Pablo Fornals']"
+2022,33,home,"[['84'], 'Vitaly Janelt']"
+2022,33,away,"[['24'], 'Anthony Gordon']"
+2022,34,home,"[['66'], 'Pascal Groß']"
+2022,34,away
+2022,35,home,"[['47', '63'], 'Raheem Sterling']"
+2022,35,away,"[['66'], 'Harvey Barnes']"
+2022,36,home,"[['03', '85'], 'Luis Díaz']","[['06'], 'Harvey Elliott']","[['28'], 'Trent Alexander-Arnold']","[['31', '62'], 'Roberto Firmino']","[['45'], 'Virgil van Dijk']","[['46'], '!Chris Mepham']","[['80'], 'Fábio Carvalho']"
+2022,36,away
+2022,37,home,"[['53'], 'Bernardo Silva']","[['62', '70', '81'], 'Erling Haaland']"
+2022,37,away,"[['04'], '!John Stones']","[['21'], 'Joachim Andersen']"
+2022,38,home
+2022,38,away,"[['05', '81'], 'Harry Kane']"
+2022,39,home
+2022,39,away,"[['55'], 'Bruno Fernandes']"
+2022,40,home,"[['38'], 'Rúben Neves']"
+2022,40,away,"[['90'], 'Allan Saint-Maximin']"
+2022,41,home,"[['30'], 'Gabriel Jesus']","[['77'], 'Gabriel Martinelli']"
+2022,41,away,"[['74'], 'Douglas Luiz']"
+2022,42,home
+2022,42,away
+2022,43,home,"[['59'], 'Wilfried Zaha']"
+2022,43,away,"[['88'], 'Yoane Wissa']"
+2022,44,home,"[['48'], 'Aleksandar Mitrovic']","[['55'], '!Lewis Dunk']"
+2022,44,away,"[['60'], 'Alexis Mac Allister']"
+2022,45,home,"[['55'], 'Luis Sinisterra']"
+2022,45,away,"[['17'], 'Anthony Gordon']"
+2022,46,home
+2022,46,away,"[['23'], 'Jadon Sancho']"
+2022,47,home,"[['55'], 'Tomás Soucek']"
+2022,47,away,"[['34'], '!Thilo Kehrer']"
+2022,48,home,"[['61'], 'Roberto Firmino']","[['90.08'], 'Fábio Carvalho']"
+2022,48,away,"[['38'], 'Alexander Isak']"
+2022,49,home,"[['12', '23', '38'], 'Erling Haaland']","[['50'], 'João Cancelo']","[['65', '87'], 'Julián Álvarez']"
+2022,49,away
+2022,50,home,"[['28'], 'Roméo Lavia']","[['45.01'], 'Adam Armstrong']"
+2022,50,away,"[['23'], 'Raheem Sterling']"
+2022,51,home,"[['74'], 'Leon Bailey']"
+2022,51,away,"[['50'], 'Erling Haaland']"
+2022,52,home,"[['30', '43', '58'], 'Ivan Toney']","[['80'], 'Bryan Mbeumo']","[['90.01'], 'Yoane Wissa']"
+2022,52,away,"[['45.01'], 'Luis Sinisterra']","[['79'], 'Marc Roca']"
+2022,53,home,"[['10'], '!Luke Thomas']","[['15'], 'Moisés Caicedo']","[['64'], 'Leandro Trossard']","[['71', '90.07'], 'Alexis Mac Allister']"
+2022,53,away,"[['01'], 'Kelechi Iheanacho']","[['33'], 'Patson Daka']"
+2022,54,home,"[['76'], 'Ben Chilwell']","[['88'], 'Kai Havertz']"
+2022,54,away,"[['62'], 'Michail Antonio']"
+2022,55,home
+2022,55,away
+2022,56,home,"[['35'], ' Antony']","[['66', '75'], 'Marcus Rashford']"
+2022,56,away,"[['60'], 'Bukayo Saka']"
+2022,57,home
+2022,57,away
+2022,58,home,"[['33'], 'Cheikhou Kouyaté']","[['45.02'], 'Brennan Johnson']"
+2022,58,away,"[['51'], 'Philip Billing']","[['63'], 'Dominic Solanke']","[['87'], 'Jaidon Anthony']"
+2022,59,home,"[['40'], 'Pierre-Emile Højbjerg']","[['75'], 'Harry Kane']"
+2022,59,away,"[['83'], 'Aleksandar Mitrovic']"
+2022,60,home,"[['45.01'], 'Daniel Podence']"
+2022,60,away
+2022,61,home,"[['40'], 'Bukayo Saka']","[['45.01', '80'], 'Gabriel Martinelli']","[['71'], 'Martin Ødegaard']"
+2022,61,away
+2022,62,home
+2022,62,away,"[['28'], 'Evan Ferguson']","[['90.01'], 'Julio Enciso']"
+2022,63,home,"[['90.01'], 'Michael Olise']"
+2022,63,away,"[['44'], 'Bruno Fernandes']"
+2022,64,home,"[['25'], ' Willian']","[['73'], 'Carlos Vinícius']"
+2022,64,away,"[['47'], 'Kalidou Koulibaly']"
+2022,65,home,"[['20'], 'Jack Harrison']","[['45.01'], 'Luis Sinisterra']"
+2022,65,away,"[['12'], 'Orel Mangala']"
+2022,66,home,"[['35'], 'Harvey Barnes']"
+2022,66,away,"[['24'], 'Ollie Watkins']","[['87'], 'Bertrand Traoré']"
+2022,67,home,"[['73'], 'Virgil van Dijk']","[['77'], 'Mohamed Salah']"
+2022,67,away
+2022,68,home,"[['51'], 'Julián Álvarez']","[['53'], 'Erling Haaland']","[['63', '90'], 'Riyad Mahrez']"
+2022,68,away,"[['44'], 'Dejan Kulusevski']","[['45.02'], 'Emerson Royal']"
+2022,69,home
+2022,69,away,"[['32'], 'Ivan Toney']","[['90.07'], 'Yoane Wissa']"
+2022,70,home,"[['40'], 'Kurt Zouma']"
+2022,70,away,"[['06', '46'], 'Callum Wilson']","[['13', '90'], ' Joelinton']","[['82'], 'Alexander Isak']"
+2022,71,home,"[['41'], 'Jacob Ramsey']"
+2022,71,away
+2022,72,home
+2022,72,away,"[['17'], 'William Saliba']","[['28'], 'Gabriel Jesus']","[['49'], 'Fábio Vieira']"
+2022,73,home,"[['15'], 'Solly March']"
+2022,73,away
+2022,74,home
+2022,74,away
+2022,75,home,"[['53'], 'Neal Maupay']"
+2022,75,away
+2022,76,home,"[['62'], 'Marcus Rashford']","[['70'], 'Jadon Sancho']"
+2022,76,away,"[['01'], 'Wilfried Gnonto']","[['48'], '!Raphaël Varane']"
+2022,77,home,"[['67'], 'Alexander Isak']"
+2022,77,away,"[['62'], 'Philip Billing']"
+2022,78,home,"[['11'], 'Taiwo Awoniyi']","[['77'], ""Lewis O'Brien""]"
+2022,78,away,"[['54'], 'Tosin Adarabioyo']","[['57'], 'João Palhinha']","[['60'], 'Harrison Reed']"
+2022,79,home,"[['08'], 'Harry Kane']","[['21'], 'Eric Dier']","[['47'], 'Rodrigo Bentancur']","[['73', '84', '86'], 'Son Heung-Min']"
+2022,79,away,"[['06'], 'Youri Tielemans']","[['41'], 'James Maddison']"
+2022,80,home
+2022,80,away,"[['01'], 'Jack Grealish']","[['16'], 'Erling Haaland']","[['69'], 'Phil Foden']"
+2022,81,home,"[['20'], 'Thomas Partey']","[['49'], 'Gabriel Jesus']","[['67'], 'Granit Xhaka']"
+2022,81,away,"[['31'], 'Harry Kane']"
+2022,82,home
+2022,82,away
+2022,83,home,"[['07'], 'Odsonne Édouard']"
+2022,83,away,"[['38'], 'Pierre-Emerick Aubameyang']","[['90'], 'Conor Gallagher']"
+2022,84,home,"[['88'], 'Bobby De Cordova-Reid']"
+2022,84,away,"[['11'], 'Callum Wilson']","[['33', '57'], 'Miguel Almirón']","[['43'], 'Sean Longstaff']"
+2022,85,home
+2022,85,away
+2022,86,home,"[['25', '35'], 'James Maddison']","[['27'], 'Harvey Barnes']","[['73'], 'Patson Daka']"
+2022,86,away
+2022,87,home,"[['33', '54'], 'Roberto Firmino']","[['63'], '!Adam Webster']"
+2022,87,away,"[['04', '17', '83'], 'Leandro Trossard']"
+2022,88,home,"[['08', '44', '73'], 'Phil Foden']","[['34', '37', '64'], 'Erling Haaland']"
+2022,88,away,"[['56'], ' Antony']","[['84', '90.01'], 'Anthony Martial']"
+2022,89,home,"[['49'], 'Joe Aribo']"
+2022,89,away,"[['52'], 'Conor Coady']","[['54'], 'Dwight McNeil']"
+2022,90,home,"[['29'], 'Gianluca Scamacca']","[['54'], 'Jarrod Bowen']"
+2022,90,away
+2022,91,home,"[['01'], 'Gabriel Martinelli']","[['45.05', '76'], 'Bukayo Saka']"
+2022,91,away,"[['34'], 'Darwin Núñez']","[['53'], 'Roberto Firmino']"
+2022,92,home,"[['68'], 'Philip Billing']","[['71'], 'Ryan Christie']"
+2022,92,away,"[['10'], 'Patson Daka']"
+2022,93,home
+2022,93,away,"[['22'], 'Harry Kane']"
+2022,94,home,"[['45.03'], 'Kai Havertz']","[['54'], 'Christian Pulisic']","[['89'], 'Armando Broja']"
+2022,94,away
+2022,95,home,"[['24'], 'Odsonne Édouard']","[['76'], 'Eberechi Eze']"
+2022,95,away,"[['10'], 'Pascal Struijk']"
+2022,96,home,"[['05'], 'Alex Iwobi']"
+2022,96,away,"[['15'], ' Antony']","[['44'], 'Cristiano Ronaldo']"
+2022,97,home,"[['20'], 'João Cancelo']","[['32'], 'Phil Foden']","[['49'], 'Riyad Mahrez']","[['65'], 'Erling Haaland']"
+2022,97,away
+2022,98,home,"[['21', '56'], 'Bruno Guimarães']","[['28'], 'Jacob Murphy']","[['82'], 'Miguel Almirón']","[['90'], '!Ethan Pinnock']"
+2022,98,away,"[['54'], 'Ivan Toney']"
+2022,99,home,"[['15'], 'Emmanuel Dennis']"
+2022,99,away,"[['22'], 'Ashley Young']"
+2022,100,home,"[['29'], 'Jarrod Bowen']","[['62'], 'Gianluca Scamacca']","[['90.01'], 'Michail Antonio']"
+2022,100,away,"[['05'], 'Andreas Pereira']"
+2022,101,home
+2022,101,away,"[['06', '65'], 'Mason Mount']"
+2022,102,home,"[['27', '64'], 'Ivan Toney']"
+2022,102,away
+2022,103,home,"[['22'], 'Issa Diop']","[['52'], 'Aleksandar Mitrovic']"
+2022,103,away,"[['02'], 'Dominic Solanke']","[['29'], 'Jefferson Lerma']"
+2022,104,home
+2022,104,away,"[['35'], 'Bukayo Saka']"
+2022,105,home
+2022,105,away
+2022,106,home,"[['76'], 'Mohamed Salah']"
+2022,106,away
+2022,107,home
+2022,107,away
+2022,108,home,"[['20'], 'Romain Perraud']"
+2022,108,away,"[['64'], 'Declan Rice']"
+2022,109,home,"[['59'], 'Harry Kane']","[['86'], 'Pierre-Emile Højbjerg']"
+2022,109,away
+2022,110,home,"[['56'], 'Rúben Neves']"
+2022,110,away
+2022,111,home,"[['42'], 'Bukayo Saka']"
+2022,111,away,"[['24'], 'Kevin De Bruyne']","[['72'], 'Jack Grealish']","[['82'], 'Erling Haaland']"
+2022,112,home
+2022,112,away,"[['09'], 'Ché Adams']"
+2022,113,home
+2022,113,away
+2022,114,home
+2022,114,away
+2022,115,home,"[['47'], 'Eberechi Eze']","[['70'], 'Wilfried Zaha']"
+2022,115,away,"[['31'], 'Adama Traoré']"
+2022,116,home,"[['36'], 'Harrison Reed']","[['68'], 'Aleksandar Mitrovic']","[['84'], '!Tyrone Mings']"
+2022,116,away
+2022,117,home,"[['16'], '!Robin Koch']","[['35'], 'Harvey Barnes']"
+2022,117,away
+2022,118,home,"[['22'], 'Darwin Núñez']"
+2022,118,away
+2022,119,home,"[['47'], ' Fred']","[['69'], 'Bruno Fernandes']"
+2022,119,away
+2022,120,home,"[['30'], 'Miguel Almirón']"
+2022,120,away
+2022,121,home,"[['02'], 'Leon Bailey']","[['07', '14'], 'Danny Ings']","[['59'], 'Ollie Watkins']"
+2022,121,away
+2022,122,home,"[['87'], ' Jorginho']"
+2022,122,away,"[['90.04'], ' Casemiro']"
+2022,123,home,"[['11'], 'Dominic Calvert-Lewin']","[['63'], 'Anthony Gordon']","[['84'], 'Dwight McNeil']"
+2022,123,away
+2022,124,home,"[['20'], ' Rodrigo']","[['90.01'], 'Crysencio Summerville']"
+2022,124,away,"[['26'], 'Aleksandar Mitrovic']","[['74'], 'Bobby De Cordova-Reid']","[['84'], ' Willian']"
+2022,125,home,"[['22', '43'], 'Erling Haaland']","[['75'], 'Kevin De Bruyne']"
+2022,125,away,"[['53'], 'Leandro Trossard']"
+2022,126,home,"[['55'], 'Taiwo Awoniyi']"
+2022,126,away
+2022,127,home,"[['65'], 'Stuart Armstrong']"
+2022,127,away,"[['11'], 'Granit Xhaka']"
+2022,128,home,"[['54'], 'Harry Kane']"
+2022,128,away,"[['31'], 'Callum Wilson']","[['40'], 'Miguel Almirón']"
+2022,129,home,"[['45'], 'Kurt Zouma']","[['90.02'], 'Saïd Benrahma']"
+2022,129,away
+2022,130,home
+2022,130,away,"[['08'], 'Youri Tielemans']","[['19'], 'Harvey Barnes']","[['65'], 'James Maddison']","[['79'], 'Jamie Vardy']"
+2022,131,home,"[['05'], 'Gabriel Martinelli']","[['49', '52'], 'Reiss Nelson']","[['57'], 'Thomas Partey']","[['78'], 'Martin Ødegaard']"
+2022,131,away
+2022,132,home,"[['22', '49'], 'Kieffer Moore']"
+2022,132,away,"[['57'], 'Ryan Sessegnon']","[['73'], 'Ben Davies']","[['90.02'], 'Rodrigo Bentancur']"
+2022,133,home,"[['50'], 'Ben Mee']"
+2022,133,away,"[['52'], 'Rúben Neves']"
+2022,134,home,"[['05'], 'Leandro Trossard']","[['14'], '!Ruben Loftus-Cheek']","[['42'], '!Trevoh Chalobah']","[['90.02'], 'Pascal Groß']"
+2022,134,away,"[['48'], 'Kai Havertz']"
+2022,135,home,"[['38'], 'Odsonne Édouard']"
+2022,135,away
+2022,136,home
+2022,136,away
+2022,137,home
+2022,137,away,"[['49'], 'Kevin De Bruyne']"
+2022,138,home,"[['14'], 'Mohamed Salah']"
+2022,138,away,"[['04'], ' Rodrigo']","[['89'], 'Crysencio Summerville']"
+2022,139,home,"[['38'], 'Marcus Rashford']"
+2022,139,away
+2022,140,home,"[['45.06', '56'], 'Callum Wilson']","[['59'], ' Joelinton']","[['67'], 'Miguel Almirón']"
+2022,140,away
+2022,141,home,"[['07'], 'Leon Bailey']","[['11'], 'Lucas Digne']","[['49'], 'Jacob Ramsey']"
+2022,141,away,"[['45'], '!Jacob Ramsey']"
+2022,142,home
+2022,142,away,"[['63'], 'Gabriel Magalhães']"
+2022,143,home
+2022,143,away,"[['45'], 'Youri Tielemans']","[['86'], 'Harvey Barnes']"
+2022,144,home,"[['03'], ' Rodrigo']","[['60'], 'Sam Greenwood']","[['68'], 'Liam Cooper']","[['84'], 'Crysencio Summerville']"
+2022,144,away,"[['07'], 'Marcus Tavernier']","[['19'], 'Philip Billing']","[['48'], 'Dominic Solanke']"
+2022,145,home,"[['16'], 'Julián Álvarez']","[['90.05'], 'Erling Haaland']"
+2022,145,away,"[['28'], 'Andreas Pereira']"
+2022,146,home,"[['20'], 'Morgan Gibbs-White']","[['90.06'], '! Zanka']"
+2022,146,away,"[['45.03'], 'Bryan Mbeumo']","[['75'], 'Yoane Wissa']"
+2022,147,home,"[['89'], 'Romain Perraud']"
+2022,147,away,"[['35'], 'Miguel Almirón']","[['58'], 'Chris Wood']","[['62'], 'Joe Willock']","[['90.01'], 'Bruno Guimarães']"
+2022,148,home,"[['70'], 'Harry Kane']"
+2022,148,away,"[['11', '40'], 'Mohamed Salah']"
+2022,149,home,"[['20'], 'Saïd Benrahma']"
+2022,149,away,"[['41'], 'Wilfried Zaha']","[['90.04'], 'Michael Olise']"
+2022,150,home,"[['12'], 'Gonçalo Guedes']","[['35'], 'Rúben Neves']"
+2022,150,away,"[['10'], 'Adam Lallana']","[['44'], 'Kaoru Mitoma']","[['83'], 'Pascal Groß']"
+2022,151,home,"[['18'], 'Marcus Tavernier']","[['25'], 'Kieffer Moore']","[['69'], 'Jaidon Anthony']"
+2022,151,away
+2022,152,home,"[['01'], 'Alexis Mac Allister']"
+2022,152,away,"[['20', '54'], 'Danny Ings']"
+2022,153,home,"[['61'], 'Daniel James']"
+2022,153,away,"[['14'], 'Christian Eriksen']","[['90.03'], 'Alejandro Garnacho']"
+2022,154,home,"[['06'], 'Roberto Firmino']","[['21', '42'], 'Darwin Núñez']"
+2022,154,away,"[['09'], 'Ché Adams']"
+2022,155,home,"[['45.01'], 'Phil Foden']"
+2022,155,away,"[['16', '90.08'], 'Ivan Toney']"
+2022,156,home,"[['67'], 'Joe Willock']"
+2022,156,away
+2022,157,home,"[['54'], 'Morgan Gibbs-White']"
+2022,157,away
+2022,158,home,"[['25'], 'Harry Kane']","[['51'], 'Ben Davies']","[['81', '83'], 'Rodrigo Bentancur']"
+2022,158,away,"[['10'], 'Crysencio Summerville']","[['43', '76'], ' Rodrigo']"
+2022,159,home
+2022,159,away,"[['08'], 'James Maddison']","[['78'], 'Harvey Barnes']"
+2022,160,home
+2022,160,away,"[['54', '75'], 'Martin Ødegaard']"
+2022,161,home,"[['53'], 'Bukayo Saka']","[['58'], 'Gabriel Martinelli']","[['69'], 'Eddie Nketiah']"
+2022,161,away,"[['27'], 'Saïd Benrahma']"
+2022,162,home,"[['59'], 'Ollie Watkins']"
+2022,162,away,"[['05'], 'Mohamed Salah']","[['37'], 'Virgil van Dijk']","[['81'], 'Stefan Bajcetic']"
+2022,163,home,"[['15'], 'Vitaly Janelt']","[['54'], 'Ivan Toney']"
+2022,163,away,"[['65'], 'Harry Kane']","[['71'], 'Pierre-Emile Højbjerg']"
+2022,164,home,"[['16'], 'Kai Havertz']","[['24'], 'Mason Mount']"
+2022,164,away
+2022,165,home
+2022,165,away,"[['31'], 'Bobby De Cordova-Reid']","[['71'], 'Tim Ream']","[['80'], 'Aleksandar Mitrovic']"
+2022,166,home,"[['07'], 'Yerry Mina']"
+2022,166,away,"[['22'], 'Daniel Podence']","[['90.05'], 'Rayan Aït-Nouri']"
+2022,167,home,"[['73'], 'Pascal Struijk']"
+2022,167,away,"[['45.01'], ' Rodri']","[['51', '64'], 'Erling Haaland']"
+2022,168,home
+2022,168,away,"[['03'], 'Chris Wood']","[['07'], 'Miguel Almirón']","[['32'], ' Joelinton']"
+2022,169,home,"[['19'], 'Marcus Rashford']","[['23'], 'Anthony Martial']","[['87'], ' Fred']"
+2022,169,away
+2022,170,home,"[['73'], 'James Ward-Prowse']"
+2022,170,away,"[['14'], 'Adam Lallana']","[['35'], '!Romain Perraud']","[['56'], 'Solly March']"
+2022,171,home
+2022,171,away,"[['19'], 'Jordan Ayew']","[['36'], 'Eberechi Eze']"
+2022,172,home,"[['65'], 'Kaoru Mitoma']","[['77'], 'Evan Ferguson']"
+2022,172,away,"[['02'], 'Bukayo Saka']","[['39'], 'Martin Ødegaard']","[['47'], 'Eddie Nketiah']","[['71'], 'Gabriel Martinelli']"
+2022,173,home,"[['32'], '!James Ward-Prowse']","[['88'], 'João Palhinha']"
+2022,173,away,"[['56'], 'James Ward-Prowse']"
+2022,174,home,"[['38', '45'], '!Wout Faes']"
+2022,174,away,"[['04'], 'Kiernan Dewsbury-Hall']"
+2022,175,home,"[['24'], 'Erling Haaland']"
+2022,175,away,"[['64'], 'Demarai Gray']"
+2022,176,home
+2022,176,away
+2022,177,home,"[['63'], 'Sèrge Aurier']"
+2022,177,away,"[['16'], 'Raheem Sterling']"
+2022,178,home
+2022,178,away,"[['50'], 'Emiliano Buendía']","[['73'], 'Douglas Luiz']"
+2022,179,home
+2022,179,away,"[['18'], 'Ivan Toney']","[['43'], 'Josh Dasilva']"
+2022,180,home
+2022,180,away,"[['76'], 'Marcus Rashford']"
+2022,181,home
+2022,181,away
+2022,182,home,"[['78'], 'Danny Ings']"
+2022,182,away,"[['12'], 'Daniel Podence']"
+2022,183,home,"[['19'], '!Ibrahima Konaté']","[['42'], 'Yoane Wissa']","[['84'], 'Bryan Mbeumo']"
+2022,183,away,"[['50'], 'Alex Oxlade-Chamberlain']"
+2022,184,home
+2022,184,away,"[['63'], 'Riyad Mahrez']"
+2022,185,home
+2022,185,away,"[['48', '53'], 'Harry Kane']","[['68'], 'Matt Doherty']","[['72'], 'Son Heung-Min']"
+2022,186,home,"[['90.02'], 'Demarai Gray']"
+2022,186,away,"[['14'], 'Kaoru Mitoma']","[['51'], 'Evan Ferguson']","[['54'], 'Solly March']","[['57'], 'Pascal Groß']"
+2022,187,home,"[['27'], 'Wilfried Gnonto']","[['70'], ' Rodrigo']"
+2022,187,away,"[['45.01'], 'Lucas Paquetá']","[['46'], 'Gianluca Scamacca']"
+2022,188,home
+2022,188,away,"[['17'], 'Aleksandar Mitrovic']"
+2022,189,home,"[['23'], ' Casemiro']","[['49'], 'Luke Shaw']","[['86'], 'Marcus Rashford']"
+2022,189,away
+2022,190,home
+2022,190,away,"[['27'], 'Taiwo Awoniyi']"
+2022,191,home,"[['03'], 'Leon Bailey']","[['64'], 'Emiliano Buendía']"
+2022,191,away,"[['83'], 'Patrick Bamford']"
+2022,192,home,"[['39'], 'Ivan Toney']","[['75'], 'Mathias Jensen']"
+2022,192,away
+2022,193,home,"[['47', '53'], 'Solly March']","[['81'], 'Danny Welbeck']"
+2022,193,away
+2022,194,home,"[['64'], 'Kai Havertz']"
+2022,194,away
+2022,195,home,"[['39'], 'Amadou Onana']"
+2022,195,away,"[['46', '78'], 'James Ward-Prowse']"
+2022,196,home,"[['78'], 'Bruno Fernandes']","[['82'], 'Marcus Rashford']"
+2022,196,away,"[['60'], 'Jack Grealish']"
+2022,197,home,"[['89'], 'Alexander Isak']"
+2022,197,away
+2022,198,home,"[['56', '85'], 'Brennan Johnson']"
+2022,198,away
+2022,199,home
+2022,199,away,"[['14'], '!Hugo Lloris']","[['36'], 'Martin Ødegaard']"
+2022,200,home,"[['48'], 'Daniel Podence']"
+2022,200,away
+2022,201,home,"[['24', '90'], 'Eddie Nketiah']","[['53'], 'Bukayo Saka']"
+2022,201,away,"[['17'], 'Marcus Rashford']","[['59'], 'Lisandro Martínez']"
+2022,202,home,"[['28'], 'Jaidon Anthony']"
+2022,202,away,"[['83'], 'Sam Surridge']"
+2022,203,home
+2022,203,away
+2022,204,home
+2022,204,away,"[['45.01'], 'Harry Kane']"
+2022,205,home
+2022,205,away
+2022,206,home,"[['38'], 'Marc Albrighton']","[['63'], 'Harvey Barnes']"
+2022,206,away,"[['27'], 'Kaoru Mitoma']","[['88'], 'Evan Ferguson']"
+2022,207,home
+2022,207,away
+2022,208,home,"[['40', '50', '54'], 'Erling Haaland']"
+2022,208,away
+2022,209,home
+2022,209,away,"[['77'], 'Ollie Watkins']"
+2022,210,home,"[['34', '41'], 'Jarrod Bowen']"
+2022,210,away
+2022,211,home,"[['09'], 'Ollie Watkins']","[['32'], '!Harry Souttar']"
+2022,211,away,"[['12'], 'James Maddison']","[['41'], 'Kelechi Iheanacho']","[['45.02'], ' Tetê']","[['79'], 'Dennis Praet']"
+2022,212,home,"[['41'], 'Ben Mee']","[['44'], 'Bryan Mbeumo']","[['80'], 'Mathias Jensen']"
+2022,212,away
+2022,213,home,"[['87'], 'Kaoru Mitoma']"
+2022,213,away
+2022,214,home
+2022,214,away
+2022,215,home,"[['60'], 'James Tarkowski']"
+2022,215,away
+2022,216,home,"[['07'], 'Bruno Fernandes']","[['62'], 'Marcus Rashford']"
+2022,216,away,"[['76'], 'Jeffrey Schlupp']"
+2022,217,home,"[['03'], 'Callum Wilson']"
+2022,217,away,"[['32'], 'Lucas Paquetá']"
+2022,218,home,"[['14'], 'Brennan Johnson']"
+2022,218,away
+2022,219,home,"[['15'], 'Harry Kane']"
+2022,219,away
+2022,220,home,"[['05'], '!Joël Matip']","[['12'], 'Craig Dawson']","[['71'], 'Rúben Neves']"
+2022,220,away
+2022,221,home,"[['66'], 'Leandro Trossard']"
+2022,221,away,"[['74'], 'Ivan Toney']"
+2022,222,home,"[['30'], 'Marcos Senesi']"
+2022,222,away,"[['45.02'], 'Miguel Almirón']"
+2022,223,home,"[['69'], 'James Tomkins']"
+2022,223,away,"[['63'], 'Solly March']"
+2022,224,home,"[['17'], ' Willian']","[['88'], 'Manor Solomon']"
+2022,224,away
+2022,225,home
+2022,225,away,"[['80'], 'Marcus Rashford']","[['85'], 'Alejandro Garnacho']"
+2022,226,home,"[['23'], 'Nampalys Mendy']","[['25'], 'James Maddison']","[['45.04'], 'Kelechi Iheanacho']","[['81'], 'Harvey Barnes']"
+2022,226,away,"[['14'], 'Rodrigo Bentancur']"
+2022,227,home,"[['36'], 'Mohamed Salah']","[['49'], 'Cody Gakpo']"
+2022,227,away
+2022,228,home,"[['04'], ' Rodri']","[['39'], 'Ilkay Gündogan']","[['45.01'], 'Riyad Mahrez']"
+2022,228,away,"[['61'], 'Ollie Watkins']"
+2022,229,home,"[['24'], 'Carlos Alcaraz']"
+2022,229,away,"[['72'], '!Jan Bednarek']","[['87'], 'João Gomes']"
+2022,230,home,"[['28'], ' Emerson']"
+2022,230,away,"[['16'], 'João Félix']"
+2022,231,home,"[['05'], 'Ollie Watkins']","[['31'], 'Philippe Coutinho']"
+2022,231,away,"[['16'], 'Bukayo Saka']","[['61'], 'Oleksandr Zinchenko']","[['90.03'], '!Emiliano Martínez']","[['90.08'], 'Gabriel Martinelli']"
+2022,232,home,"[['90.06'], 'Vitaly Janelt']"
+2022,232,away,"[['69'], 'Eberechi Eze']"
+2022,233,home
+2022,233,away,"[['88'], 'Manor Solomon']"
+2022,234,home
+2022,234,away,"[['45.01'], 'James Ward-Prowse']"
+2022,235,home,"[['64'], 'Séamus Coleman']"
+2022,235,away
+2022,236,home,"[['25', '56'], 'Marcus Rashford']","[['61'], 'Jadon Sancho']"
+2022,236,away
+2022,237,home
+2022,237,away,"[['10'], 'Darwin Núñez']","[['17'], 'Cody Gakpo']"
+2022,238,home,"[['84'], 'Chris Wood']"
+2022,238,away,"[['41'], 'Bernardo Silva']"
+2022,239,home,"[['56'], 'Emerson Royal']","[['72'], 'Son Heung-Min']"
+2022,239,away
+2022,240,home
+2022,240,away,"[['49'], 'Marcus Tavernier']"
+2022,241,home,"[['83'], 'Jefferson Lerma']"
+2022,241,away,"[['15'], 'Julián Álvarez']","[['29'], 'Erling Haaland']","[['45'], 'Phil Foden']","[['51'], '!Chris Mepham']"
+2022,242,home
+2022,242,away
+2022,243,home
+2022,243,away,"[['63'], 'Ollie Watkins']","[['81'], 'Emiliano Buendía']"
+2022,244,home,"[['64'], 'Manor Solomon']"
+2022,244,away,"[['23'], 'Pablo Sarabia']"
+2022,245,home,"[['77'], 'Junior Firpo']"
+2022,245,away
+2022,246,home
+2022,246,away,"[['46'], 'Gabriel Martinelli']"
+2022,247,home,"[['27'], 'Marcus Rashford']"
+2022,247,away
+2022,248,home,"[['22'], '!Deniz Undav']","[['45.04'], 'Dan Burn']","[['89'], 'Callum Wilson']","[['90.01'], 'Bruno Guimarães']"
+2022,248,away,"[['51'], 'Deniz Undav']"
+2022,249,home,"[['46'], 'Oliver Skipp']","[['82'], 'Harry Kane']"
+2022,249,away
+2022,250,home,"[['71', '73'], 'Danny Ings']","[['78'], 'Declan Rice']","[['85'], 'Michail Antonio']"
+2022,250,away
+2022,251,home,"[['62'], 'Thomas Partey']","[['70'], 'Ben White']","[['90.07'], 'Reiss Nelson']"
+2022,251,away,"[['01'], 'Philip Billing']","[['57'], 'Marcos Senesi']"
+2022,252,home,"[['27'], '!Joachim Andersen']"
+2022,252,away
+2022,253,home,"[['06'], 'Ethan Pinnock']","[['53'], 'Ivan Toney']","[['85'], 'Mathias Jensen']"
+2022,253,away,"[['39'], 'Manor Solomon']","[['90.09'], 'Carlos Vinícius']"
+2022,254,home,"[['18'], 'Alexis Mac Allister']","[['52'], 'Joël Veltman']","[['69'], 'Kaoru Mitoma']","[['89'], 'Danny Welbeck']"
+2022,254,away
+2022,255,home,"[['53'], 'Wesley Fofana']"
+2022,255,away
+2022,256,home,"[['43', '50'], 'Cody Gakpo']","[['47', '75'], 'Darwin Núñez']","[['66', '83'], 'Mohamed Salah']","[['88'], 'Roberto Firmino']"
+2022,256,away
+2022,257,home,"[['15'], 'Phil Foden']","[['67'], 'Bernardo Silva']"
+2022,257,away
+2022,258,home,"[['19', '77'], 'Brennan Johnson']"
+2022,258,away,"[['10'], 'Demarai Gray']","[['29'], 'Abdoulaye Doucouré']"
+2022,259,home,"[['35'], 'Carlos Alcaraz']"
+2022,259,away
+2022,260,home,"[['82'], 'Adama Traoré']"
+2022,260,away
+2022,261,home,"[['28'], 'Philip Billing']"
+2022,261,away
+2022,262,home
+2022,262,away,"[['78'], 'Erling Haaland']"
+2022,263,home,"[['01'], 'Dwight McNeil']"
+2022,263,away
+2022,264,home
+2022,264,away,"[['21'], 'Gabriel Magalhães']","[['26'], 'Gabriel Martinelli']","[['45.02'], 'Martin Ødegaard']"
+2022,265,home,"[['40'], 'Patrick Bamford']","[['78'], 'Jack Harrison']"
+2022,265,away,"[['33'], 'Alexis Mac Allister']","[['61'], 'Solly March']"
+2022,266,home,"[['39'], 'Patson Daka']"
+2022,266,away,"[['11'], 'Ben Chilwell']","[['45.06'], 'Kai Havertz']","[['78'], 'Mateo Kovacic']"
+2022,267,home
+2022,267,away
+2022,268,home,"[['26'], 'Alexander Isak']","[['79'], 'Miguel Almirón']"
+2022,268,away,"[['70'], 'Hwang Hee-Chan']"
+2022,269,home,"[['19', '35'], 'Harry Kane']","[['62'], 'Son Heung-Min']"
+2022,269,away,"[['81'], 'Joe Worrall']"
+2022,270,home,"[['26'], 'Saïd Benrahma']"
+2022,270,away,"[['17'], 'Ollie Watkins']"
+2022,271,home,"[['28'], 'Gabriel Martinelli']","[['43', '74'], 'Bukayo Saka']","[['55'], 'Granit Xhaka']"
+2022,271,away,"[['63'], 'Jeffrey Schlupp']"
+2022,272,home,"[['07'], 'Douglas Luiz']","[['80'], 'Jacob Ramsey']","[['89'], 'Emiliano Buendía']"
+2022,272,away
+2022,273,home,"[['32'], 'Mathias Jensen']"
+2022,273,away,"[['52'], 'Harvey Barnes']"
+2022,274,home,"[['90.09'], 'Alexis Mac Allister']"
+2022,274,away
+2022,275,home,"[['52'], 'João Félix']","[['76'], 'Kai Havertz']"
+2022,275,away,"[['69'], 'Abdoulaye Doucouré']","[['89'], 'Ellis Simms']"
+2022,276,home,"[['39'], 'Mohamed Salah']"
+2022,276,away
+2022,277,home,"[['49'], 'Nathan Aké']","[['70'], 'Erling Haaland']","[['85'], 'Phil Foden']"
+2022,277,away
+2022,278,home,"[['26'], 'Emmanuel Dennis']"
+2022,278,away,"[['45.02', '90.03'], 'Alexander Isak']"
+2022,279,home,"[['46'], 'Ché Adams']","[['77'], 'Theo Walcott']","[['90.03'], 'James Ward-Prowse']"
+2022,279,away,"[['45.01'], 'Pedro Porro']","[['65'], 'Harry Kane']","[['74'], 'Ivan Perisic']"
+2022,280,home,"[['65'], 'Jonny Otto']","[['73'], 'Matheus Cunha']"
+2022,280,away,"[['06'], 'Jack Harrison']","[['49'], 'Luke Ayling']","[['62'], 'Rasmus Kristensen']","[['90.07'], ' Rodrigo']"
+2022,281,home,"[['35', '55'], 'Gabriel Jesus']","[['47'], 'Ben White']","[['84'], 'Granit Xhaka']"
+2022,281,away,"[['76'], 'Rasmus Kristensen']"
+2022,282,home,"[['50'], 'Marcus Tavernier']","[['79'], 'Dominic Solanke']"
+2022,282,away,"[['16'], 'Andreas Pereira']"
+2022,283,home,"[['21'], 'Kaoru Mitoma']","[['28'], 'Danny Welbeck']","[['90'], 'Alexis Mac Allister']"
+2022,283,away,"[['10'], 'Pontus Jansson']","[['22'], 'Ivan Toney']","[['49'], 'Ethan Pinnock']"
+2022,284,home
+2022,284,away,"[['18'], 'Ollie Watkins']","[['56'], 'John McGinn']"
+2022,285,home,"[['59'], '!Daniel Iversen']","[['90.04'], 'Jean-Philippe Mateta']"
+2022,285,away,"[['56'], 'Ricardo Pereira']"
+2022,286,home,"[['90'], 'Michael Keane']"
+2022,286,away,"[['68'], 'Harry Kane']"
+2022,287,home,"[['27'], 'Julián Álvarez']","[['46'], 'Kevin De Bruyne']","[['53'], 'Ilkay Gündogan']","[['74'], 'Jack Grealish']"
+2022,287,away,"[['17'], 'Mohamed Salah']"
+2022,288,home,"[['65'], 'Joe Willock']","[['88'], 'Callum Wilson']"
+2022,288,away
+2022,289,home,"[['38'], 'Brennan Johnson']"
+2022,289,away,"[['83'], 'Daniel Podence']"
+2022,290,home,"[['25'], 'Nayef Aguerd']"
+2022,290,away
+2022,291,home,"[['48'], 'Bertrand Traoré']","[['90.05'], 'Ollie Watkins']"
+2022,291,away
+2022,292,home,"[['45.01'], 'Ivan Toney']"
+2022,292,away,"[['54'], '!David Raya']","[['61'], 'Alexander Isak']"
+2022,293,home
+2022,293,away,"[['23'], '!Harrison Reed']"
+2022,294,home,"[['21'], 'Patrick Bamford']"
+2022,294,away,"[['45.01'], 'Marc Guéhi']","[['53', '77'], 'Jordan Ayew']","[['55'], 'Eberechi Eze']","[['69'], 'Odsonne Édouard']"
+2022,295,home
+2022,295,away,"[['40'], 'Philip Billing']"
+2022,296,home,"[['42'], 'Mohamed Salah']","[['87'], 'Roberto Firmino']"
+2022,296,away,"[['08'], 'Gabriel Martinelli']","[['28'], 'Gabriel Jesus']"
+2022,297,home,"[['36'], 'Scott McTominay']","[['71'], 'Anthony Martial']"
+2022,297,away
+2022,298,home,"[['72'], 'Sékou Mara']"
+2022,298,away,"[['45', '68'], 'Erling Haaland']","[['58'], 'Jack Grealish']","[['75'], 'Julián Álvarez']"
+2022,299,home,"[['10'], 'Son Heung-Min']","[['79'], 'Harry Kane']"
+2022,299,away,"[['34'], 'Lewis Dunk']"
+2022,300,home,"[['31'], 'Matheus Nunes']"
+2022,300,away
+2022,301,home,"[['11'], 'Jacob Ramsey']","[['64', '83'], 'Ollie Watkins']"
+2022,301,away
+2022,302,home,"[['13'], 'Conor Gallagher']"
+2022,302,away,"[['42'], 'Danny Welbeck']","[['69'], 'Julio Enciso']"
+2022,303,home,"[['35'], 'Dwight McNeil']"
+2022,303,away,"[['22'], 'Harrison Reed']","[['51'], 'Harry Wilson']","[['68'], 'Daniel James']"
+2022,304,home,"[['47'], 'Luis Sinisterra']"
+2022,304,away,"[['35'], 'Cody Gakpo']","[['39', '64'], 'Mohamed Salah']","[['52', '73'], 'Diogo Jota']","[['90'], 'Darwin Núñez']"
+2022,305,home,"[['05'], 'John Stones']","[['13', '25'], 'Erling Haaland']"
+2022,305,away,"[['75'], 'Kelechi Iheanacho']"
+2022,306,home
+2022,306,away,"[['32'], ' Antony']","[['76'], 'Diogo Dalot']"
+2022,307,home
+2022,307,away,"[['54', '68'], 'Eberechi Eze']"
+2022,308,home,"[['14'], 'Son Heung-Min']","[['88'], 'Arnaut Danjuma']"
+2022,308,away,"[['38'], 'Matías Viña']","[['51'], 'Dominic Solanke']","[['90.05'], 'Dango Ouattara']"
+2022,309,home,"[['33'], 'Saïd Benrahma']","[['54'], 'Jarrod Bowen']"
+2022,309,away,"[['07'], 'Gabriel Jesus']","[['10'], 'Martin Ødegaard']"
+2022,310,home,"[['27'], 'Diego Costa']","[['69'], 'Hwang Hee-Chan']"
+2022,310,away
+2022,311,home,"[['20'], 'Gabriel Martinelli']","[['88'], 'Martin Ødegaard']","[['90'], 'Bukayo Saka']"
+2022,311,away,"[['01'], 'Carlos Alcaraz']","[['14'], 'Theo Walcott']","[['66'], 'Duje Caleta-Car']"
+2022,312,home
+2022,312,away,"[['05'], 'Michail Antonio']","[['12'], 'Lucas Paquetá']","[['43'], 'Declan Rice']","[['72'], 'Pablo Fornals']"
+2022,313,home,"[['65'], 'Ivan Toney']"
+2022,313,away,"[['87'], 'Douglas Luiz']"
+2022,314,home,"[['38'], 'Julio Enciso']"
+2022,314,away,"[['25'], 'Phil Foden']"
+2022,315,home
+2022,315,away
+2022,316,home,"[['58'], 'Harry Wilson']","[['72'], 'Andreas Pereira']"
+2022,316,away,"[['79'], '!João Palhinha']"
+2022,317,home,"[['37'], 'Kelechi Iheanacho']","[['75'], 'Timothy Castagne']"
+2022,317,away,"[['13'], 'Matheus Cunha']"
+2022,318,home,"[['47', '55'], 'Diogo Jota']","[['70'], 'Mohamed Salah']"
+2022,318,away,"[['51'], 'Neco Williams']","[['67'], 'Morgan Gibbs-White']"
+2022,319,home,"[['06'], ' Casemiro']","[['45.06'], 'Anthony Martial']","[['73'], 'Bruno Fernandes']","[['78'], 'Marcus Rashford']"
+2022,319,away,"[['89'], 'João Félix']"
+2022,320,home,"[['02', '09'], 'Jacob Murphy']","[['06'], ' Joelinton']","[['19', '21'], 'Alexander Isak']","[['67'], 'Callum Wilson']"
+2022,320,away,"[['49'], 'Harry Kane']"
+2022,321,home,"[['21'], 'Tyrone Mings']"
+2022,321,away
+2022,322,home,"[['80'], 'Dwight McNeil']"
+2022,322,away,"[['28', '75'], 'Callum Wilson']","[['72'], ' Joelinton']","[['81'], 'Jacob Murphy']"
+2022,323,home,"[['20'], 'Luis Sinisterra']"
+2022,323,away,"[['80'], 'Jamie Vardy']"
+2022,324,home,"[['45.03'], '!Pascal Groß']","[['69'], ' Danilo']","[['90.01'], 'Morgan Gibbs-White']"
+2022,324,away,"[['38'], 'Facundo Buonanotte']"
+2022,325,home,"[['56'], 'Pedro Porro']","[['79'], 'Son Heung-Min']"
+2022,325,away,"[['07'], 'Jadon Sancho']","[['44'], 'Marcus Rashford']"
+2022,326,home,"[['12'], 'Lucas Paquetá']"
+2022,326,away,"[['18'], 'Cody Gakpo']","[['67'], 'Joël Matip']"
+2022,327,home,"[['03'], '!Joachim Andersen']","[['90.04'], 'Rúben Neves']"
+2022,327,away
+2022,328,home
+2022,328,away,"[['37'], '!César Azpilicueta']","[['78'], 'Bryan Mbeumo']"
+2022,329,home,"[['07', '54'], 'Kevin De Bruyne']","[['45.01'], 'John Stones']","[['90.05'], 'Erling Haaland']"
+2022,329,away,"[['86'], 'Rob Holding']"
+2022,330,home
+2022,330,away,"[['50'], 'Marcus Tavernier']"
+2022,331,home,"[['18', '31'], 'Martin Ødegaard']","[['34'], 'Gabriel Jesus']"
+2022,331,away,"[['65'], 'Noni Madueke']"
+2022,332,home,"[['20', '24'], 'Jefferson Lerma']","[['63'], 'Dominic Solanke']","[['90.01'], 'Antoine Semenyo']"
+2022,332,away,"[['32'], 'Patrick Bamford']"
+2022,333,home,"[['82'], 'Ivan Toney']","[['90.04'], 'Josh Dasilva']"
+2022,333,away,"[['45.01'], ' Danilo']"
+2022,334,home,"[['06', '66'], 'Deniz Undav']","[['13', '26'], 'Pascal Groß']","[['39', '48'], 'Danny Welbeck']"
+2022,334,away
+2022,335,home,"[['15'], 'Jordan Ayew']","[['20'], 'Wilfried Zaha']","[['30'], 'Jeffrey Schlupp']","[['66'], 'Eberechi Eze']"
+2022,335,away,"[['09'], 'Tomás Soucek']","[['35'], 'Michail Antonio']","[['72'], 'Nayef Aguerd']"
+2022,336,home,"[['15'], 'Carlos Vinícius']"
+2022,336,away,"[['03'], 'Erling Haaland']","[['36'], 'Julián Álvarez']"
+2022,337,home,"[['22'], 'Çaglar Söyüncü']","[['33'], 'Jamie Vardy']"
+2022,337,away,"[['15'], 'Dominic Calvert-Lewin']","[['54'], 'Alex Iwobi']"
+2022,338,home,"[['03'], 'Curtis Jones']","[['05'], 'Luis Díaz']","[['15'], 'Mohamed Salah']","[['90.04'], 'Diogo Jota']"
+2022,338,away,"[['40'], 'Harry Kane']","[['77'], 'Son Heung-Min']","[['90.03'], ' Richarlison']"
+2022,339,home,"[['39'], 'Bruno Fernandes']"
+2022,339,away
+2022,340,home,"[['54', '81'], 'Callum Wilson']","[['79'], '!Theo Walcott']"
+2022,340,away,"[['41'], 'Stuart Armstrong']"
+2022,341,home,"[['21'], 'Matías Viña']"
+2022,341,away,"[['09'], 'Conor Gallagher']","[['82'], 'Benoît Badiashile']","[['86'], 'João Félix']"
+2022,342,home,"[['79'], 'Alexis Mac Allister']"
+2022,342,away,"[['01', '29'], 'Abdoulaye Doucouré']","[['35'], '!Jason Steele']","[['76', '90.06'], 'Dwight McNeil']"
+2022,343,home,"[['10', '70'], ' Willian']","[['18'], 'Carlos Vinícius']","[['44', '51'], 'Tom Cairney']"
+2022,343,away,"[['59', '89'], 'Harvey Barnes']","[['81'], 'James Maddison']"
+2022,344,home,"[['13'], 'Mohamed Salah']"
+2022,344,away
+2022,345,home,"[['19', '27'], 'Ilkay Gündogan']"
+2022,345,away,"[['85'], ' Rodrigo']"
+2022,346,home
+2022,346,away,"[['14'], 'Martin Ødegaard']","[['71'], '!Fabian Schär']"
+2022,347,home,"[['18', '21'], 'Taiwo Awoniyi']","[['44'], 'Morgan Gibbs-White']","[['73'], ' Danilo']"
+2022,347,away,"[['25'], 'Carlos Alcaraz']","[['51'], ' Lyanco']","[['90.06'], 'James Ward-Prowse']"
+2022,348,home,"[['45.01'], 'Harry Kane']"
+2022,348,away
+2022,349,home,"[['27'], 'Saïd Benrahma']"
+2022,349,away
+2022,350,home,"[['09'], ' Toti']"
+2022,350,away
+2022,351,home
+2022,351,away,"[['51'], 'Julio Enciso']","[['86'], 'Deniz Undav']","[['90.06'], 'Pervis Estupiñán']"
+2022,352,home,"[['08'], 'Jacob Ramsey']","[['72'], 'Douglas Luiz']"
+2022,352,away,"[['90'], 'Harry Kane']"
+2022,353,home,"[['20'], 'Bryan Mbeumo']","[['43'], 'Yoane Wissa']"
+2022,353,away
+2022,354,home,"[['51', '58'], 'Raheem Sterling']"
+2022,354,away,"[['13', '62'], 'Taiwo Awoniyi']"
+2022,355,home,"[['39', '58'], 'Eberechi Eze']"
+2022,355,away
+2022,356,home
+2022,356,away,"[['37', '51'], 'Ilkay Gündogan']","[['39'], 'Erling Haaland']"
+2022,357,home,"[['07'], 'Luke Ayling']","[['79'], 'Rasmus Kristensen']"
+2022,357,away,"[['31', '69'], 'Callum Wilson']"
+2022,358,home
+2022,358,away,"[['33', '36'], 'Curtis Jones']","[['71'], 'Trent Alexander-Arnold']"
+2022,359,home,"[['32'], 'Anthony Martial']","[['90.04'], 'Alejandro Garnacho']"
+2022,359,away
+2022,360,home
+2022,360,away,"[['48'], 'Carlos Vinícius']","[['72'], 'Aleksandar Mitrovic']"
+2022,361,home
+2022,361,away,"[['09'], ' Casemiro']"
+2022,362,home,"[['29', '40'], 'Evan Ferguson']","[['69'], 'Pascal Groß']"
+2022,362,away,"[['58'], 'Mohamed Elyounoussi']"
+2022,363,home,"[['45.05', '61'], 'Aleksandar Mitrovic']"
+2022,363,away,"[['34'], 'Odsonne Édouard']","[['83'], 'Joel Ward']"
+2022,364,home,"[['89'], 'Roberto Firmino']"
+2022,364,away,"[['27'], 'Jacob Ramsey']"
+2022,365,home,"[['12'], 'Julián Álvarez']"
+2022,365,away
+2022,366,home
+2022,366,away
+2022,367,home,"[['19'], 'Taiwo Awoniyi']"
+2022,367,away
+2022,368,home,"[['08'], 'Harry Kane']"
+2022,368,away,"[['50', '62'], 'Bryan Mbeumo']","[['88'], 'Yoane Wissa']"
+2022,369,home,"[['32'], 'Declan Rice']","[['72'], 'Jarrod Bowen']","[['90.04'], 'Manuel Lanzini']"
+2022,369,away,"[['17'], ' Rodrigo']"
+2022,370,home,"[['34'], 'Hwang Hee-Chan']"
+2022,370,away,"[['90.09'], 'Yerry Mina']"
+2022,371,home,"[['11', '14'], 'Granit Xhaka']","[['27'], 'Bukayo Saka']","[['58'], 'Gabriel Jesus']","[['78'], 'Jakub Kiwior']"
+2022,371,away
+2022,372,home,"[['08'], 'Douglas Luiz']","[['26'], 'Ollie Watkins']"
+2022,372,away,"[['38'], 'Deniz Undav']"
+2022,373,home,"[['85'], 'Ethan Pinnock']"
+2022,373,away
+2022,374,home,"[['27'], '!Kieran Trippier']"
+2022,374,away,"[['09'], 'Anthony Gordon']"
+2022,375,home,"[['66'], 'Will Hughes']"
+2022,375,away,"[['31'], 'Taiwo Awoniyi']"
+2022,376,home,"[['57'], 'Abdoulaye Doucouré']"
+2022,376,away
+2022,377,home,"[['67'], 'Jack Harrison']"
+2022,377,away,"[['02', '69'], 'Harry Kane']","[['47'], 'Pedro Porro']","[['90.05'], 'Lucas Moura']"
+2022,378,home,"[['34'], 'Harvey Barnes']","[['62'], 'Wout Faes']"
+2022,378,away,"[['79'], 'Pablo Fornals']"
+2022,379,home,"[['39'], 'Jadon Sancho']","[['55'], 'Bruno Fernandes']"
+2022,379,away,"[['19'], 'Kenny Tete']"
+2022,380,home,"[['19'], 'James Ward-Prowse']","[['28', '48'], 'Kamaldeen Sulemana']","[['64'], 'Adam Armstrong']"
+2022,380,away,"[['10', '73'], 'Diogo Jota']","[['14'], 'Roberto Firmino']","[['72'], 'Cody Gakpo']"

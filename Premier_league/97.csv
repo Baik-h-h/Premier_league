@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+1997,1,home,"[['09'], 'Neil Redfearn']"
+1997,1,away,"[['53'], 'John Hartson']","[['76'], 'Frank Lampard']"
+1997,2,home,"[['20'], 'Kevin Gallacher']"
+1997,2,away
+1997,3,home,"[['41', '83', '88'], 'Dion Dublin']"
+1997,3,away,"[['40'], 'Frank Sinclair']","[['71'], 'Tore Andre Flo']"
+1997,4,home,"[['85'], 'Duncan Ferguson']"
+1997,4,away,"[['36'], 'Attilio Lombardo']","[['77'], 'Bruce Dyer']"
+1997,5,home,"[['42'], 'Jimmy Floyd Hasselbaink']"
+1997,5,away,"[['35'], 'Ian Wright']"
+1997,6,home,"[['37'], 'Ian Marshall']"
+1997,6,away
+1997,7,home,"[['02', '72'], 'Faustino Asprilla']"
+1997,7,away,"[['08'], 'Benito Carbone']"
+1997,8,home
+1997,8,away,"[['43'], 'Nathan Blake']"
+1997,9,home,"[['56'], 'Marcus Gayle']"
+1997,9,away,"[['72'], 'Michael Owen']"
+1997,10,home
+1997,10,away,"[['82'], 'Nicky Butt']","[['83'], '!Ramon Vega']"
+1997,11,home,"[['27', '49'], 'Ian Wright']"
+1997,11,away
+1997,12,home
+1997,12,away,"[['56'], 'Neil Redfearn']"
+1997,13,home
+1997,13,away,"[['21', '25', '41'], 'Chris Sutton']","[['71'], 'Kevin Gallacher']"
+1997,14,home,"[['85'], 'Paul Ince']"
+1997,14,away,"[['01'], 'Matt Elliott']","[['83'], 'Graham Fenton']"
+1997,15,home,"[['78'], 'David Beckham']"
+1997,15,away
+1997,16,home,"[['70'], 'Graham Hyde']"
+1997,16,away,"[['07', '62'], 'Rod Wallace']","[['36'], 'Bruno Ribeiro']"
+1997,17,home,"[['04'], 'John Hartson']","[['70'], 'Eyal Berkovic']"
+1997,17,away,"[['83'], 'Les Ferdinand']"
+1997,18,home,"[['84'], 'Martin Dahlin']"
+1997,18,away,"[['52'], 'Michael Owen']"
+1997,19,home,"[['08'], 'Paul Telfer']","[['20'], 'Darren Huckerby']"
+1997,19,away,"[['69', '76'], 'Nathan Blake']"
+1997,20,home,"[['67'], 'Gary Speed']","[['83'], 'Graham Stuart']"
+1997,20,away,"[['23'], '!Dave Watson']"
+1997,21,home
+1997,21,away,"[['22'], 'Paul Warhurst']","[['51'], 'Attilio Lombardo']"
+1997,22,home
+1997,22,away
+1997,23,home,"[['13'], 'John Beresford']"
+1997,23,away
+1997,24,home,"[['25'], 'Neil Maddison']"
+1997,24,away,"[['20'], 'Marc Overmars']","[['57', '79'], 'Dennis Bergkamp']"
+1997,25,home,"[['45'], 'Colin Calderwood']"
+1997,25,away
+1997,26,home,"[['17'], 'Jason Euell']"
+1997,26,away,"[['75'], 'Paolo Di Canio']"
+1997,27,home
+1997,27,away,"[['25'], 'Dan Petrescu']","[['38'], 'Gustavo Poyet']","[['43', '57', '64', '82'], 'Gianluca Vialli']"
+1997,28,home,"[['03', '07'], 'Kevin Gallacher']","[['10'], '!Graham Hyde']","[['20'], 'Jason Wilcox']","[['24', '74'], 'Chris Sutton']","[['53'], 'Lars Bohinen']"
+1997,28,away,"[['08', '47'], 'Benito Carbone']"
+1997,29,home
+1997,29,away,"[['23'], 'Steve McManaman']","[['75'], 'Karl-Heinz Riedle']"
+1997,30,home,"[['12'], 'Eric Tinkler']","[['47'], 'Georgi Hristov']"
+1997,30,away,"[['31'], 'Peter Beardsley']"
+1997,31,home,"[['38'], 'Darren Huckerby']"
+1997,31,away,"[['64'], 'Paul Kitson']"
+1997,32,home
+1997,32,away,"[['29'], 'David Beckham']","[['51'], 'Teddy Sheringham']"
+1997,33,home,"[['84'], 'Emile Heskey']","[['90'], 'Steve Walsh']","[['90'], 'Matt Elliott']"
+1997,33,away,"[['09', '61', '90'], 'Dennis Bergkamp']"
+1997,34,home,"[['57'], 'Kevin Davies']"
+1997,34,away
+1997,35,home,"[['06', '66'], 'Les Ferdinand']","[['77'], 'Ruel Fox']"
+1997,35,away,"[['27'], 'Dwight Yorke']","[['58'], 'Stan Collymore']"
+1997,36,home
+1997,36,away,"[['60'], 'Roberto Di Matteo']","[['64'], 'Dan Petrescu']"
+1997,37,home
+1997,37,away
+1997,38,home,"[['67'], 'Dwight Yorke']"
+1997,38,away
+1997,39,home,"[['07'], 'Dan Petrescu']","[['28'], 'Frank Leboeuf']","[['31'], 'Mark Hughes']","[['34'], 'Dennis Wise']"
+1997,39,away,"[['25'], 'Kevin Davies']","[['59'], 'Kenneth Monkou']"
+1997,40,home,"[['51'], 'Bruce Dyer']"
+1997,40,away,"[['23'], 'Chris Sutton']","[['31'], 'Kevin Gallacher']"
+1997,41,home,"[['43'], 'Stefano Eranio']"
+1997,41,away
+1997,42,home,"[['02'], 'Andrew Cole']","[['72'], 'Roy Keane']","[['90'], 'Karel Poborsky']"
+1997,42,away
+1997,43,home,"[['56'], 'Benito Carbone']"
+1997,43,away
+1997,44,home,"[['48'], 'John Hartson']","[['54'], 'Marc Rieper']","[['55'], 'Eyal Berkovic']"
+1997,44,away,"[['81'], 'Efan Ekoku']"
+1997,45,home
+1997,45,away
+1997,46,home,"[['20', '25', '81'], 'Ian Wright']","[['44'], 'Ray Parlour']"
+1997,46,away,"[['13'], 'Alan Thompson']"
+1997,47,home
+1997,47,away,"[['25'], 'Ugo Ehiogu']","[['50'], 'Mark Draper']","[['72'], 'Ian Taylor']"
+1997,48,home,"[['65'], 'Trond Egil Soltvedt']"
+1997,48,away
+1997,49,home
+1997,49,away,"[['20'], 'Mark Hughes']","[['26'], 'Frank Leboeuf']","[['90'], 'Graeme Le Saux']"
+1997,50,home,"[['23'], 'Jonathan Hunt']","[['33'], 'Chris Powell']","[['66'], 'Dean Sturridge']"
+1997,50,away,"[['28'], 'Graham Stuart']"
+1997,51,home,"[['55'], 'Steve Walsh']","[['68'], 'Steve Guppy']","[['77'], 'Emile Heskey']"
+1997,51,away
+1997,52,home,"[['55'], 'Paul Ince']","[['68'], 'Michael Thomas']"
+1997,52,away,"[['80'], 'Wayne Collins']"
+1997,53,home,"[['21'], 'Roy Keane']","[['76'], 'Paul Scholes']"
+1997,53,away,"[['14'], 'John Hartson']"
+1997,54,home,"[['32'], 'Warren Barton']"
+1997,54,away,"[['02'], 'Carl Cort']","[['59'], 'Chris Perry']","[['76'], 'Efan Ekoku']"
+1997,55,home,"[['08'], 'Kevin Gallacher']","[['16'], 'Chris Sutton']","[['33'], 'Martin Dahlin']"
+1997,55,away,"[['03', '17'], 'Rod Wallace']","[['06'], 'Robert Molenaar']","[['23'], 'David Hopkin']"
+1997,56,home,"[['73'], 'Dwight Yorke']","[['75'], 'Julian Joachim']"
+1997,56,away,"[['15'], 'Francesco Baiano']"
+1997,57,home
+1997,57,away
+1997,58,home,"[['12', '77'], 'Gary Speed']","[['42'], 'Danny Cadamarteri']","[['84'], 'John Oster']"
+1997,58,away,"[['32'], 'Neil Redfearn']","[['78'], 'Darren Barnard']"
+1997,59,home
+1997,59,away,"[['32'], 'Steve Walsh']"
+1997,60,home
+1997,60,away
+1997,61,home,"[['48'], 'Kevin Davies']"
+1997,61,away,"[['37'], 'Karl-Heinz Riedle']"
+1997,62,home
+1997,62,away
+1997,63,home
+1997,63,away,"[['44'], 'John Barnes']"
+1997,64,home
+1997,64,away,"[['80'], 'Attilio Lombardo']"
+1997,65,home,"[['40'], 'Gustavo Poyet']","[['60'], 'Gianfranco Zola']"
+1997,65,away,"[['45', '59'], 'Dennis Bergkamp']","[['89'], 'Nigel Winterburn']"
+1997,66,home,"[['56'], 'Robbie Fowler']","[['79'], 'Steve McManaman']","[['90'], 'Karl-Heinz Riedle']"
+1997,66,away
+1997,67,home,"[['20'], 'Alan Thompson']"
+1997,67,away,"[['71'], 'Chris Armstrong']"
+1997,68,home,"[['49'], 'Carl Cort']","[['65'], 'Robbie Earle']","[['68'], 'Ceri Hughes']","[['84'], 'Efan Ekoku']"
+1997,68,away,"[['41'], 'Eric Tinkler']"
+1997,69,home,"[['12'], 'Dennis Bergkamp']","[['39', '45'], 'Marc Overmars']","[['42'], 'Ian Wright']"
+1997,69,away
+1997,70,home,"[['08'], 'Dion Dublin']"
+1997,70,away,"[['09'], 'Jamie Fullarton']"
+1997,71,home,"[['43'], 'Muzzy Izzet']"
+1997,71,away,"[['36'], 'Chris Sutton']"
+1997,72,home,"[['36'], 'Paul Scholes']","[['86'], 'Ole Gunnar Solskjaer']"
+1997,72,away,"[['25'], '!Henning Berg']","[['68'], 'Mark Hughes']"
+1997,73,home,"[['87'], 'Robert Lee']"
+1997,73,away
+1997,74,home,"[['05'], 'Paolo Di Canio']","[['12'], 'Benito Carbone']"
+1997,74,away,"[['07', '48'], 'Francesco Baiano']","[['26'], 'Jacob Laursen']","[['33'], 'Paulo Wanchope']","[['75'], 'Deon Burton']"
+1997,75,home
+1997,75,away,"[['36'], 'Robert Molenaar']","[['55'], 'Rod Wallace']"
+1997,76,home,"[['32'], 'Steve Staunton']","[['49'], 'Ian Taylor']"
+1997,76,away,"[['26'], 'Wayne Collins']","[['42'], 'Guy Whittingham']"
+1997,77,home
+1997,77,away,"[['55'], 'Ian Marshall']","[['63'], 'Graham Fenton']"
+1997,78,home,"[['75'], 'Gustavo Poyet']"
+1997,78,away
+1997,79,home,"[['09'], 'Paul Warhurst']","[['19'], 'Dean Gordon']"
+1997,79,away,"[['36'], 'Peter Beardsley']","[['66'], 'Michael Johansen']"
+1997,80,home,"[['76'], 'Stefano Eranio']","[['79'], 'Paulo Wanchope']","[['82'], 'Francesco Baiano']","[['83'], 'Lee Carsley']"
+1997,80,away
+1997,81,home,"[['49'], 'Michael Ball']","[['56'], 'Danny Cadamarteri']"
+1997,81,away,"[['32'], 'Ian Wright']","[['41'], 'Marc Overmars']"
+1997,82,home,"[['34'], 'David Wetherall']"
+1997,82,away
+1997,83,home
+1997,83,away
+1997,84,home,"[['16'], 'John Hartson']","[['65'], 'Eyal Berkovic']"
+1997,84,away,"[['52'], 'Robbie Fowler']"
+1997,85,home
+1997,85,away
+1997,86,home,"[['25', '32'], 'Dennis Bergkamp']","[['45'], 'Ray Parlour']","[['63'], 'David Platt']","[['76'], 'Ian Wright']"
+1997,86,away
+1997,87,home
+1997,87,away,"[['12'], 'Savo Milosevic']"
+1997,88,home
+1997,88,away
+1997,89,home,"[['17'], 'Teddy Sheringham']","[['30'], '!Hermann Hreidarsson']"
+1997,89,away
+1997,90,home,"[['89'], 'Warren Barton']"
+1997,90,away
+1997,91,home,"[['78', '82'], 'Benito Carbone']","[['89'], 'Paolo Di Canio']"
+1997,91,away,"[['84'], 'Danny Cadamarteri']"
+1997,92,home,"[['54'], 'Egil Ostenstad']","[['65'], 'Kevin Davies']","[['68'], 'Jason Dodd']"
+1997,92,away
+1997,93,home
+1997,93,away,"[['06'], 'Chris Sutton']"
+1997,94,home,"[['20', '35', '57'], 'Patrik Berger']","[['64'], 'Robbie Fowler']"
+1997,94,away,"[['22'], 'Gianfranco Zola']","[['85'], 'Gustavo Poyet']"
+1997,95,home,"[['67'], 'Matt Elliott']"
+1997,95,away,"[['20', '61'], 'Francesco Baiano']"
+1997,96,home,"[['45'], 'Ian Taylor']"
+1997,96,away,"[['39'], 'Robbie Earle']","[['61'], 'Carl Cort']"
+1997,97,home,"[['26'], 'Tim Sherwood']"
+1997,97,away
+1997,98,home,"[['88'], 'Frank Leboeuf']"
+1997,98,away
+1997,99,home
+1997,99,away
+1997,100,home,"[['24'], 'Francesco Baiano']","[['39'], 'Paulo Wanchope']"
+1997,100,away,"[['51'], 'Teddy Sheringham']","[['84'], 'Andrew Cole']"
+1997,101,home,"[['45'], '!Neil Ruddock']","[['75'], 'Danny Cadamarteri']"
+1997,101,away
+1997,102,home,"[['30'], 'Bruno Ribeiro']","[['38'], 'Harry Kewell']","[['43'], '!John Beresford']","[['47'], 'David Wetherall']"
+1997,102,away,"[['62'], 'Keith Gillespie']"
+1997,103,home,"[['67'], 'Eyal Berkovic']","[['77', '90'], 'John Hartson']"
+1997,103,away
+1997,104,home,"[['06'], 'José Dominguez']","[['40'], 'Chris Armstrong']","[['45'], 'David Ginola']"
+1997,104,away,"[['72'], 'Wayne Collins']","[['85'], 'Paolo Di Canio']"
+1997,105,home,"[['11'], 'Ashley Ward']","[['66'], 'Neil Redfearn']"
+1997,105,away
+1997,106,home,"[['53'], 'Francesco Baiano']"
+1997,106,away,"[['70'], '!Christian Dailly']"
+1997,107,home
+1997,107,away
+1997,108,home,"[['27', '84'], 'Robbie Fowler']","[['65'], 'Oyvind Leonhardsen']","[['88'], 'Steve McManaman']"
+1997,108,away
+1997,109,home,"[['17', '19', '45'], 'Andrew Cole']","[['43', '56'], 'Ryan Giggs']","[['59'], 'Paul Scholes']","[['80'], 'Karel Poborsky']"
+1997,109,away
+1997,110,home,"[['27'], 'Keith Gillespie']"
+1997,110,away,"[['59'], 'Chris Sutton']"
+1997,111,home,"[['57'], 'Wayne Collins']"
+1997,111,away,"[['27'], 'Hermann Hreidarsson']","[['52'], 'Simon Rodger']","[['60'], 'Neil Shipperley']"
+1997,112,home,"[['54'], '!Sol Campbell']","[['67', '80'], 'David Hirst']"
+1997,112,away,"[['42'], 'José Dominguez']","[['65'], 'David Ginola']"
+1997,113,home,"[['29'], 'Neal Ardley']"
+1997,113,away
+1997,114,home
+1997,114,away
+1997,115,home,"[['72'], 'Dean Holdsworth']"
+1997,115,away
+1997,116,home,"[['16'], 'Emile Heskey']","[['82'], 'Ian Marshall']"
+1997,116,away,"[['58'], 'Eyal Berkovic']"
+1997,117,home
+1997,117,away,"[['38'], 'Mark Hughes']","[['82'], 'Tore Andre Flo']"
+1997,118,home,"[['79'], 'Jovo Bosancic']"
+1997,118,away,"[['30'], 'Tim Sherwood']"
+1997,119,home,"[['84'], 'Nathan Blake']"
+1997,119,away,"[['01'], 'Robbie Fowler']"
+1997,120,home,"[['46', '65'], 'Paulo Wanchope']","[['82'], 'Dean Sturridge']"
+1997,120,away
+1997,121,home,"[['13', '63'], 'Teddy Sheringham']","[['20'], '!Jon Newsome']","[['38'], 'Andrew Cole']","[['41', '75'], 'Ole Gunnar Solskjaer']"
+1997,121,away,"[['69'], 'Guy Whittingham']"
+1997,122,home,"[['04'], 'John Barnes']","[['45'], 'Jon Dahl Tomasson']","[['90'], 'John Beresford']"
+1997,122,away,"[['12', '32'], 'Ian Marshall']","[['54'], 'Matt Elliott']"
+1997,123,home
+1997,123,away,"[['20'], 'Rod Wallace']"
+1997,124,home,"[['28'], 'Carl Cort']"
+1997,124,away,"[['17'], 'Darren Huckerby']","[['22'], 'Dion Dublin']"
+1997,125,home
+1997,125,away,"[['24'], 'Matthew Le Tissier']","[['54'], 'Kevin Davies']"
+1997,126,home,"[['37'], 'Kevin Gallacher']","[['81'], 'Damien Duff']","[['84'], 'Tim Sherwood']"
+1997,126,away,"[['07'], 'Gary Speed']","[['55'], 'Duncan Ferguson']"
+1997,127,home,"[['04', '82'], 'Dion Dublin']"
+1997,127,away,"[['31'], 'John Barnes']","[['87'], 'Robert Lee']"
+1997,128,home,"[['42'], 'Neil Shipperley']"
+1997,128,away,"[['86'], 'Julian Joachim']"
+1997,129,home,"[['37'], 'Rod Wallace']","[['40'], 'Harry Kewell']","[['82'], 'Jimmy Floyd Hasselbaink']","[['90'], 'Lee Bowyer']"
+1997,129,away,"[['04', '11'], 'Dean Sturridge']","[['33'], 'Aljosa Asanovic']"
+1997,130,home,"[['48'], 'Steve McManaman']","[['50'], 'Oyvind Leonhardsen']","[['65'], 'Jamie Redknapp']","[['86'], 'Michael Owen']"
+1997,130,away
+1997,131,home,"[['20'], 'Paolo Di Canio']","[['26'], 'Guy Whittingham']","[['29', '33', '44'], 'Andy Booth']"
+1997,131,away
+1997,132,home,"[['03'], 'Matthew Le Tissier']","[['05'], 'Carlton Palmer']","[['35'], 'Kevin Davies']","[['54'], 'David Hirst']"
+1997,132,away,"[['37'], 'Jovo Bosancic']"
+1997,133,home,"[['09'], 'Nicolas Anelka']","[['27'], 'Patrick Vieira']","[['83'], 'David Platt']"
+1997,133,away,"[['33', '41'], 'Teddy Sheringham']"
+1997,134,home,"[['57'], '!Rio Ferdinand']","[['83'], 'Gianfranco Zola']"
+1997,134,away,"[['85'], 'John Hartson']"
+1997,135,home
+1997,135,away,"[['50'], 'Marcus Gayle']"
+1997,136,home,"[['36'], 'Savo Milosevic']","[['56'], 'Ugo Ehiogu']"
+1997,136,away,"[['12'], 'Gary Speed']"
+1997,137,home,"[['11'], 'Gary Croft']"
+1997,137,away
+1997,138,home,"[['03'], 'Francesco Baiano']","[['30'], 'Stefano Eranio']","[['39'], 'Paulo Wanchope']"
+1997,138,away,"[['71'], 'Darren Huckerby']"
+1997,139,home
+1997,139,away
+1997,140,home
+1997,140,away,"[['35'], 'Ashley Ward']"
+1997,141,home,"[['55', '75'], 'John Barnes']"
+1997,141,away,"[['05'], 'Kevin Davies']"
+1997,142,home,"[['42'], 'Andy Booth']","[['86'], 'Guy Whittingham']"
+1997,142,away
+1997,143,home,"[['70'], 'Neal Ardley']","[['72'], 'Michael Hughes']"
+1997,143,away,"[['48'], 'Nicky Butt']","[['66', '76'], 'David Beckham']","[['81'], 'Paul Scholes']","[['87'], 'Andrew Cole']"
+1997,144,home,"[['76', '90'], 'Jimmy Floyd Hasselbaink']","[['88'], 'Alf Inge Haaland']"
+1997,144,away,"[['64'], 'Frank Lampard']"
+1997,145,home
+1997,145,away,"[['57'], 'Neil Shipperley']"
+1997,146,home,"[['80'], 'Dennis Wise']","[['90'], 'Gianfranco Zola']"
+1997,146,away
+1997,147,home,"[['08'], 'Andy Liddell']","[['28'], 'Ashley Ward']"
+1997,147,away,"[['35'], 'Alf Inge Haaland']","[['79'], 'Rod Wallace']","[['82'], 'Derek Lilley']"
+1997,148,home,"[['89'], 'Nathan Blake']"
+1997,148,away
+1997,149,home,"[['12', '66', '77'], 'Gianfranco Zola']","[['35'], 'Mark Hughes']"
+1997,149,away
+1997,150,home
+1997,150,away,"[['32'], 'Graham Fenton']","[['75'], 'Matt Elliott']"
+1997,151,home,"[['67'], 'Neil Shipperley']"
+1997,151,away,"[['32'], 'Temuri Ketsbaia']","[['63'], 'Jon Dahl Tomasson']"
+1997,152,home
+1997,152,away,"[['72'], 'Ramon Vega']","[['76'], 'David Ginola']"
+1997,153,home,"[['48'], 'David Hirst']","[['55'], 'Carlton Palmer']"
+1997,153,away,"[['28'], 'Peter Atherton']","[['69'], 'Wayne Collins']","[['84'], 'Paolo Di Canio']"
+1997,154,home,"[['19', '47'], 'John Hartson']"
+1997,154,away,"[['46'], 'Dwight Yorke']"
+1997,155,home
+1997,155,away,"[['58'], 'Steve McManaman']"
+1997,156,home,"[['18', '53'], 'Ole Gunnar Solskjaer']","[['60'], '!Stéphane Henchoz']","[['85'], '!Jeff Kenna']"
+1997,156,away
+1997,157,home,"[['22'], 'Nathan Blake']"
+1997,157,away
+1997,158,home,"[['31'], 'John Hartson']","[['45'], 'Eyal Berkovic']","[['48'], 'David Unsworth']","[['71'], 'Steve Lomas']"
+1997,158,away,"[['42'], 'Neil Shipperley']"
+1997,159,home,"[['21'], 'Stan Collymore']","[['71'], 'Lee Hendrie']","[['85'], 'Julian Joachim']"
+1997,159,away
+1997,160,home,"[['04'], 'Kevin Gallacher']","[['21'], 'Chris Sutton']","[['90'], 'Jason Wilcox']"
+1997,160,away,"[['84'], 'Per Frandsen']"
+1997,161,home,"[['10'], '!Ludek Miklosko']","[['49'], 'Dean Sturridge']"
+1997,161,away
+1997,162,home
+1997,162,away
+1997,163,home,"[['90'], 'Muzzy Izzet']"
+1997,163,away,"[['43'], 'Michele Padovano']"
+1997,164,home,"[['60'], 'Robbie Fowler']"
+1997,164,away,"[['51', '74'], 'Andrew Cole']","[['70'], 'David Beckham']"
+1997,165,home
+1997,165,away,"[['36'], 'Ian Wright']"
+1997,166,home,"[['43'], 'Ramon Vega']"
+1997,166,away,"[['40', '63', '85'], 'Tore Andre Flo']","[['48'], 'Roberto Di Matteo']","[['59'], 'Dan Petrescu']","[['78'], 'Mark Nicholls']"
+1997,167,home,"[['17'], 'Robbie Earle']"
+1997,167,away
+1997,168,home,"[['19'], 'Dejan Stefanovic']","[['89'], 'Paolo Di Canio']"
+1997,168,away,"[['29'], 'Neil Redfearn']"
+1997,169,home,"[['18'], 'Marc Overmars']"
+1997,169,away,"[['57'], 'Jason Wilcox']","[['65'], 'Kevin Gallacher']","[['90'], 'Tim Sherwood']"
+1997,170,home,"[['09'], 'Neil Redfearn']","[['75'], 'John Hendrie']"
+1997,170,away,"[['44', '49'], 'Keith Gillespie']"
+1997,171,home
+1997,171,away
+1997,172,home,"[['42', '84'], 'Darren Huckerby']","[['63'], 'Gary Breen']","[['87'], 'Marcus Hall']"
+1997,172,away
+1997,173,home
+1997,173,away,"[['39'], 'Steve McManaman']","[['55'], 'Michael Owen']","[['61'], 'Oyvind Leonhardsen']"
+1997,174,home
+1997,174,away
+1997,175,home,"[['01'], 'Matthew Le Tissier']","[['53'], 'Francis Benali']"
+1997,175,away,"[['84'], 'Robbie Savage']"
+1997,176,home,"[['69'], 'Paul Kitson']"
+1997,176,away
+1997,177,home,"[['50'], 'Alan Thompson']","[['73'], 'Nathan Blake']","[['77'], 'Jamie Pollock']"
+1997,177,away,"[['55'], 'Stefano Eranio']","[['64', '69'], 'Francesco Baiano']"
+1997,178,home,"[['52'], 'Ryan Giggs']"
+1997,178,away
+1997,179,home
+1997,179,away
+1997,180,home,"[['64'], 'Ian Taylor']"
+1997,180,away,"[['72'], 'Egil Ostenstad']"
+1997,181,home,"[['22'], 'Stuart Ripley']","[['51', '72'], 'Damien Duff']"
+1997,181,away
+1997,182,home
+1997,182,away
+1997,183,home,"[['68'], 'Bruno Ribeiro']","[['81'], 'Jimmy Floyd Hasselbaink']"
+1997,183,away
+1997,184,home
+1997,184,away,"[['89'], 'Gary Speed']"
+1997,185,home,"[['14'], 'Michael Owen']"
+1997,185,away
+1997,186,home,"[['71'], 'Mark Pembridge']"
+1997,186,away,"[['30'], 'Dan Petrescu']","[['56'], 'Gianluca Vialli']","[['65'], 'Frank Leboeuf']","[['84'], 'Tore Andre Flo']"
+1997,187,home,"[['06'], 'Allan Nielsen']","[['12', '18'], 'David Ginola']"
+1997,187,away
+1997,188,home
+1997,188,away,"[['56'], 'Andrew Cole']"
+1997,189,home,"[['36'], 'David Platt']","[['56'], '!Steve Walsh']"
+1997,189,away,"[['77'], 'Neil Lennon']"
+1997,190,home,"[['38', '68'], 'Mark Draper']","[['81', '89'], 'Stan Collymore']"
+1997,190,away,"[['59'], 'Colin Calderwood']"
+1997,191,home,"[['38'], 'Gudni Bergsson']"
+1997,191,away,"[['20'], 'Georgi Hristov']"
+1997,192,home,"[['08'], 'Gianluca Vialli']"
+1997,192,away,"[['28'], 'Michael Hughes']"
+1997,193,home,"[['62'], 'Neil Shipperley']"
+1997,193,away,"[['39'], 'Matt Oakley']"
+1997,194,home,"[['04'], 'Stefano Eranio']"
+1997,194,away
+1997,195,home,"[['46'], 'Michael Owen']","[['79', '83'], 'Robbie Fowler']"
+1997,195,away,"[['84'], 'Alf Inge Haaland']"
+1997,196,home,"[['14'], 'Henning Berg']","[['35'], 'Andrew Cole']"
+1997,196,away
+1997,197,home
+1997,197,away
+1997,198,home,"[['17'], 'Paul Kitson']"
+1997,198,away
+1997,199,home,"[['67'], 'Ashley Ward']"
+1997,199,away
+1997,200,home,"[['27'], 'Kevin Gallacher']","[['78'], 'Chris Sutton']"
+1997,200,away,"[['12'], 'Bruce Dyer']","[['48'], 'Paul Warhurst']"
+1997,201,home,"[['12'], 'Noel Whelan']","[['86'], 'Dion Dublin']","[['88'], 'Darren Huckerby']"
+1997,201,away,"[['30'], 'Ole Gunnar Solskjaer']","[['47'], 'Teddy Sheringham']"
+1997,202,home,"[['17', '41', '67'], 'Duncan Ferguson']"
+1997,202,away,"[['42'], 'Gudni Bergsson']","[['43'], 'Scott Sellars']"
+1997,203,home,"[['79'], 'Jimmy Floyd Hasselbaink']"
+1997,203,away,"[['85'], 'Savo Milosevic']"
+1997,204,home,"[['28'], 'Steve Guppy']"
+1997,204,away,"[['85'], 'Andy Booth']"
+1997,205,home,"[['16'], 'Steve Watson']"
+1997,205,away,"[['31', '43'], 'Steve McManaman']"
+1997,206,home,"[['28'], 'Allan Nielsen']"
+1997,206,away,"[['62'], 'Ray Parlour']"
+1997,207,home,"[['90'], 'Stale Solbakken']"
+1997,207,away,"[['31'], '!Alan Kimble']","[['54'], 'Paul Kitson']"
+1997,208,home,"[['16'], 'Kevin Davies']"
+1997,208,away
+1997,209,home,"[['60', '72'], 'Marc Overmars']"
+1997,209,away,"[['69'], 'Jimmy Floyd Hasselbaink']"
+1997,210,home,"[['87'], 'Julian Joachim']"
+1997,210,away,"[['53'], 'Garry Parker']"
+1997,211,home
+1997,211,away
+1997,212,home,"[['65', '70'], 'Mark Nicholls']","[['78'], 'Roberto Di Matteo']"
+1997,212,away,"[['30'], 'Paul Telfer']"
+1997,213,home,"[['17'], 'Bruce Dyer']"
+1997,213,away,"[['03'], 'Nick Barmby']","[['12'], 'Duncan Ferguson']","[['34'], 'Mickaël Madar']"
+1997,214,home,"[['71', '84'], 'Jamie Redknapp']"
+1997,214,away
+1997,215,home,"[['44', '67'], 'Ryan Giggs']"
+1997,215,away
+1997,216,home,"[['01'], 'Paolo Di Canio']","[['51'], 'Jon Newsome']"
+1997,216,away,"[['20'], 'Jon Dahl Tomasson']"
+1997,217,home,"[['05'], 'Frank Lampard']","[['31', '52'], 'Samassi Abou']","[['57'], 'John Moncur']","[['67'], 'John Hartson']","[['90'], 'Stan Lazaridis']"
+1997,217,away
+1997,218,home,"[['15', '41'], 'Dean Sturridge']","[['88'], 'Paulo Wanchope']"
+1997,218,away,"[['87'], 'Chris Sutton']"
+1997,219,home,"[['26'], 'Ashley Ward']"
+1997,219,away
+1997,220,home,"[['21'], 'Tim Sherwood']","[['29', '54', '68'], 'Kevin Gallacher']","[['81'], 'Stuart Ripley']"
+1997,220,away
+1997,221,home,"[['21'], 'Noel Whelan']","[['66'], 'Dion Dublin']"
+1997,221,away,"[['50'], 'Dennis Bergkamp']","[['57'], 'Nicolas Anelka']"
+1997,222,home,"[['63'], '!Mark Pembridge']"
+1997,222,away,"[['51'], 'Jon Newsome']","[['83'], 'Andy Booth']"
+1997,223,home
+1997,223,away
+1997,224,home,"[['06'], 'John Barnes']","[['90'], 'Temuri Ketsbaia']"
+1997,224,away,"[['72'], 'Nathan Blake']"
+1997,225,home,"[['07'], 'Jürgen Klinsmann']"
+1997,225,away
+1997,226,home
+1997,226,away
+1997,227,home,"[['39'], 'Gary Speed']","[['62'], 'Duncan Ferguson']","[['83'], '!Michael Duberry']"
+1997,227,away,"[['37'], 'Tore Andre Flo']"
+1997,228,home,"[['03'], 'Kevin Davies']"
+1997,228,away
+1997,229,home,"[['17'], 'Michael Owen']"
+1997,229,away
+1997,230,home,"[['62'], 'Dennis Bergkamp']","[['67'], 'Tony Adams']","[['68'], 'Nicolas Anelka']"
+1997,230,away
+1997,231,home,"[['21'], 'Scott Sellars']"
+1997,231,away,"[['26'], 'Noel Whelan']","[['58', '65'], 'Darren Huckerby']","[['73', '79'], 'Dion Dublin']"
+1997,232,home,"[['23'], 'Gianluca Vialli']","[['47'], 'Mark Hughes']"
+1997,232,away
+1997,233,home
+1997,233,away,"[['07'], 'Rod Wallace']","[['13'], 'Jimmy Floyd Hasselbaink']"
+1997,234,home,"[['25'], 'Dean Sturridge']","[['77'], 'Paulo Wanchope']"
+1997,234,away,"[['46'], 'Ruel Fox']"
+1997,235,home
+1997,235,away
+1997,236,home
+1997,236,away,"[['30'], 'Tony Cottee']"
+1997,237,home,"[['14'], 'Mark Pembridge']"
+1997,237,away,"[['21'], 'Michael Hughes']"
+1997,238,home,"[['10', '48'], 'Trevor Sinclair']"
+1997,238,away,"[['25'], 'Nick Barmby']","[['60'], 'Mickaël Madar']"
+1997,239,home
+1997,239,away,"[['58'], 'David Batty']"
+1997,240,home,"[['24'], 'Jan Åge Fjørtoft']","[['63'], 'Darren Barnard']"
+1997,240,away,"[['40'], 'Duncan Ferguson']","[['50'], 'Tony Grant']"
+1997,241,home
+1997,241,away,"[['37'], 'Nicola Berti']","[['89'], 'Chris Armstrong']","[['90'], 'Ruel Fox']"
+1997,242,home,"[['74'], 'Dion Dublin']"
+1997,242,away
+1997,243,home
+1997,243,away,"[['89'], 'Dwight Yorke']"
+1997,244,home,"[['44'], 'Garry Parker']"
+1997,244,away
+1997,245,home,"[['24', '90'], 'Michael Owen']"
+1997,245,away,"[['08', '90'], 'David Hirst']","[['85'], 'Egil Ostenstad']"
+1997,246,home,"[['85'], 'Andrew Cole']"
+1997,246,away,"[['60'], 'Bob Taylor']"
+1997,247,home
+1997,247,away,"[['16'], 'Stan Lazaridis']"
+1997,248,home,"[['04', '42'], 'Stephen Hughes']"
+1997,248,away
+1997,249,home
+1997,249,away,"[['47', '51'], 'Carl Leaburn']","[['57'], 'Jason Euell']"
+1997,250,home,"[['85'], 'Claus Thomsen']"
+1997,250,away,"[['21'], 'Igor Stimac']","[['50'], 'Paulo Wanchope']"
+1997,251,home,"[['07'], 'Benito Carbone']","[['63'], 'Paolo Di Canio']","[['69'], 'Andy Hinchcliffe']"
+1997,251,away,"[['27', '73', '78'], 'Michael Owen']"
+1997,252,home,"[['51'], 'Colin Calderwood']"
+1997,252,away,"[['34'], 'Tony Cottee']"
+1997,253,home
+1997,253,away,"[['82'], 'David Beckham']","[['89'], 'Ryan Giggs']"
+1997,254,home,"[['79'], 'Matthew Le Tissier']"
+1997,254,away,"[['14'], 'Noel Whelan']","[['29'], 'Darren Huckerby']"
+1997,255,home,"[['49'], 'Gilles Grimandi']"
+1997,255,away
+1997,256,home,"[['86'], 'Nathan Blake']"
+1997,256,away,"[['65'], 'Trevor Sinclair']"
+1997,257,home,"[['89'], 'Dion Dublin']"
+1997,257,away
+1997,258,home,"[['03', '89'], 'Emile Heskey']"
+1997,258,away
+1997,259,home,"[['18'], 'Ryan Giggs']","[['71'], 'Denis Irwin']"
+1997,259,away
+1997,260,home,"[['33'], 'Paolo Di Canio']"
+1997,260,away
+1997,261,home,"[['19', '88'], 'Egil Ostenstad']","[['78'], 'David Hirst']"
+1997,261,away
+1997,262,home,"[['10'], 'Jason Euell']","[['39'], 'Carl Leaburn']"
+1997,262,away,"[['41'], 'Savo Milosevic']"
+1997,263,home,"[['87'], 'Temuri Ketsbaia']"
+1997,263,away,"[['82'], 'Rod Wallace']"
+1997,264,home,"[['68'], 'Paul Ince']"
+1997,264,away,"[['58'], 'Duncan Ferguson']"
+1997,265,home,"[['10', '65'], 'Stan Collymore']"
+1997,265,away,"[['06'], 'Michael Owen']"
+1997,266,home,"[['25', '63'], 'Jan Åge Fjørtoft']"
+1997,266,away,"[['71'], 'Jason Euell']"
+1997,267,home,"[['11'], 'Martin Dahlin']","[['25', '45', '47'], 'Chris Sutton']","[['63'], 'Colin Hendry']"
+1997,267,away,"[['68'], 'Stuart Wilson']","[['80'], 'Muzzy Izzet']","[['81'], 'Robert Ullathorne']"
+1997,268,home
+1997,268,away,"[['31'], 'Phil Neville']"
+1997,269,home
+1997,269,away,"[['01'], 'Paul Telfer']","[['40'], 'Viorel Moldovan']","[['70'], 'Dion Dublin']"
+1997,270,home,"[['03', '49'], 'Paulo Wanchope']","[['67'], 'Gary Rowett']"
+1997,270,away
+1997,271,home
+1997,271,away
+1997,272,home
+1997,272,away,"[['54'], 'David Hirst']"
+1997,273,home,"[['45'], 'Allan Nielsen']"
+1997,273,away
+1997,274,home
+1997,274,away
+1997,275,home,"[['45'], 'Harry Kewell']"
+1997,275,away
+1997,276,home,"[['58'], 'Paul Ince']","[['65'], 'Michael Owen']"
+1997,276,away,"[['07'], 'Alan Thompson']"
+1997,277,home,"[['26'], 'Peter Atherton']","[['88'], 'Paolo Di Canio']"
+1997,277,away
+1997,278,home,"[['69'], 'Matthew Le Tissier']","[['86'], 'Egil Ostenstad']"
+1997,278,away,"[['89'], 'Carl Tiler']"
+1997,279,home
+1997,279,away,"[['51'], 'Julian Joachim']"
+1997,280,home
+1997,280,away,"[['17'], 'Ashley Ward']"
+1997,281,home,"[['15', '44'], 'Gianluca Vialli']","[['17'], 'Gianfranco Zola']","[['84'], 'Dennis Wise']","[['89', '90'], 'Tore Andre Flo']"
+1997,281,away,"[['07'], 'Hermann Hreidarsson']","[['87'], 'Marcus Bent']"
+1997,282,home,"[['48'], 'Lee Bowyer']","[['53'], 'Jimmy Floyd Hasselbaink']","[['56', '89'], 'Alf Inge Haaland']"
+1997,282,away
+1997,283,home,"[['06'], 'Trevor Sinclair']"
+1997,283,away,"[['66'], 'Paul Scholes']"
+1997,284,home
+1997,284,away,"[['21'], 'Christopher Wreh']"
+1997,285,home,"[['01'], 'Ian Taylor']","[['15', '36'], 'Savo Milosevic']"
+1997,285,away,"[['62'], 'Matt Jansen']"
+1997,286,home,"[['17'], 'Ashley Ward']","[['32'], 'Scott Jones']","[['42'], 'Jan Åge Fjørtoft']","[['57'], 'Neil Redfearn']"
+1997,286,away,"[['25'], 'Egil Ostenstad']","[['41', '71'], 'Matthew Le Tissier']"
+1997,287,home,"[['31'], 'Per Frandsen']","[['53'], 'Nathan Blake']","[['69'], 'Alan Thompson']"
+1997,287,away,"[['26'], 'Andy Booth']","[['59'], 'Peter Atherton']"
+1997,288,home,"[['62'], 'Mickaël Madar']"
+1997,288,away
+1997,289,home
+1997,289,away,"[['79'], 'Marc Overmars']"
+1997,290,home
+1997,290,away
+1997,291,home,"[['13'], 'Jürgen Klinsmann']","[['49'], 'David Ginola']","[['80'], 'Ramon Vega']"
+1997,291,away,"[['21', '89'], 'Steve McManaman']","[['64'], 'Paul Ince']"
+1997,292,home,"[['69'], 'Trevor Sinclair']","[['75'], 'David Unsworth']"
+1997,292,away,"[['54'], 'Laurent Charvet']"
+1997,293,home,"[['14'], 'Andy Roberts']","[['62'], 'Michael Hughes']"
+1997,293,away,"[['57'], 'Robbie Savage']"
+1997,294,home
+1997,294,away,"[['08'], '!Jacob Laursen']","[['36'], 'Gunnar Halle']","[['42'], 'Lee Bowyer']","[['59'], 'Harry Kewell']","[['72'], 'Jimmy Floyd Hasselbaink']"
+1997,295,home,"[['77'], 'Alan Shearer']"
+1997,295,away,"[['14'], 'Attilio Lombardo']","[['23'], 'Matt Jansen']"
+1997,296,home,"[['35'], 'Dennis Bergkamp']"
+1997,296,away
+1997,297,home,"[['37', '85'], 'Neil Redfearn']"
+1997,297,away,"[['44', '59'], 'Karl-Heinz Riedle']","[['90'], 'Steve McManaman']"
+1997,298,home,"[['52', '89'], 'Alan Thompson']"
+1997,298,away
+1997,299,home,"[['44'], 'Darren Huckerby']"
+1997,299,away
+1997,300,home,"[['82'], 'Neil Shipperley']"
+1997,300,away,"[['55'], 'Nicola Berti']","[['72'], 'Chris Armstrong']","[['77'], 'Jürgen Klinsmann']"
+1997,301,home,"[['38'], 'Mickaël Madar']"
+1997,301,away,"[['12'], 'Julian Joachim']","[['62'], 'Gary Charles']","[['72', '81'], 'Dwight Yorke']"
+1997,302,home,"[['83'], 'Ronny Johnsen']","[['90'], 'Paul Scholes']"
+1997,302,away
+1997,303,home,"[['69'], '!Stuart Pearce']","[['85'], 'Matthew Le Tissier']"
+1997,303,away,"[['46'], 'Robert Lee']"
+1997,304,home,"[['08'], 'John Hartson']","[['22'], 'Samassi Abou']","[['68'], 'Ian Pearce']"
+1997,304,away
+1997,305,home,"[['08'], 'Martin Dahlin']","[['87'], 'Kevin Gallacher']"
+1997,305,away,"[['67'], 'Georgi Hristov']"
+1997,306,home
+1997,306,away,"[['47'], 'Christopher Wreh']"
+1997,307,home
+1997,307,away
+1997,308,home,"[['77'], 'Julian Joachim']","[['83'], 'Savo Milosevic']"
+1997,308,away
+1997,309,home,"[['20'], 'Jimmy Floyd Hasselbaink']","[['80'], '!Adie Moses']"
+1997,309,away,"[['44'], 'Georgi Hristov']"
+1997,310,home,"[['78'], 'Stuart Wilson']"
+1997,310,away,"[['80'], 'Noel Whelan']"
+1997,311,home,"[['78'], 'Benito Carbone']"
+1997,311,away
+1997,312,home,"[['74'], 'Chris Armstrong']"
+1997,312,away,"[['24'], 'Mickaël Madar']"
+1997,313,home
+1997,313,away
+1997,314,home
+1997,314,away,"[['37'], 'Mark Hughes']"
+1997,315,home,"[['31'], 'Chris Sutton']"
+1997,315,away,"[['56'], 'Andrew Cole']","[['73'], 'Paul Scholes']","[['90'], 'David Beckham']"
+1997,316,home,"[['07', '47'], 'Jimmy Floyd Hasselbaink']","[['22'], 'David Wetherall']"
+1997,316,away,"[['11'], 'Laurent Charvet']"
+1997,317,home,"[['12'], 'Ronny Johnsen']"
+1997,317,away,"[['37'], 'Michael Owen']"
+1997,318,home,"[['41', '64'], 'Nicolas Anelka']","[['72'], 'Patrick Vieira']"
+1997,318,away,"[['79'], 'Warren Barton']"
+1997,319,home,"[['65'], 'Ashley Ward']","[['72'], 'Jan Åge Fjørtoft']"
+1997,319,away,"[['86'], 'Dejan Stefanovic']"
+1997,320,home,"[['20'], 'Dean Holdsworth']","[['67'], 'Bob Taylor']"
+1997,320,away,"[['51'], 'Damien Duff']"
+1997,321,home,"[['75'], 'Tore Andre Flo']","[['88'], 'Gianluca Vialli']"
+1997,321,away
+1997,322,home,"[['59'], 'Noel Whelan']"
+1997,322,away,"[['05', '48'], 'Dwight Yorke']"
+1997,323,home
+1997,323,away,"[['45', '60'], 'Emile Heskey']","[['74'], 'Matt Elliott']"
+1997,324,home,"[['10'], 'Don Hutchison']","[['38'], 'Duncan Ferguson']"
+1997,324,away
+1997,325,home
+1997,325,away,"[['38'], 'Carl Leaburn']"
+1997,326,home
+1997,326,away
+1997,327,home,"[['51'], 'Kevin Gallacher']"
+1997,327,away,"[['02'], 'Dennis Bergkamp']","[['07', '14'], 'Ray Parlour']","[['42'], 'Nicolas Anelka']"
+1997,328,home,"[['27'], 'Paulo Wanchope']","[['37', '40'], 'Deon Burton']","[['45'], 'Francesco Baiano']"
+1997,328,away
+1997,329,home,"[['29'], 'Oyvind Leonhardsen']","[['85'], 'David Thompson']"
+1997,329,away,"[['72'], 'Marcus Bent']"
+1997,330,home,"[['40'], 'Andreas Andersson']","[['86'], 'Alan Shearer']"
+1997,330,away,"[['50'], 'Jan Åge Fjørtoft']"
+1997,331,home,"[['59'], 'Jim Magilton']"
+1997,331,away,"[['07'], 'Eyal Berkovic']"
+1997,332,home,"[['68'], 'Nicola Berti']"
+1997,332,away,"[['86'], 'Dion Dublin']"
+1997,333,home
+1997,333,away
+1997,334,home,"[['18'], 'Neil Lennon']","[['52'], 'Matt Elliott']","[['90'], 'Garry Parker']"
+1997,334,away,"[['17', '27'], 'Egil Ostenstad']","[['49'], 'David Hirst']"
+1997,335,home,"[['12'], 'Tony Adams']","[['17'], 'Marc Overmars']","[['19'], 'Dennis Bergkamp']","[['54'], 'Emmanuel Petit']","[['88'], 'Christopher Wreh']"
+1997,335,away
+1997,336,home,"[['19'], 'Neil Redfearn']"
+1997,336,away,"[['47'], 'Colin Calderwood']"
+1997,337,home,"[['56'], 'Alan Thompson']","[['89'], 'Mark Fish']"
+1997,337,away,"[['16'], 'Alf Inge Haaland']","[['34'], 'Gunnar Halle']","[['85'], 'Jimmy Floyd Hasselbaink']"
+1997,338,home,"[['73'], 'Matt Jansen']","[['80'], 'Sasa Curcic']","[['90'], 'Marcus Bent']"
+1997,338,away,"[['85'], 'Lars Bohinen']"
+1997,339,home,"[['02'], 'Mickaël Madar']"
+1997,339,away,"[['38'], 'Ian Marshall']"
+1997,340,home,"[['38'], 'David Beckham']"
+1997,340,away,"[['11'], 'Andreas Andersson']"
+1997,341,home,"[['19'], 'Matthew Le Tissier']"
+1997,341,away,"[['06'], 'Lee Hendrie']","[['60'], 'Dwight Yorke']"
+1997,342,home,"[['07', '28'], 'John Hartson']"
+1997,342,away,"[['45'], 'Jason Wilcox']"
+1997,343,home,"[['23'], 'Frank Leboeuf']"
+1997,343,away
+1997,344,home,"[['47'], 'Dion Dublin']"
+1997,344,away,"[['33'], 'Michael Owen']"
+1997,345,home,"[['57'], 'Ian Taylor']"
+1997,345,away,"[['18'], 'Neil Cox']","[['41'], 'Bob Taylor']","[['84'], 'Nathan Blake']"
+1997,346,home
+1997,346,away,"[['23'], 'Dennis Bergkamp']","[['76'], 'Marc Overmars']"
+1997,347,home
+1997,347,away
+1997,348,home,"[['11', '78'], 'Mark Hughes']","[['67'], 'Steve Clarke']","[['72'], 'Tore Andre Flo']"
+1997,348,away,"[['45'], 'Karl-Heinz Riedle']"
+1997,349,home,"[['72'], 'Duncan Ferguson']"
+1997,349,away,"[['06', '41'], 'Mark Pembridge']","[['90'], 'Paolo Di Canio']"
+1997,350,home,"[['16', '28'], 'Jimmy Floyd Hasselbaink']","[['75'], 'Harry Kewell']"
+1997,350,away,"[['20', '34', '62'], 'Darren Huckerby']"
+1997,351,home,"[['31'], 'Jürgen Klinsmann']","[['73'], 'Les Ferdinand']"
+1997,351,away
+1997,352,home,"[['42'], 'Trevor Sinclair']","[['82'], 'Steve Lomas']"
+1997,352,away,"[['40'], 'Matthew Le Tissier']","[['63', '86'], 'Egil Ostenstad']","[['80'], 'Carlton Palmer']"
+1997,353,home
+1997,353,away,"[['01', '08'], 'Emile Heskey']","[['02'], 'Muzzy Izzet']","[['15'], 'Ian Marshall']"
+1997,354,home
+1997,354,away,"[['05'], 'Paul Scholes']","[['21'], 'Nicky Butt']","[['84'], 'Andrew Cole']"
+1997,355,home,"[['34'], 'Emmanuel Petit']"
+1997,355,away
+1997,356,home
+1997,356,away,"[['48'], 'Kevin Gallacher']"
+1997,357,home
+1997,357,away
+1997,358,home
+1997,358,away
+1997,359,home,"[['07'], 'Nathan Blake']","[['20'], 'Mark Fish']","[['30'], 'Jimmy Phillips']","[['70'], 'Alan Thompson']","[['79'], 'Dean Holdsworth']"
+1997,359,away,"[['08'], 'Dean Gordon']","[['16'], 'Marcus Bent']"
+1997,360,home,"[['19'], 'Dion Dublin']","[['34'], 'George Boateng']"
+1997,360,away
+1997,361,home,"[['57'], 'Theo Zagorakis']"
+1997,361,away
+1997,362,home,"[['04'], 'Michael Owen']","[['21', '25'], 'Jason McAteer']","[['45'], 'Oyvind Leonhardsen']","[['61'], 'Paul Ince']"
+1997,362,away
+1997,363,home,"[['39'], 'Nikolaos Dabizas']","[['42'], 'Robert Lee']","[['59'], 'Gary Speed']"
+1997,363,away,"[['77'], 'Roberto Di Matteo']"
+1997,364,home,"[['89'], 'Francesco Sanetti']"
+1997,364,away,"[['21'], 'Dwight Yorke']","[['25'], 'Lee Hendrie']","[['50'], 'Julian Joachim']"
+1997,365,home
+1997,365,away,"[['50'], 'Christian Dailly']","[['88'], 'Dean Sturridge']"
+1997,366,home,"[['21', '30'], 'Peter Fear']"
+1997,366,away,"[['18'], 'Les Ferdinand']","[['41', '54', '58', '60'], 'Jürgen Klinsmann']","[['79'], 'Moussa Saïb']"
+1997,367,home,"[['06'], '!Slaven Bilic']","[['28', '57'], 'Marc Overmars']","[['89'], 'Tony Adams']"
+1997,367,away
+1997,368,home,"[['06'], 'Ryan Giggs']","[['31'], 'Denis Irwin']","[['58'], 'David Beckham']"
+1997,368,away
+1997,369,home,"[['44'], 'Marcus Bent']","[['48'], 'Simon Rodger']","[['63'], 'Attilio Lombardo']"
+1997,369,away,"[['04'], 'Frank Lampard']","[['68', '89'], 'Manny Omoyinmi']"
+1997,370,home,"[['28', '30'], 'Paul Ince']","[['40'], 'Michael Owen']","[['87'], 'Oyvind Leonhardsen']"
+1997,370,away
+1997,371,home,"[['37'], 'Dwight Yorke']"
+1997,371,away
+1997,372,home
+1997,372,away,"[['05'], 'Andrew Cole']","[['67'], 'Teddy Sheringham']"
+1997,373,home,"[['88'], 'Chris Sutton']"
+1997,373,away
+1997,374,home,"[['73'], 'Gianluca Vialli']","[['90'], 'Jody Morris']"
+1997,374,away
+1997,375,home,"[['90'], 'Clinton Morrison']"
+1997,375,away
+1997,376,home,"[['63'], 'Paulo Wanchope']"
+1997,376,away
+1997,377,home,"[['07'], 'Gareth Farrelly']"
+1997,377,away,"[['89'], 'Dion Dublin']"
+1997,378,home,"[['81'], 'Alf Inge Haaland']"
+1997,378,away,"[['88'], 'Efan Ekoku']"
+1997,379,home,"[['27'], 'Jürgen Klinsmann']"
+1997,379,away,"[['21'], 'Matthew Le Tissier']"
+1997,380,home,"[['15'], 'Frank Lampard']","[['31', '74'], 'Samassi Abou']","[['65'], 'Trevor Sinclair']"
+1997,380,away,"[['59', '83'], 'Tony Cottee']","[['66'], 'Emile Heskey']"

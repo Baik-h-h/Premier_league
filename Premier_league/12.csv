@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+2012,1,home
+2012,1,away
+2012,2,home,"[['26'], 'Damien Duff']","[['41', '54'], 'Mladen Petric']","[['66'], 'Alexander Kacaniklic']","[['87'], 'Steve Sidwell']"
+2012,2,away
+2012,3,home,"[['54'], 'Demba Ba']","[['80'], 'Hatem Ben Arfa']"
+2012,3,away,"[['76'], 'Jermain Defoe']"
+2012,4,home
+2012,4,away,"[['08', '53'], ' Michu']","[['63', '71'], 'Nathan Dyer']","[['81'], 'Scott Sinclair']"
+2012,5,home,"[['90'], 'Adam Le Fondre']"
+2012,5,away,"[['34'], 'Michael Kightly']"
+2012,6,home,"[['43'], 'Zoltán Gera']","[['64'], 'Peter Odemwingie']","[['77'], 'Romelu Lukaku']"
+2012,6,away
+2012,7,home,"[['40'], 'Kevin Nolan']"
+2012,7,away
+2012,8,home,"[['40'], 'Carlos Tevez']","[['72'], 'Edin Dzeko']","[['80'], 'Samir Nasri']"
+2012,8,away,"[['59'], 'Rickie Lambert']","[['68'], 'Steven Davis']"
+2012,9,home
+2012,9,away,"[['02'], 'Branislav Ivanovic']","[['07'], 'Frank Lampard']"
+2012,10,home,"[['57'], 'Marouane Fellaini']"
+2012,10,away
+2012,11,home,"[['18'], 'Frank Lampard']","[['69'], 'Gary Cahill']","[['81'], 'Fernando Torres']","[['90.05'], 'Branislav Ivanovic']"
+2012,11,away,"[['25'], 'Pavel Pogrebnyak']","[['29'], 'Danny Guthrie']"
+2012,12,home,"[['75'], 'Karim El Ahmadi']"
+2012,12,away,"[['03'], 'Steven Pienaar']","[['31'], 'Marouane Fellaini']","[['44'], 'Nikica Jelavic']"
+2012,13,home,"[['22'], 'Eden Hazard']","[['45.03'], 'Fernando Torres']"
+2012,13,away
+2012,14,home,"[['10'], 'Robin van Persie']","[['35'], 'Shinji Kagawa']","[['41'], ' Rafael']"
+2012,14,away,"[['03'], 'Damien Duff']","[['64'], '!Nemanja Vidic']"
+2012,15,home,"[['11'], 'Simeon Jackson']"
+2012,15,away,"[['19'], 'Bobby Zamora']"
+2012,16,home
+2012,16,away,"[['51'], 'Franco Di Santo']","[['89'], 'Arouna Koné']"
+2012,17,home,"[['20'], 'Angel Rangel']","[['29'], ' Michu']","[['64'], 'Danny Graham']"
+2012,17,away
+2012,18,home,"[['74'], 'Benoit Assou-Ekotto']"
+2012,18,away,"[['90.01'], 'James Morrison']"
+2012,19,home,"[['34'], 'Martin Skrtel']","[['66'], 'Luis Suárez']"
+2012,19,away,"[['63'], 'Yaya Touré']","[['80'], 'Carlos Tevez']"
+2012,20,home
+2012,20,away
+2012,21,home,"[['16'], 'Yaya Touré']","[['61'], 'Edin Dzeko']","[['90.03'], 'Carlos Tevez']"
+2012,21,away,"[['59'], 'Bobby Zamora']"
+2012,22,home,"[['45.01'], 'Wayne Routledge']","[['66'], ' Michu']"
+2012,22,away,"[['40', '45.07'], 'Steven Fletcher']"
+2012,23,home,"[['68'], 'Mousa Dembélé']"
+2012,23,away,"[['85'], 'Robert Snodgrass']"
+2012,24,home,"[['65'], 'Shane Long']","[['82'], 'Gareth McAuley']"
+2012,24,away
+2012,25,home,"[['01'], 'Kevin Nolan']","[['29'], 'Winston Reid']","[['41'], 'Matthew Taylor']"
+2012,25,away
+2012,26,home,"[['05'], 'Shaun Maloney']","[['49'], 'Franco Di Santo']"
+2012,26,away,"[['40'], 'Jonathan Walters']","[['76'], 'Peter Crouch']"
+2012,27,home
+2012,27,away,"[['31'], 'Lukas Podolski']","[['68'], 'Santi Cazorla']"
+2012,28,home,"[['59'], 'Hatem Ben Arfa']"
+2012,28,away,"[['22'], 'Ciaran Clark']"
+2012,29,home,"[['16'], 'Rickie Lambert']","[['55'], 'Morgan Schneiderlin']"
+2012,29,away,"[['23', '87', '90.02'], 'Robin van Persie']"
+2012,30,home,"[['11'], '!Jos Hooiveld']","[['31'], 'Lukas Podolski']","[['35', '71'], ' Gervinho']","[['37'], '!Nathaniel Clyne']","[['88'], 'Theo Walcott']"
+2012,30,away,"[['45'], 'Daniel Fox']"
+2012,31,home,"[['16'], 'Matthew Lowton']","[['88'], 'Christian Benteke']"
+2012,31,away
+2012,32,home,"[['32', '45.01'], 'Dimitar Berbatov']","[['89'], 'Steve Sidwell']"
+2012,32,away
+2012,33,home,"[['51'], 'Paul Scholes']","[['63'], ' Chicharito']","[['66'], 'Alexander Büttner']","[['82'], 'Nick Powell']"
+2012,33,away
+2012,34,home
+2012,34,away
+2012,35,home
+2012,35,away
+2012,36,home,"[['15'], 'Peter Crouch']"
+2012,36,away,"[['35'], 'Javi García']"
+2012,37,home,"[['29'], 'Steven Fletcher']"
+2012,37,away,"[['71'], 'Luis Suárez']"
+2012,38,home,"[['90'], 'Hal Robson-Kanu']"
+2012,38,away,"[['18', '74'], 'Jermain Defoe']","[['71'], 'Gareth Bale']"
+2012,39,home,"[['15'], 'Leighton Baines']","[['88'], 'Victor Anichebe']"
+2012,39,away,"[['49', '90'], 'Demba Ba']"
+2012,40,home,"[['85'], 'Ashley Cole']"
+2012,40,away
+2012,41,home,"[['58', '90.05'], 'Rickie Lambert']","[['63'], 'Nathaniel Clyne']","[['72'], 'Jason Puncheon']"
+2012,41,away,"[['36'], 'Darren Bent']"
+2012,42,home
+2012,42,away,"[['22'], 'Victor Anichebe']","[['43'], 'Kevin Mirallas']","[['82'], 'Marouane Fellaini']"
+2012,43,home,"[['71'], 'Romelu Lukaku']"
+2012,43,away
+2012,44,home,"[['90.03'], 'Kevin Nolan']"
+2012,44,away,"[['09'], 'Steven Fletcher']"
+2012,45,home,"[['90.01'], 'Arouna Koné']"
+2012,45,away,"[['31'], 'Hugo Rodallega']","[['68'], 'Damien Duff']"
+2012,46,home,"[['46'], 'Steven Gerrard']"
+2012,46,away,"[['51'], ' Rafael']","[['81'], 'Robin van Persie']"
+2012,47,home,"[['40'], 'Joleon Lescott']"
+2012,47,away,"[['82'], 'Laurent Koscielny']"
+2012,48,home,"[['19'], 'Demba Ba']"
+2012,48,away
+2012,49,home,"[['59'], '!Alejandro Faurlin']","[['61'], 'Jermain Defoe']"
+2012,49,away,"[['32'], 'Bobby Zamora']"
+2012,50,home,"[['42'], ' Gervinho']"
+2012,50,away,"[['20'], 'Fernando Torres']","[['53'], 'Juan Mata']"
+2012,51,home,"[['25'], 'Leon Osman']","[['32', '38'], 'Nikica Jelavic']"
+2012,51,away,"[['06'], 'Gastón Ramírez']"
+2012,52,home,"[['10'], 'Mladen Petric']"
+2012,52,away,"[['43'], 'Sergio Agüero']","[['87'], 'Edin Dzeko']"
+2012,53,home,"[['51'], ' Nani']","[['53'], 'Shinji Kagawa']"
+2012,53,away,"[['02'], '!Jonny Evans']","[['32'], 'Gareth Bale']","[['52'], 'Clint Dempsey']"
+2012,54,home,"[['61'], 'Steve Morison']","[['87'], 'Grant Holt']"
+2012,54,away,"[['02', '38', '57'], 'Luis Suárez']","[['47'], 'Nuri Sahin']","[['68'], '!Leon Barnett']"
+2012,55,home,"[['57'], 'Jimmy Kébé']","[['62'], 'Noel Hunt']"
+2012,55,away,"[['58', '83'], 'Demba Ba']"
+2012,56,home,"[['12', '36'], 'Peter Crouch']"
+2012,56,away
+2012,57,home,"[['51'], 'Steven Fletcher']"
+2012,57,away
+2012,58,home,"[['80'], 'Darren Bent']"
+2012,58,away,"[['51'], 'Shane Long']"
+2012,59,home,"[['57'], 'Adel Taarabt']"
+2012,59,away,"[['03'], 'Matthew Jarvis']","[['35'], 'Ricardo Vaz Tê']"
+2012,60,home,"[['14'], 'Fernando Torres']","[['22'], 'Frank Lampard']","[['31'], 'Eden Hazard']","[['76'], 'Branislav Ivanovic']"
+2012,60,away,"[['11'], 'Grant Holt']"
+2012,61,home,"[['05'], 'Aleksandar Kolarov']","[['60'], 'Sergio Agüero']","[['89'], 'James Milner']"
+2012,61,away
+2012,62,home,"[['71'], ' Michu']","[['78'], 'Wayne Routledge']"
+2012,62,away,"[['31'], 'Pavel Pogrebnyak']","[['44'], 'Noel Hunt']"
+2012,63,home,"[['05'], 'James Morrison']","[['22'], 'Zoltán Gera']","[['85'], 'Youssouf Mulumbu']"
+2012,63,away,"[['35'], 'Adel Taarabt']","[['90.02'], 'Esteban Granero']"
+2012,64,home,"[['21'], 'Mohamed Diamé']"
+2012,64,away,"[['41'], 'Olivier Giroud']","[['77'], 'Theo Walcott']","[['83'], 'Santi Cazorla']"
+2012,65,home,"[['10'], 'Arouna Koné']","[['23'], 'Franco Di Santo']"
+2012,65,away,"[['11'], 'Nikica Jelavic']","[['87'], 'Leighton Baines']"
+2012,66,home
+2012,66,away
+2012,67,home
+2012,67,away,"[['08'], 'Jonny Evans']","[['15'], 'Patrice Evra']","[['71'], 'Tom Cleverley']"
+2012,68,home,"[['04', '90'], 'José Fonte']"
+2012,68,away,"[['69'], '!Jos Hooiveld']","[['88'], 'Kieran Richardson']"
+2012,69,home,"[['58'], 'Steven Caulker']","[['67'], 'Aaron Lennon']"
+2012,69,away
+2012,70,home,"[['84'], 'Chris Baird']"
+2012,70,away
+2012,71,home,"[['29'], 'Raheem Sterling']"
+2012,71,away
+2012,72,home,"[['27', '65'], 'Wayne Rooney']","[['44'], 'Robin van Persie']","[['46'], 'Danny Welbeck']"
+2012,72,away,"[['11'], '!Wayne Rooney']","[['58'], 'Michael Kightly']"
+2012,73,home,"[['19'], 'Grant Holt']"
+2012,73,away
+2012,74,home,"[['65'], 'Pablo Hernández']","[['67'], ' Michu']"
+2012,74,away,"[['69'], 'Emmerson Boyce']"
+2012,75,home,"[['47'], 'William Gallas']","[['54'], 'Jermain Defoe']"
+2012,75,away,"[['17'], 'Gary Cahill']","[['66', '69'], 'Juan Mata']","[['90.01'], 'Daniel Sturridge']"
+2012,76,home,"[['67'], 'Shane Long']"
+2012,76,away,"[['80', '90.02'], 'Edin Dzeko']"
+2012,77,home,"[['46', '72'], 'Mark Noble']","[['48'], 'Kevin Nolan']","[['87'], 'Modibo Maiga']"
+2012,77,away,"[['63'], 'Adam Lallana']"
+2012,78,home,"[['02'], '!Leighton Baines']"
+2012,78,away,"[['33'], '!Julio César']"
+2012,79,home,"[['85'], '!Demba Ba']"
+2012,79,away,"[['03'], 'Yohan Cabaye']"
+2012,80,home,"[['84'], 'Mikel Arteta']"
+2012,80,away
+2012,81,home,"[['26'], 'Christian Benteke']"
+2012,81,away,"[['79'], 'Michael Turner']"
+2012,82,home,"[['61'], 'Carlos Tevez']"
+2012,82,away
+2012,83,home,"[['26'], 'Mikele Leigertwood']","[['85'], 'Garath McCleary']","[['90'], 'Hal Robson-Kanu']"
+2012,83,away,"[['61'], 'Bryan Ruiz']","[['77'], 'Chris Baird']","[['88'], 'Dimitar Berbatov']"
+2012,84,home
+2012,84,away
+2012,85,home,"[['08'], 'Iván Ramis']","[['47'], 'James McArthur']"
+2012,85,away,"[['90.03'], 'James Tomkins']"
+2012,86,home,"[['44'], 'Juan Mata']","[['53'], ' Ramires']"
+2012,86,away,"[['04'], '!David Luiz']","[['12'], 'Robin van Persie']","[['75'], ' Chicharito']"
+2012,87,home,"[['22'], 'Leon Osman']","[['35'], 'Steven Naismith']"
+2012,87,away,"[['14'], '!Leighton Baines']","[['20'], 'Luis Suárez']"
+2012,88,home,"[['35'], 'Demba Ba']","[['90.03'], 'Papiss Cissé']"
+2012,88,away,"[['55'], 'Romelu Lukaku']"
+2012,89,home,"[['66'], 'Jay Rodríguez']"
+2012,89,away,"[['15'], 'Gareth Bale']","[['39'], 'Clint Dempsey']"
+2012,90,home,"[['07'], 'Bryan Ruiz']","[['90'], 'Steve Sidwell']"
+2012,90,away,"[['55', '72'], 'Marouane Fellaini']"
+2012,91,home,"[['03'], 'Robin van Persie']","[['67'], 'Patrice Evra']"
+2012,91,away,"[['90.05'], 'Santi Cazorla']"
+2012,92,home,"[['44'], 'Bradley Johnson']"
+2012,92,away
+2012,93,home
+2012,93,away,"[['57'], 'Gabriel Agbonlahor']"
+2012,94,home,"[['88'], 'Pablo Hernández']"
+2012,94,away,"[['61'], 'Victor Moses']"
+2012,95,home
+2012,95,away,"[['56'], 'Ben Watson']"
+2012,96,home
+2012,96,away
+2012,97,home,"[['67'], 'Luis Suárez']"
+2012,97,away,"[['43'], 'Yohan Cabaye']"
+2012,98,home,"[['66'], 'Djibril Cissé']"
+2012,98,away,"[['16'], 'Kaspars Gorkss']"
+2012,99,home,"[['36', '60'], 'Peter Odemwingie']"
+2012,99,away
+2012,100,home,"[['11', '69'], 'Olivier Giroud']","[['23'], 'Lukas Podolski']"
+2012,100,away,"[['29', '67'], 'Dimitar Berbatov']","[['40'], 'Alexander Kacaniklic']"
+2012,101,home,"[['45.01', '50'], 'Andreas Weimann']"
+2012,101,away,"[['58', '87'], ' Chicharito']","[['63'], '!Ron Vlaar']"
+2012,102,home,"[['76'], 'Marouane Fellaini']","[['79'], 'Nikica Jelavic']"
+2012,102,away,"[['45.01'], 'Adam Johnson']"
+2012,103,home
+2012,103,away
+2012,104,home,"[['64'], 'Morgan Schneiderlin']"
+2012,104,away,"[['73'], 'Nathan Dyer']"
+2012,105,home,"[['52'], 'Charlie Adam']"
+2012,105,away
+2012,106,home,"[['44'], 'Arouna Koné']"
+2012,106,away,"[['31'], 'James Morrison']","[['43'], '!Gary Caldwell']"
+2012,107,home,"[['20'], 'John Terry']"
+2012,107,away,"[['73'], 'Luis Suárez']"
+2012,108,home,"[['65'], 'Sergio Agüero']","[['88'], 'Edin Dzeko']"
+2012,108,away,"[['21'], 'Steven Caulker']"
+2012,109,home
+2012,109,away,"[['38'], 'Kevin Nolan']"
+2012,110,home,"[['24'], 'Per Mertesacker']","[['42'], 'Lukas Podolski']","[['45.01'], 'Olivier Giroud']","[['60'], 'Santi Cazorla']","[['90.01'], 'Theo Walcott']"
+2012,110,away,"[['10'], 'Emmanuel Adebayor']","[['71'], 'Gareth Bale']"
+2012,111,home,"[['47', '58'], 'Luis Suárez']","[['65'], 'José Enrique']"
+2012,111,away
+2012,112,home,"[['43'], 'David Silva']","[['54', '67'], 'Sergio Agüero']","[['65', '74'], 'Carlos Tevez']"
+2012,112,away
+2012,113,home,"[['90.03'], 'Demba Ba']"
+2012,113,away,"[['58'], ' Michu']","[['87'], 'Jonathan de Guzmán']"
+2012,114,home,"[['60'], 'Anthony Pilkington']"
+2012,114,away
+2012,115,home,"[['49'], 'Junior Hoilett']"
+2012,115,away,"[['23'], 'Rickie Lambert']","[['45.01'], 'Jason Puncheon']","[['83'], '!Anton Ferdinand']"
+2012,116,home,"[['51', '79'], 'Adam Le Fondre']"
+2012,116,away,"[['10'], 'Steven Naismith']"
+2012,117,home,"[['10'], 'Shane Long']","[['50'], 'Peter Odemwingie']"
+2012,117,away,"[['39'], 'Eden Hazard']"
+2012,118,home,"[['62'], 'Mladen Petric']"
+2012,118,away,"[['50'], 'Steven Fletcher']","[['65'], 'Carlos Cuellar']","[['70'], 'Stéphane Sessègnon']"
+2012,119,home,"[['48'], ""Joseph O'Brien""]"
+2012,119,away,"[['13'], 'Jonathan Walters']"
+2012,120,home
+2012,120,away
+2012,121,home,"[['12'], 'Steven Naismith']"
+2012,121,away,"[['90'], 'Sebastien Bassong']"
+2012,122,home,"[['64'], 'Jonny Evans']","[['68'], 'Darren Fletcher']","[['71'], ' Chicharito']"
+2012,122,away,"[['52'], 'Jamie Mackie']"
+2012,123,home,"[['26'], 'Charlie Adam']"
+2012,123,away
+2012,124,home,"[['73'], 'Craig Gardner']","[['87'], 'Stéphane Sessègnon']"
+2012,124,away,"[['30'], 'Zoltán Gera']","[['44'], 'Shane Long']","[['81'], 'Romelu Lukaku']","[['90.05'], 'Marc-Antoine Fortuné']"
+2012,125,home,"[['58', '68', '90.02'], 'Jordi Gómez']"
+2012,125,away,"[['35'], 'Sean Morrison']","[['79'], '!Ali Al Habsi']"
+2012,126,home
+2012,126,away
+2012,127,home,"[['34'], 'Adam Lallana']","[['60'], 'Gastón Ramírez']"
+2012,127,away
+2012,128,home
+2012,128,away
+2012,129,home,"[['44', '64'], 'Jermain Defoe']","[['58'], 'Gareth Bale']"
+2012,129,away,"[['82'], 'Andy Carroll']"
+2012,130,home,"[['80'], 'Christian Benteke']"
+2012,130,away
+2012,131,home
+2012,131,away
+2012,132,home
+2012,132,away
+2012,133,home,"[['28'], 'Marouane Fellaini']"
+2012,133,away,"[['01'], 'Theo Walcott']"
+2012,134,home,"[['01'], 'Robin van Persie']"
+2012,134,away
+2012,135,home,"[['32'], 'Rickie Lambert']"
+2012,135,away,"[['45'], 'Robert Snodgrass']"
+2012,136,home,"[['81'], 'Jonathan Walters']","[['85'], 'Cameron Jerome']"
+2012,136,away,"[['47'], 'Papiss Cissé']"
+2012,137,home,"[['09'], ' Michu']","[['11', '39'], 'Wayne Routledge']"
+2012,137,away,"[['45.03'], 'Romelu Lukaku']"
+2012,138,home,"[['07'], 'Aaron Lennon']","[['16'], 'Gareth Bale']"
+2012,138,away,"[['72'], '!Gareth Bale']"
+2012,139,home
+2012,139,away,"[['69'], 'Mario Balotelli']","[['72'], 'James Milner']"
+2012,140,home
+2012,140,away,"[['88', '90.01'], ' Michu']"
+2012,141,home
+2012,141,away,"[['55'], ' Sandro']","[['72', '77'], 'Jermain Defoe']"
+2012,142,home,"[['43'], 'Daniel Agger']"
+2012,142,away
+2012,143,home,"[['43'], 'Carlos Tevez']"
+2012,143,away,"[['33'], 'Marouane Fellaini']"
+2012,144,home,"[['18'], 'Jamie Mackie']"
+2012,144,away,"[['08'], 'Brett Holman']"
+2012,145,home,"[['08'], 'Hal Robson-Kanu']","[['19'], 'Adam Le Fondre']","[['23'], 'Sean Morrison']"
+2012,145,away,"[['13'], ' Anderson']","[['16', '30'], 'Wayne Rooney']","[['34'], 'Robin van Persie']"
+2012,146,home
+2012,146,away,"[['75'], 'Dean Whitehead']"
+2012,147,home,"[['63'], 'Carlton Cole']","[['86'], 'Mohamed Diamé']","[['90.01'], 'Modibo Maiga']"
+2012,147,away,"[['13'], 'Juan Mata']"
+2012,148,home,"[['08'], 'Sebastien Bassong']","[['37'], 'Anthony Pilkington']"
+2012,148,away,"[['44'], 'Craig Gardner']"
+2012,149,home,"[['13', '21'], 'Demba Ba']","[['71'], 'Gaël Bigirimana']"
+2012,149,away
+2012,150,home,"[['26', '64'], 'Mikel Arteta']"
+2012,150,away
+2012,151,home
+2012,151,away
+2012,152,home,"[['61'], 'Jason Puncheon']"
+2012,152,away
+2012,153,home,"[['66'], 'Adam Johnson']"
+2012,153,away,"[['11', '45.03'], 'Fernando Torres']","[['49'], 'Juan Mata']"
+2012,154,home,"[['51', '90.03'], ' Michu']","[['59'], 'Jonathan de Guzmán']"
+2012,154,away,"[['16'], 'Steven Whittaker']","[['40'], 'Sebastien Bassong']","[['44'], 'Grant Holt']","[['77'], 'Robert Snodgrass']"
+2012,155,home,"[['19', '74'], 'James McCarthy']"
+2012,155,away,"[['26'], 'Ryan Nelsen']","[['71'], 'Djibril Cissé']"
+2012,156,home,"[['90'], 'Steven Pienaar']","[['90.02'], 'Nikica Jelavic']"
+2012,156,away,"[['76'], 'Clint Dempsey']"
+2012,157,home,"[['60'], 'Yaya Touré']","[['86'], 'Pablo Zabaleta']"
+2012,157,away,"[['16', '29'], 'Wayne Rooney']","[['90.02'], 'Robin van Persie']"
+2012,158,home,"[['36'], 'Mark Noble']","[['43'], '!Steven Gerrard']"
+2012,158,away,"[['11'], 'Glen Johnson']","[['76'], 'Joe Cole']","[['79'], 'Jonjo Shelvey']"
+2012,159,home,"[['19'], 'Steve Sidwell']","[['63'], 'Hugo Rodallega']"
+2012,159,away,"[['54'], 'Hatem Ben Arfa']"
+2012,160,home,"[['03'], 'James McClean']","[['28'], 'Steven Fletcher']","[['90.04'], 'Stéphane Sessègnon']"
+2012,160,away
+2012,161,home,"[['87'], 'Steven Gerrard']"
+2012,161,away,"[['29', '51'], 'Christian Benteke']","[['40'], 'Andreas Weimann']"
+2012,162,home,"[['16'], 'Robin van Persie']","[['19'], 'Tom Cleverley']","[['59'], 'Wayne Rooney']"
+2012,162,away,"[['72'], 'Fraizer Campbell']"
+2012,163,home,"[['51'], 'Demba Ba']"
+2012,163,away,"[['10'], 'Sergio Agüero']","[['39'], 'Javi García']","[['78'], 'Yaya Touré']"
+2012,164,home,"[['15'], 'Anthony Pilkington']","[['64'], 'Wes Hoolahan']"
+2012,164,away,"[['51'], 'Shaun Maloney']"
+2012,165,home,"[['52', '68'], 'Adel Taarabt']"
+2012,165,away,"[['88'], 'Mladen Petric']"
+2012,166,home,"[['52'], 'Kenwyne Jones']"
+2012,166,away,"[['36'], '!Ryan Shawcross']"
+2012,167,home,"[['75'], 'Jan Vertonghen']"
+2012,167,away
+2012,168,home
+2012,168,away
+2012,169,home,"[['66'], 'Adam Le Fondre']","[['71'], 'Jimmy Kébé']"
+2012,169,away,"[['14'], 'Lukas Podolski']","[['32', '34', '60'], 'Santi Cazorla']","[['80'], 'Theo Walcott']"
+2012,170,home,"[['08'], 'Martin Skrtel']","[['36'], 'Steven Gerrard']","[['51'], 'Stewart Downing']","[['90.02'], 'Luis Suárez']"
+2012,170,away
+2012,171,home,"[['90.03'], 'Gareth Barry']"
+2012,171,away
+2012,172,home,"[['81'], 'Shola Ameobi']"
+2012,172,away
+2012,173,home
+2012,173,away,"[['42'], 'Steven Fletcher']"
+2012,174,home
+2012,174,away
+2012,175,home,"[['43'], 'Zoltán Gera']","[['82'], 'Romelu Lukaku']"
+2012,175,away,"[['23'], 'Robert Snodgrass']"
+2012,176,home,"[['14'], 'Carlton Cole']"
+2012,176,away,"[['64'], 'Victor Anichebe']","[['73'], 'Steven Pienaar']"
+2012,177,home
+2012,177,away,"[['60'], 'Mikel Arteta']"
+2012,178,home,"[['03'], 'Fernando Torres']","[['29'], 'David Luiz']","[['34'], 'Branislav Ivanovic']","[['58'], 'Frank Lampard']","[['75', '90.01'], ' Ramires']","[['79'], ' Oscar']","[['83'], 'Eden Hazard']"
+2012,178,away
+2012,179,home,"[['29'], ' Michu']"
+2012,179,away,"[['16'], 'Patrice Evra']"
+2012,180,home
+2012,180,away,"[['57'], 'Jermain Defoe']","[['61', '73', '84'], 'Gareth Bale']"
+2012,181,home,"[['52'], 'Leon Osman']","[['77'], 'Phil Jagielka']"
+2012,181,away,"[['82'], 'Arouna Koné']"
+2012,182,home,"[['08'], 'Dimitar Berbatov']"
+2012,182,away,"[['85'], 'Rickie Lambert']"
+2012,183,home,"[['25'], 'Jonny Evans']","[['58'], 'Patrice Evra']","[['71'], 'Robin van Persie']","[['90'], ' Chicharito']"
+2012,183,away,"[['04'], 'James Perch']","[['28'], '!Jonny Evans']","[['68'], 'Papiss Cissé']"
+2012,184,home
+2012,184,away,"[['38'], 'Juan Mata']"
+2012,185,home,"[['68'], 'Djibril Cissé']"
+2012,185,away,"[['29'], 'Chris Brunt']","[['49'], '!Robert Green']"
+2012,186,home
+2012,186,away
+2012,187,home,"[['05', '49'], 'Jonathan Walters']","[['12'], 'Kenwyne Jones']"
+2012,187,away,"[['02'], 'Steven Gerrard']"
+2012,188,home,"[['53'], 'Adam Johnson']"
+2012,188,away
+2012,189,home,"[['20', '73', '90.01'], 'Theo Walcott']","[['50'], 'Alex Oxlade-Chamberlain']","[['64'], 'Lukas Podolski']","[['84', '87'], 'Olivier Giroud']"
+2012,189,away,"[['43', '69'], 'Demba Ba']","[['59'], 'Sylvain Marveaux']"
+2012,190,home
+2012,190,away,"[['03'], 'Iván Ramis']","[['52'], 'Emmerson Boyce']","[['56'], 'Arouna Koné']"
+2012,191,home,"[['56'], 'Bryan Ruiz']"
+2012,191,away,"[['19'], 'Danny Graham']","[['52'], 'Jonathan de Guzmán']"
+2012,192,home,"[['09'], '!Gareth McAuley']","[['90'], 'Robin van Persie']"
+2012,192,away
+2012,193,home,"[['15'], 'Anthony Pilkington']","[['63', '75'], 'Russell Martin']"
+2012,193,away,"[['02', '04'], 'Edin Dzeko']","[['50'], 'Sergio Agüero']","[['67'], '!Mark Bunn']"
+2012,194,home,"[['05'], 'Pavel Pogrebnyak']"
+2012,194,away
+2012,195,home,"[['16'], 'Kenwyne Jones']","[['67'], 'Matt Upson']","[['90'], 'Cameron Jerome']"
+2012,195,away,"[['10'], 'Rickie Lambert']","[['24'], 'Jay Rodríguez']","[['36'], '!Andy Wilkinson']"
+2012,196,home,"[['40'], ""John O'Shea""]"
+2012,196,away,"[['48'], '!Carlos Cuellar']","[['51'], 'Aaron Lennon']"
+2012,197,home,"[['02'], 'Steven Pienaar']"
+2012,197,away,"[['42', '72'], 'Frank Lampard']"
+2012,198,home
+2012,198,away,"[['10', '16'], 'Luis Suárez']","[['27'], 'Daniel Agger']"
+2012,199,home,"[['43'], 'Pablo Zabaleta']","[['56'], 'Edin Dzeko']","[['74'], 'Sergio Agüero']"
+2012,199,away
+2012,200,home,"[['35'], 'Gastón Ramírez']"
+2012,200,away,"[['41'], '!Guly do Prado']"
+2012,201,home,"[['09'], 'Wayne Routledge']","[['90.04'], 'Danny Graham']"
+2012,201,away,"[['44'], 'Andreas Weimann']","[['84'], 'Christian Benteke']"
+2012,202,home,"[['10'], 'Michael Dawson']","[['51'], 'Emmanuel Adebayor']","[['79'], 'Clint Dempsey']"
+2012,202,away,"[['04'], 'Pavel Pogrebnyak']"
+2012,203,home,"[['49'], 'Romelu Lukaku']"
+2012,203,away,"[['39'], 'Dimitar Berbatov']","[['58'], 'Alexander Kacaniklic']"
+2012,204,home,"[['03'], 'Mark Noble']","[['26'], ""Joseph O'Brien""]"
+2012,204,away,"[['90'], 'Russell Martin']"
+2012,205,home
+2012,205,away,"[['35', '63'], ' Chicharito']","[['43', '88'], 'Robin van Persie']"
+2012,206,home
+2012,206,away,"[['78'], 'Shaun Wright-Phillips']"
+2012,207,home,"[['19'], 'Raheem Sterling']","[['26', '52'], 'Luis Suárez']"
+2012,207,away
+2012,208,home,"[['02'], 'Papiss Cissé']"
+2012,208,away,"[['43'], 'Leighton Baines']","[['60'], 'Victor Anichebe']"
+2012,209,home
+2012,209,away,"[['34'], 'Rickie Lambert']"
+2012,210,home
+2012,210,away
+2012,211,home,"[['22'], 'Giorgos Karagounis']"
+2012,211,away,"[['71'], 'Franco Di Santo']"
+2012,212,home
+2012,212,away
+2012,213,home
+2012,213,away
+2012,214,home,"[['82'], 'Jimmy Kébé']","[['88'], 'Adam Le Fondre']","[['90'], 'Pavel Pogrebnyak']"
+2012,214,away,"[['19', '69'], 'Romelu Lukaku']"
+2012,215,home
+2012,215,away,"[['45.02', '62'], '!Jonathan Walters']","[['65'], 'Frank Lampard']","[['73'], 'Eden Hazard']"
+2012,216,home,"[['12'], 'Sebastian Larsson']","[['47'], 'Adam Johnson']","[['74'], 'James McClean']"
+2012,216,away
+2012,217,home
+2012,217,away,"[['21'], 'James Milner']","[['32'], 'Edin Dzeko']"
+2012,218,home,"[['19'], 'Robin van Persie']","[['54'], 'Nemanja Vidic']"
+2012,218,away,"[['57'], 'Daniel Sturridge']"
+2012,219,home,"[['25'], 'Demba Ba']","[['45'], 'Eden Hazard']"
+2012,219,away,"[['58'], 'Rickie Lambert']","[['75'], 'Jason Puncheon']"
+2012,220,home,"[['26'], 'Jordan Henderson']","[['36'], 'Luis Suárez']","[['59'], 'Daniel Sturridge']","[['66'], 'Steven Gerrard']","[['74'], '!Ryan Bennett']"
+2012,220,away
+2012,221,home,"[['02', '69'], 'David Silva']"
+2012,221,away
+2012,222,home,"[['35'], 'Yohan Cabaye']"
+2012,222,away,"[['71', '77'], 'Adam Le Fondre']"
+2012,223,home,"[['49'], 'Ben Davies']","[['57', '80'], 'Jonathan de Guzmán']"
+2012,223,away,"[['90.01'], 'Michael Owen']"
+2012,224,home,"[['49'], 'Chris Brunt']","[['84'], 'Peter Odemwingie']"
+2012,224,away,"[['12'], 'Christian Benteke']","[['31'], 'Gabriel Agbonlahor']"
+2012,225,home,"[['68'], 'Joe Cole']"
+2012,225,away,"[['14'], 'Loïc Rémy']"
+2012,226,home,"[['05'], '!David Vaughan']","[['79'], 'Ángelo Henríquez']"
+2012,226,away,"[['17'], 'Craig Gardner']","[['20', '42'], 'Steven Fletcher']"
+2012,227,home,"[['06'], 'Juan Mata']","[['16'], 'Frank Lampard']"
+2012,227,away,"[['58'], 'Theo Walcott']"
+2012,228,home,"[['90.03'], 'Clint Dempsey']"
+2012,228,away,"[['25'], 'Robin van Persie']"
+2012,229,home
+2012,229,away
+2012,230,home,"[['22'], 'Lukas Podolski']","[['47', '57'], 'Olivier Giroud']","[['53'], 'Santi Cazorla']","[['54'], 'Theo Walcott']"
+2012,230,away,"[['18'], 'Jack Collison']"
+2012,231,home,"[['49'], 'Christian Benteke']"
+2012,231,away,"[['19'], 'Papiss Cissé']","[['31'], 'Yohan Cabaye']"
+2012,232,home
+2012,232,away
+2012,233,home,"[['23'], 'Ryan Shawcross']","[['48'], 'Peter Crouch']"
+2012,233,away,"[['50'], 'James McArthur']","[['61'], 'Franco Di Santo']"
+2012,234,home
+2012,234,away
+2012,235,home,"[['64'], 'Olivier Giroud']","[['67'], 'Theo Walcott']"
+2012,235,away,"[['05'], 'Luis Suárez']","[['60'], 'Jordan Henderson']"
+2012,236,home,"[['29', '45.02'], 'Leighton Baines']"
+2012,236,away,"[['65'], 'Shane Long']"
+2012,237,home,"[['10'], 'Dimitar Berbatov']","[['49'], 'Hugo Rodallega']","[['90.01'], ""!Joseph O'Brien""]"
+2012,237,away,"[['48'], 'Kevin Nolan']"
+2012,238,home,"[['08', '27'], 'Wayne Rooney']"
+2012,238,away,"[['03'], 'Jay Rodríguez']"
+2012,239,home,"[['32'], 'Wes Hoolahan']"
+2012,239,away,"[['80'], 'Gareth Bale']"
+2012,240,home,"[['87', '90.05'], 'Adam Le Fondre']"
+2012,240,away,"[['45.01'], 'Juan Mata']","[['66'], 'Frank Lampard']"
+2012,241,home,"[['78'], 'Lukas Podolski']"
+2012,241,away
+2012,242,home,"[['21'], 'Victor Anichebe']","[['69', '90.03'], 'Marouane Fellaini']"
+2012,242,away,"[['02', '61'], 'Christian Benteke']","[['24'], 'Gabriel Agbonlahor']"
+2012,243,home
+2012,243,away,"[['79'], 'Wayne Rooney']"
+2012,244,home,"[['41'], 'Jonás Gutiérrez']","[['68', '90'], 'Moussa Sissoko']"
+2012,244,away,"[['55'], 'Frank Lampard']","[['61'], 'Juan Mata']"
+2012,245,home
+2012,245,away
+2012,246,home,"[['07', '85'], 'Jimmy Kébé']"
+2012,246,away,"[['29'], 'Craig Gardner']"
+2012,247,home,"[['77'], 'Andy Carroll']"
+2012,247,away
+2012,248,home,"[['25'], 'Gary Caldwell']","[['90'], 'Shaun Maloney']"
+2012,248,away,"[['64'], 'Rickie Lambert']","[['85'], 'Morgan Schneiderlin']"
+2012,249,home,"[['23'], 'Edin Dzeko']","[['78'], 'Sergio Agüero']"
+2012,249,away,"[['29'], 'Daniel Sturridge']","[['73'], 'Steven Gerrard']"
+2012,250,home
+2012,250,away,"[['67'], 'Gareth Bale']"
+2012,251,home,"[['23'], ' Ramires']","[['56'], 'Eden Hazard']","[['86'], 'Frank Lampard']","[['90.02'], 'Marko Marin']"
+2012,251,away,"[['58'], 'Shaun Maloney']"
+2012,252,home
+2012,252,away
+2012,253,home,"[['07'], 'Jason Puncheon']","[['22'], 'Steven Davis']","[['48'], '!Gareth Barry']"
+2012,253,away,"[['39'], 'Edin Dzeko']"
+2012,254,home,"[['67'], 'Robert Huth']","[['81'], 'Cameron Jerome']"
+2012,254,away,"[['83'], 'Adrian Mariappa']"
+2012,255,home
+2012,255,away,"[['35'], 'Santi Cazorla']"
+2012,256,home,"[['08', '67'], ' Michu']","[['18'], 'Angel Rangel']","[['50'], 'Pablo Hernández']"
+2012,256,away,"[['48'], 'Bobby Zamora']"
+2012,257,home,"[['05', '78'], 'Gareth Bale']"
+2012,257,away,"[['24'], 'Yoan Gouffran']"
+2012,258,home,"[['74'], 'Christian Benteke']","[['79'], ""Charles N'Zogbia""]"
+2012,258,away,"[['87'], '!Ashley Westwood']"
+2012,259,home,"[['13'], 'Ryan Giggs']","[['45.01'], 'Robin van Persie']"
+2012,259,away
+2012,260,home
+2012,260,away,"[['81'], 'Gareth McAuley']","[['90.01'], 'Romelu Lukaku']"
+2012,261,home,"[['34'], 'Steven Gerrard']","[['46'], 'Philippe Coutinho']","[['50'], 'José Enrique']","[['56'], 'Luis Suárez']","[['71'], 'Daniel Sturridge']"
+2012,261,away
+2012,262,home,"[['06', '85'], 'Santi Cazorla']"
+2012,262,away,"[['68'], 'Andreas Weimann']"
+2012,263,home,"[['45.02'], 'Dimitar Berbatov']"
+2012,263,away
+2012,264,home,"[['84'], 'Kei Kamara']","[['90.04'], 'Grant Holt']"
+2012,264,away,"[['39'], 'Leon Osman']"
+2012,265,home
+2012,265,away,"[['23'], ' Rafael']","[['80'], 'Ryan Giggs']"
+2012,266,home
+2012,266,away,"[['44', '45.02'], 'Arouna Koné']","[['48'], 'Maynor Figueroa']"
+2012,267,home,"[['35', '75'], 'Romelu Lukaku']"
+2012,267,away,"[['79'], 'Stéphane Sessègnon']"
+2012,268,home,"[['63'], 'Yaya Touré']","[['85'], 'Carlos Tevez']"
+2012,268,away
+2012,269,home,"[['33'], 'Moussa Sissoko']","[['42'], 'Papiss Cissé']","[['67'], 'Yohan Cabaye']","[['79'], '!Jos Hooiveld']"
+2012,269,away,"[['03'], 'Morgan Schneiderlin']","[['50'], 'Rickie Lambert']"
+2012,270,home,"[['25'], 'Andy Carroll']","[['58'], 'Joe Cole']"
+2012,270,away,"[['13', '90'], 'Gareth Bale']","[['76'], 'Gylfi Sigurdsson']"
+2012,271,home,"[['28'], 'Demba Ba']"
+2012,271,away
+2012,272,home,"[['42'], 'Marouane Fellaini']","[['59'], 'Steven Pienaar']","[['66'], 'Kevin Mirallas']"
+2012,272,away,"[['84'], 'Hal Robson-Kanu']"
+2012,273,home,"[['45.01', '76', '87'], 'Shinji Kagawa']","[['90'], 'Wayne Rooney']"
+2012,273,away
+2012,274,home,"[['45.01'], 'Gastón Ramírez']"
+2012,274,away,"[['14'], 'Loïc Rémy']","[['77'], 'Jay Bothroyd']"
+2012,275,home
+2012,275,away,"[['45.04'], 'Jack Collison']"
+2012,276,home,"[['37'], 'Craig Gardner']","[['70'], 'Stéphane Sessègnon']"
+2012,276,away,"[['16'], 'Dimitar Berbatov']","[['34'], 'Sascha Riether']"
+2012,277,home,"[['85'], 'Luke Moore']"
+2012,277,away
+2012,278,home
+2012,278,away,"[['02'], 'Stewart Downing']","[['18', '34', '49'], 'Luis Suárez']"
+2012,279,home,"[['37'], 'Gareth Bale']","[['39'], 'Aaron Lennon']"
+2012,279,away,"[['51'], 'Per Mertesacker']"
+2012,280,home
+2012,280,away,"[['45.01'], 'Carlos Tevez']"
+2012,281,home
+2012,281,away
+2012,282,home,"[['30'], 'Loïc Rémy']","[['70'], 'Andros Townsend']","[['90'], 'Jermaine Jenas']"
+2012,282,away,"[['20'], 'Steven Fletcher']"
+2012,283,home,"[['32'], '!Nathan Baker']"
+2012,283,away,"[['33'], 'Christian Benteke']","[['45'], 'Gabriel Agbonlahor']"
+2012,284,home,"[['40'], 'Romelu Lukaku']","[['61'], '!Jonathan de Guzmán']"
+2012,284,away,"[['33'], 'Luke Moore']"
+2012,285,home,"[['21'], 'Luis Suárez']","[['66'], 'Stewart Downing']","[['82'], 'Steven Gerrard']"
+2012,285,away,"[['45', '53'], 'Jan Vertonghen']"
+2012,286,home,"[['72'], 'Yohan Cabaye']","[['90.02'], 'Papiss Cissé']"
+2012,286,away,"[['67'], 'Jonathan Walters']"
+2012,287,home,"[['45.03'], 'Gabriel Agbonlahor']","[['59'], 'Andreas Weimann']","[['81'], 'Christian Benteke']"
+2012,287,away,"[['23'], 'Jermaine Jenas']","[['73'], 'Andros Townsend']"
+2012,288,home,"[['32'], 'Leon Osman']","[['90.03'], 'Nikica Jelavic']"
+2012,288,away
+2012,289,home,"[['21'], 'Wayne Rooney']"
+2012,289,away
+2012,290,home,"[['06'], 'Morgan Schneiderlin']","[['33'], 'Rickie Lambert']","[['80'], 'Jay Rodríguez']"
+2012,290,away,"[['45.01'], 'Philippe Coutinho']"
+2012,291,home
+2012,291,away
+2012,292,home
+2012,292,away,"[['74'], 'Nacho Monreal']","[['90.01'], ' Gervinho']"
+2012,293,home,"[['19'], 'Frank Lampard']","[['50'], 'Eden Hazard']"
+2012,293,away
+2012,294,home,"[['40'], 'Craig Gardner']"
+2012,294,away,"[['26'], 'Wes Hoolahan']"
+2012,295,home
+2012,295,away,"[['52'], 'Dimitar Berbatov']"
+2012,296,home,"[['18'], 'Jean Beausejour']","[['90'], 'Arouna Koné']"
+2012,296,away,"[['72'], 'Davide Santon']"
+2012,297,home,"[['11'], ' Gervinho']","[['48'], 'Santi Cazorla']","[['67'], 'Olivier Giroud']","[['77'], 'Mikel Arteta']"
+2012,297,away,"[['68'], 'Hal Robson-Kanu']"
+2012,298,home,"[['28'], 'Kevin Mirallas']"
+2012,298,away
+2012,299,home,"[['41'], 'Carlos Tevez']","[['45.02'], 'David Silva']","[['56'], 'Vincent Kompany']","[['69'], 'Yaya Touré']"
+2012,299,away
+2012,300,home,"[['23'], 'Jay Rodríguez']","[['35'], 'Rickie Lambert']"
+2012,300,away,"[['33'], 'John Terry']"
+2012,301,home
+2012,301,away,"[['27'], '!Titus Bramble']"
+2012,302,home,"[['71'], ' Michu']"
+2012,302,away,"[['07'], 'Jan Vertonghen']","[['21'], 'Gareth Bale']"
+2012,303,home,"[['16', '80'], 'Andy Carroll']","[['28'], ""Gary O'Neil""]"
+2012,303,away,"[['88'], 'Graham Dorrans']"
+2012,304,home,"[['81'], 'Arouna Koné']"
+2012,304,away
+2012,305,home,"[['31'], 'Christian Benteke']"
+2012,305,away,"[['47'], 'Jordan Henderson']","[['60'], 'Steven Gerrard']"
+2012,306,home,"[['08', '22'], 'Dimitar Berbatov']","[['41'], '!Clint Hill']"
+2012,306,away,"[['45'], 'Adel Taarabt']","[['51'], 'Loïc Rémy']"
+2012,307,home,"[['40'], 'Robert Snodgrass']","[['60'], 'Michael Turner']"
+2012,307,away,"[['35'], ' Michu']","[['75'], 'Luke Moore']"
+2012,308,home
+2012,308,away,"[['34'], 'Jay Rodríguez']","[['72'], 'Adam Lallana']"
+2012,309,home,"[['80'], 'Michael Kightly']"
+2012,309,away,"[['09'], 'Gabriel Agbonlahor']","[['87'], 'Matthew Lowton']","[['90.01'], 'Christian Benteke']"
+2012,310,home,"[['71'], 'James Morrison']"
+2012,310,away,"[['20', '50'], 'Tomas Rosicky']"
+2012,311,home,"[['47'], '!Matthew Kilgallon']","[['55'], 'Branislav Ivanovic']"
+2012,311,away,"[['45'], '!César Azpilicueta']"
+2012,312,home
+2012,312,away
+2012,313,home,"[['90.03'], 'Papiss Cissé']"
+2012,313,away
+2012,314,home,"[['85'], 'Loïc Rémy']"
+2012,314,away,"[['90.04'], 'Shaun Maloney']"
+2012,315,home,"[['01'], 'Emmanuel Adebayor']","[['87'], 'Gylfi Sigurdsson']"
+2012,315,away,"[['15'], 'Phil Jagielka']","[['53'], 'Kevin Mirallas']"
+2012,316,home,"[['59'], '!Vincent Kompany']"
+2012,316,away,"[['51'], 'James Milner']","[['78'], 'Sergio Agüero']"
+2012,317,home,"[['85'], 'Mikel Arteta']","[['88'], 'Olivier Giroud']","[['90.02'], 'Lukas Podolski']"
+2012,317,away,"[['56'], 'Michael Turner']"
+2012,318,home,"[['55'], ""Charles N'Zogbia""]"
+2012,318,away,"[['66'], '!Fabian Delph']"
+2012,319,home,"[['40'], 'Darron Gibson']","[['56'], 'Victor Anichebe']"
+2012,319,away
+2012,320,home
+2012,320,away
+2012,321,home,"[['59'], 'Gastón Ramírez']"
+2012,321,away,"[['66'], 'Andy Carroll']"
+2012,322,home
+2012,322,away,"[['27'], 'Stéphane Sessègnon']","[['74'], 'Adam Johnson']","[['82'], 'David Vaughan']"
+2012,323,home
+2012,323,away,"[['04'], 'Michael Carrick']","[['66'], 'Robin van Persie']"
+2012,324,home
+2012,324,away
+2012,325,home
+2012,325,away,"[['30'], 'David Luiz']","[['43', '71'], 'John Terry']"
+2012,326,home,"[['83'], 'Carlos Tevez']"
+2012,326,away
+2012,327,home,"[['16'], 'Ricardo Vaz Tê']","[['55'], 'Mohamed Diamé']"
+2012,327,away,"[['31'], 'Antonio Valencia']","[['77'], 'Robin van Persie']"
+2012,328,home
+2012,328,away,"[['43'], 'Per Mertesacker']"
+2012,329,home,"[['50'], 'Ryan Bennett']","[['52'], 'Elliott Bennett']"
+2012,329,away,"[['72'], 'Garath McCleary']"
+2012,330,home
+2012,330,away,"[['42'], 'Peter Crouch']","[['77'], 'Jonathan Walters']"
+2012,331,home,"[['45.01'], 'Stéphane Sessègnon']"
+2012,331,away
+2012,332,home
+2012,332,away
+2012,333,home,"[['64'], 'Billy Jones']"
+2012,333,away,"[['08'], 'Yoan Gouffran']"
+2012,334,home,"[['21'], 'Matthew Jarvis']","[['80'], 'Kevin Nolan']"
+2012,334,away
+2012,335,home,"[['52'], 'Daniel Sturridge']","[['90.07'], 'Luis Suárez']"
+2012,335,away,"[['26'], ' Oscar']","[['57'], 'Eden Hazard']"
+2012,336,home,"[['75'], 'Clint Dempsey']","[['79'], 'Jermain Defoe']","[['82'], 'Gareth Bale']"
+2012,336,away,"[['05'], 'Samir Nasri']"
+2012,337,home,"[['02', '13', '33'], 'Robin van Persie']"
+2012,337,away
+2012,338,home,"[['16'], 'Steven Pienaar']"
+2012,338,away
+2012,339,home,"[['28'], 'Sergio Agüero']","[['83'], 'Yaya Touré']"
+2012,339,away,"[['90.04'], 'Andy Carroll']"
+2012,340,home
+2012,340,away,"[['03'], 'Daniel Agger']","[['17', '76'], 'Jordan Henderson']","[['54', '60'], 'Daniel Sturridge']","[['74'], 'Fabio Borini']"
+2012,341,home
+2012,341,away,"[['06'], 'Marc-Antoine Fortuné']","[['67'], 'Romelu Lukaku']","[['77'], 'Shane Long']"
+2012,342,home,"[['46'], 'Charlie Adam']"
+2012,342,away
+2012,343,home,"[['11'], 'Emmerson Boyce']","[['49'], 'Callum McManaman']"
+2012,343,away,"[['09'], 'Gareth Bale']","[['89'], '!Emmerson Boyce']"
+2012,344,home,"[['02'], 'Theo Walcott']"
+2012,344,away,"[['44'], 'Robin van Persie']"
+2012,345,home,"[['43'], ' Oscar']","[['45.02'], 'Frank Lampard']"
+2012,345,away
+2012,346,home
+2012,346,away
+2012,347,home,"[['31'], 'Ron Vlaar']","[['38'], 'Andreas Weimann']","[['55', '59', '72'], 'Christian Benteke']","[['88'], 'Gabriel Agbonlahor']"
+2012,347,away,"[['32'], 'Danny Rose']"
+2012,348,home,"[['70', '77'], 'Bryan Ruiz']"
+2012,348,away,"[['12', '62'], 'Hal Robson-Kanu']","[['75'], 'Adam Le Fondre']","[['83'], 'Jem Karacan']"
+2012,349,home,"[['74'], 'Grant Holt']"
+2012,349,away,"[['55', '89'], 'Gabriel Agbonlahor']"
+2012,350,home
+2012,350,away,"[['01'], 'Theo Walcott']"
+2012,351,home
+2012,351,away
+2012,352,home,"[['86'], 'Gareth Bale']"
+2012,352,away
+2012,353,home,"[['29'], 'Shane Long']","[['50'], 'Gareth McAuley']"
+2012,353,away,"[['39'], 'Arouna Koné']","[['58'], 'James McArthur']","[['80'], 'Callum McManaman']"
+2012,354,home
+2012,354,away
+2012,355,home
+2012,355,away
+2012,356,home
+2012,356,away,"[['87'], 'Juan Mata']"
+2012,357,home,"[['63'], ""John O'Shea""]"
+2012,357,away,"[['09'], 'Jonathan Walters']"
+2012,358,home,"[['35'], 'Edin Dzeko']"
+2012,358,away
+2012,359,home,"[['45.01'], 'Roger Espinoza']","[['53'], 'James McCarthy']"
+2012,359,away,"[['50'], 'Angel Rangel']","[['59'], 'Itay Shechter']","[['76'], 'Dwight Tiendalli']"
+2012,360,home,"[['11'], ' Oscar']","[['39'], ' Ramires']"
+2012,360,away,"[['26'], 'Emmanuel Adebayor']","[['80'], 'Gylfi Sigurdsson']"
+2012,361,home,"[['14'], 'Christian Benteke']"
+2012,361,away,"[['61', '88'], 'Frank Lampard']"
+2012,362,home,"[['06', '60'], 'Kevin Mirallas']"
+2012,362,away
+2012,363,home,"[['33'], 'Dimitar Berbatov']"
+2012,363,away,"[['36', '62', '85'], 'Daniel Sturridge']"
+2012,364,home,"[['39'], ' Chicharito']","[['87'], 'Rio Ferdinand']"
+2012,364,away,"[['49'], ' Michu']"
+2012,365,home,"[['25'], 'Robert Snodgrass']","[['62'], 'Grant Holt']","[['65'], '!Gareth McAuley']","[['90'], 'Jonny Howson']"
+2012,365,away
+2012,366,home,"[['11'], 'Loïc Rémy']"
+2012,366,away,"[['18'], 'Hatem Ben Arfa']","[['35'], 'Yoan Gouffran']"
+2012,367,home,"[['03'], 'Steven Nzonzi']"
+2012,367,away,"[['20'], 'Clint Dempsey']","[['83'], 'Emmanuel Adebayor']"
+2012,368,home,"[['68'], 'Phil Bardsley']"
+2012,368,away,"[['76'], 'Jason Puncheon']"
+2012,369,home,"[['11', '68'], 'Lukas Podolski']","[['63'], 'Theo Walcott']","[['71'], 'Aaron Ramsey']"
+2012,369,away,"[['45'], 'Shaun Maloney']"
+2012,370,home
+2012,370,away,"[['40'], 'Sergio Agüero']","[['88'], 'Edin Dzeko']"
+2012,371,home,"[['07'], 'Juan Mata']","[['76'], 'Fernando Torres']"
+2012,371,away,"[['14'], 'Steven Naismith']"
+2012,372,home,"[['23'], 'Philippe Coutinho']"
+2012,372,away
+2012,373,home,"[['29', '59'], 'Jack Rodwell']"
+2012,373,away,"[['26'], 'Anthony Pilkington']","[['54'], 'Grant Holt']","[['65'], 'Jonny Howson']"
+2012,374,home
+2012,374,away,"[['52'], 'Laurent Koscielny']"
+2012,375,home,"[['57'], 'Rickie Lambert']"
+2012,375,away,"[['47'], 'Peter Crouch']"
+2012,376,home
+2012,376,away,"[['22'], 'Alexander Kacaniklic']","[['77'], 'Dimitar Berbatov']","[['90.03'], 'Urby Emanuelson']"
+2012,377,home,"[['89'], 'Gareth Bale']"
+2012,377,away
+2012,378,home,"[['40'], 'James Morrison']","[['50', '80', '86'], 'Romelu Lukaku']","[['81'], 'Youssouf Mulumbu']"
+2012,378,away,"[['06'], 'Shinji Kagawa']","[['09'], '!Jonas Olsson']","[['30'], 'Alexander Büttner']","[['53'], 'Robin van Persie']","[['63'], ' Chicharito']"
+2012,379,home,"[['23', '79', '87'], 'Kevin Nolan']","[['34'], 'Ricardo Vaz Tê']"
+2012,379,away,"[['53'], 'Garath McCleary']","[['55'], 'Adam Le Fondre']"
+2012,380,home,"[['20'], 'Emmerson Boyce']","[['45.03'], '!Nathan Baker']"
+2012,380,away,"[['05'], 'Darren Bent']","[['60'], 'Ron Vlaar']"

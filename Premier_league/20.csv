@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+2020,1,home
+2020,1,away,"[['71'], 'Paul Pogba']"
+2020,2,home,"[['13'], 'Wilfried Zaha']"
+2020,2,away
+2020,3,home
+2020,3,away,"[['08'], 'Alexandre Lacazette']","[['49'], 'Gabriel Magalhães']","[['57'], 'Pierre-Emerick Aubameyang']"
+2020,4,home,"[['04', '33', '88'], 'Mohamed Salah']","[['20'], 'Virgil van Dijk']"
+2020,4,away,"[['12'], 'Jack Harrison']","[['30'], 'Patrick Bamford']","[['66'], 'Mateusz Klich']"
+2020,5,home,"[['79'], 'Bernardo Silva']","[['90'], 'Ilkay Gündogan']"
+2020,5,away
+2020,6,home
+2020,6,away,"[['55'], 'Dominic Calvert-Lewin']"
+2020,7,home
+2020,7,away,"[['56'], 'Timothy Castagne']","[['74', '84'], 'Jamie Vardy']"
+2020,8,home
+2020,8,away,"[['56'], 'Callum Wilson']","[['87'], 'Jeff Hendrick']"
+2020,9,home,"[['54'], 'Leandro Trossard']"
+2020,9,away,"[['23'], ' Jorginho']","[['56'], 'Reece James']","[['66'], 'Kurt Zouma']"
+2020,10,home
+2020,10,away,"[['03'], 'Raúl Jiménez']","[['06'], 'Romain Saïss']"
+2020,11,home,"[['25'], 'Alexandre Lacazette']","[['85'], 'Eddie Nketiah']"
+2020,11,away,"[['45'], 'Michail Antonio']"
+2020,12,home,"[['63'], 'Ezri Konsa']"
+2020,12,away
+2020,13,home
+2020,13,away,"[['50', '54'], 'Sadio Mané']"
+2020,14,home,"[['31', '62', '66'], 'Dominic Calvert-Lewin']","[['45'], 'James Rodríguez']","[['54'], 'Michael Keane']"
+2020,14,away,"[['10'], 'Grady Diangana']","[['47'], 'Matheus Pereira']"
+2020,15,home,"[['05', '57'], 'Hélder Costa']","[['41'], 'Mateusz Klich']","[['50'], 'Patrick Bamford']"
+2020,15,away,"[['34', '67'], 'Aleksandar Mitrovic']","[['62'], 'Bobby De Cordova-Reid']"
+2020,16,home,"[['20'], 'Harvey Barnes']","[['50'], '!Erik Pieters']","[['61'], 'James Justin']","[['79'], 'Dennis Praet']"
+2020,16,away,"[['10'], 'Chris Wood']","[['73'], 'Jimmy Dunne']"
+2020,17,home,"[['80'], 'Donny van de Beek']"
+2020,17,away,"[['07'], 'Andros Townsend']","[['74', '85'], 'Wilfried Zaha']"
+2020,18,home
+2020,18,away,"[['04', '07'], 'Neal Maupay']","[['83'], 'Aaron Connolly']"
+2020,19,home,"[['32', '90'], 'Danny Ings']"
+2020,19,away,"[['45.02', '47', '64', '73'], 'Son Heung-Min']","[['82'], 'Harry Kane']"
+2020,20,home,"[['78'], 'Raúl Jiménez']"
+2020,20,away,"[['20'], 'Kevin De Bruyne']","[['32'], 'Phil Foden']","[['90.05'], 'Gabriel Jesus']"
+2020,21,home,"[['40'], 'Neal Maupay']","[['90.05'], 'Solly March']"
+2020,21,away,"[['43'], '!Lewis Dunk']","[['55'], 'Marcus Rashford']","[['90.1'], 'Bruno Fernandes']"
+2020,22,home
+2020,22,away,"[['05'], 'Danny Ings']"
+2020,23,home,"[['26'], 'Cheikhou Kouyaté']"
+2020,23,away,"[['10'], 'Dominic Calvert-Lewin']","[['40'], ' Richarlison']"
+2020,24,home
+2020,24,away,"[['04'], 'Jack Grealish']","[['15'], 'Conor Hourihane']","[['48'], 'Tyrone Mings']"
+2020,25,home,"[['28'], 'Sadio Mané']","[['34'], 'Andy Robertson']","[['88'], 'Diogo Jota']"
+2020,25,away,"[['25'], 'Alexandre Lacazette']"
+2020,26,home,"[['04'], 'Riyad Mahrez']","[['84'], 'Nathan Aké']"
+2020,26,away,"[['37', '53', '58'], 'Jamie Vardy']","[['77'], 'James Maddison']","[['88'], 'Youri Tielemans']"
+2020,27,home
+2020,27,away,"[['88'], 'Patrick Bamford']"
+2020,28,home,"[['25'], 'Lucas Moura']"
+2020,28,away,"[['90.07'], 'Callum Wilson']"
+2020,29,home,"[['04', '25'], 'Callum Robinson']","[['27'], 'Kyle Bartley']"
+2020,29,away,"[['55'], 'Mason Mount']","[['70'], 'Callum Hudson-Odoi']","[['90.03'], 'Tammy Abraham']"
+2020,30,home,"[['17', '57'], 'Jarrod Bowen']","[['66'], '!Raúl Jiménez']","[['90.03'], 'Sébastien Haller']"
+2020,30,away
+2020,31,home,"[['61'], 'Bukayo Saka']","[['64'], 'Nicolas Pépé']"
+2020,31,away,"[['84'], 'David McGoldrick']"
+2020,32,home,"[['04', '22', '39'], 'Ollie Watkins']","[['35'], 'John McGinn']","[['55'], 'Ross Barkley']","[['66', '75'], 'Jack Grealish']"
+2020,32,away,"[['33', '60'], 'Mohamed Salah']"
+2020,33,home,"[['50'], 'Ben Chilwell']","[['66'], 'Kurt Zouma']","[['78', '82'], ' Jorginho']"
+2020,33,away
+2020,34,home,"[['16'], 'Dominic Calvert-Lewin']","[['45.02'], 'Yerry Mina']","[['52', '70'], 'James Rodríguez']"
+2020,34,away,"[['41'], 'Neal Maupay']","[['90.02'], 'Yves Bissouma']"
+2020,35,home,"[['59'], ' Rodrigo']"
+2020,35,away,"[['17'], 'Raheem Sterling']"
+2020,36,home
+2020,36,away,"[['14'], 'Michail Antonio']","[['34'], 'Pablo Fornals']","[['83'], 'Jarrod Bowen']"
+2020,37,home,"[['02'], 'Bruno Fernandes']"
+2020,37,away,"[['04'], 'Tanguy Ndombélé']","[['07', '37'], 'Son Heung-Min']","[['30', '79'], 'Harry Kane']","[['51'], 'Sèrge Aurier']"
+2020,38,home,"[['14'], 'Allan Saint-Maximin']","[['65', '77'], 'Callum Wilson']"
+2020,38,away,"[['61'], 'Ashley Westwood']"
+2020,39,home,"[['41'], 'Moussa Djenepo']","[['69'], 'Oriol Romeu']"
+2020,39,away
+2020,40,home,"[['56'], 'Pedro Neto']"
+2020,40,away
+2020,41,home,"[['15', '28'], 'Timo Werner']","[['59'], 'Kai Havertz']"
+2020,41,away,"[['43'], 'Danny Ings']","[['57'], 'Ché Adams']","[['90.02'], 'Jannik Vestergaard']"
+2020,42,home,"[['19'], 'Wilfried Zaha']"
+2020,42,away,"[['90'], 'Alexis Mac Allister']"
+2020,43,home,"[['19'], 'Michael Keane']","[['81'], 'Dominic Calvert-Lewin']"
+2020,43,away,"[['03'], 'Sadio Mané']","[['72'], 'Mohamed Salah']"
+2020,44,home
+2020,44,away,"[['70'], 'Raúl Jiménez']"
+2020,45,home
+2020,45,away,"[['90.01'], 'Ross Barkley']"
+2020,46,home,"[['23'], 'Raheem Sterling']"
+2020,46,away
+2020,47,home,"[['02'], '!Luke Shaw']"
+2020,47,away,"[['23'], 'Harry Maguire']","[['86'], 'Bruno Fernandes']","[['90'], 'Aaron Wan-Bissaka']","[['90.06'], 'Marcus Rashford']"
+2020,48,home,"[['85'], 'Billy Sharp']"
+2020,48,away,"[['77'], 'Ademola Lookman']"
+2020,49,home,"[['01'], 'Son Heung-Min']","[['08', '16'], 'Harry Kane']"
+2020,49,away,"[['82'], 'Fabián Balbuena']","[['85'], '!Davinson Sánchez']","[['90.04'], 'Manuel Lanzini']"
+2020,50,home
+2020,50,away
+2020,51,home
+2020,51,away,"[['80'], 'Jamie Vardy']"
+2020,52,home
+2020,52,away,"[['55', '67', '74'], 'Patrick Bamford']"
+2020,53,home,"[['40'], '!Jake Livermore']"
+2020,53,away,"[['83'], 'Karlan Grant']"
+2020,54,home
+2020,54,away,"[['76'], 'Son Heung-Min']"
+2020,55,home,"[['90.05'], 'Tom Cairney']"
+2020,55,away,"[['08'], 'Jairo Riedewald']","[['63'], 'Wilfried Zaha']"
+2020,56,home,"[['41'], 'Roberto Firmino']","[['64'], 'Diogo Jota']"
+2020,56,away,"[['13'], 'Sander Berge']"
+2020,57,home
+2020,57,away
+2020,58,home,"[['27'], 'James Ward-Prowse']","[['35'], 'Ché Adams']"
+2020,58,away
+2020,59,home,"[['18'], 'Michail Antonio']"
+2020,59,away,"[['51'], 'Phil Foden']"
+2020,60,home,"[['80'], 'Raúl Jiménez']"
+2020,60,away,"[['89'], 'Jacob Murphy']"
+2020,61,home,"[['62'], 'Tyrone Mings']","[['90.03'], 'Ollie Watkins']","[['90.07'], 'Jack Grealish']"
+2020,61,away,"[['20'], 'Jannik Vestergaard']","[['33', '45'], 'James Ward-Prowse']","[['58'], 'Danny Ings']"
+2020,62,home
+2020,62,away,"[['26'], 'Hakim Ziyech']","[['63'], 'Kurt Zouma']","[['70'], 'Timo Werner']"
+2020,63,home,"[['26'], 'Bobby De Cordova-Reid']","[['30'], 'Ola Aina']"
+2020,63,away
+2020,64,home,"[['48'], 'Stuart Dallas']"
+2020,64,away,"[['03'], 'Harvey Barnes']","[['21', '90.01'], 'Youri Tielemans']","[['76'], 'Jamie Vardy']"
+2020,65,home,"[['42'], 'Mohamed Salah']","[['85'], 'Diogo Jota']"
+2020,65,away,"[['10'], 'Pablo Fornals']"
+2020,66,home
+2020,66,away,"[['69'], 'Pierre-Emerick Aubameyang']"
+2020,67,home,"[['56', '84'], 'Callum Wilson']"
+2020,67,away,"[['90.01'], 'Dominic Calvert-Lewin']"
+2020,68,home
+2020,68,away,"[['28'], 'Kyle Walker']"
+2020,69,home,"[['13'], 'Harry Kane']","[['73'], 'Gareth Bale']"
+2020,69,away,"[['56'], 'Tariq Lamptey']"
+2020,70,home,"[['18'], 'Rayan Aït-Nouri']","[['27'], 'Daniel Podence']"
+2020,70,away
+2020,71,home
+2020,71,away,"[['25'], '!Bukayo Saka']","[['72', '75'], 'Ollie Watkins']"
+2020,72,home
+2020,72,away
+2020,73,home,"[['23'], 'Tammy Abraham']","[['34'], 'Ben Chilwell']","[['77'], 'Thiago Silva']","[['80'], 'Timo Werner']"
+2020,73,away,"[['09'], 'David McGoldrick']"
+2020,74,home,"[['12'], 'Scott Dann']","[['22'], 'Eberechi Eze']","[['42'], '!Hélder Costa']","[['70'], 'Jordan Ayew']"
+2020,74,away,"[['27'], 'Patrick Bamford']"
+2020,75,home,"[['19'], ' Bernard']"
+2020,75,away,"[['25', '32'], 'Bruno Fernandes']","[['90.05'], 'Edinson Cavani']"
+2020,76,home,"[['15'], 'Jamie Vardy']"
+2020,76,away
+2020,77,home,"[['31'], 'Gabriel Jesus']"
+2020,77,away,"[['13'], 'Mohamed Salah']"
+2020,78,home,"[['07'], 'Ché Adams']","[['82'], 'Stuart Armstrong']"
+2020,78,away
+2020,79,home
+2020,79,away,"[['88'], 'Harry Kane']"
+2020,80,home,"[['90.01'], 'Tomás Soucek']"
+2020,80,away
+2020,81,home,"[['47'], 'Ezri Konsa']"
+2020,81,away,"[['12'], 'Danny Welbeck']","[['56'], 'Solly March']"
+2020,82,home,"[['08'], 'Chris Wood']"
+2020,82,away
+2020,83,home,"[['15'], 'Bobby De Cordova-Reid']","[['70'], 'Ruben Loftus-Cheek']"
+2020,83,away,"[['01', '29'], 'Dominic Calvert-Lewin']","[['35'], 'Abdoulaye Doucouré']"
+2020,84,home
+2020,84,away
+2020,85,home,"[['21'], '!Jonny Evans']","[['41'], 'Diogo Jota']","[['86'], 'Roberto Firmino']"
+2020,85,away
+2020,86,home,"[['56'], 'Bruno Fernandes']"
+2020,86,away
+2020,87,home
+2020,87,away,"[['10'], '!Federico Fernández']","[['65'], 'Tammy Abraham']"
+2020,88,home
+2020,88,away,"[['56'], 'Sébastien Haller']"
+2020,89,home,"[['05'], 'Son Heung-Min']","[['65'], 'Giovani Lo Celso']"
+2020,89,away
+2020,90,home,"[['75'], 'Pedro Neto']"
+2020,90,away,"[['58'], 'Theo Walcott']"
+2020,91,home,"[['30'], 'Gabriel Magalhães']"
+2020,91,away,"[['27'], 'Pedro Neto']","[['42'], 'Daniel Podence']"
+2020,92,home,"[['90.03'], 'Pascal Groß']"
+2020,92,away,"[['60'], 'Diogo Jota']"
+2020,93,home
+2020,93,away
+2020,94,home
+2020,94,away,"[['88'], 'Callum Wilson']","[['90'], ' Joelinton']"
+2020,95,home
+2020,95,away,"[['79'], ' Raphinha']"
+2020,96,home,"[['86'], 'Harvey Barnes']"
+2020,96,away,"[['30'], 'Ademola Lookman']","[['38'], 'Ivan Cavaleiro']"
+2020,97,home,"[['06', '22', '69'], 'Riyad Mahrez']","[['41'], 'Benjamin Mendy']","[['66'], 'Ferran Torres']"
+2020,97,away
+2020,98,home,"[['23'], 'Jan Bednarek']","[['33'], 'James Ward-Prowse']"
+2020,98,away,"[['60'], 'Bruno Fernandes']","[['74', '90.02'], 'Edinson Cavani']"
+2020,99,home,"[['13'], 'Conor Gallagher']"
+2020,99,away
+2020,100,home,"[['02'], 'Angelo Ogbonna']","[['46'], 'Jarrod Bowen']"
+2020,100,away,"[['25'], 'Jack Grealish']"
+2020,101,home,"[['13'], 'Ollie Watkins']","[['42'], 'Bertrand Traoré']"
+2020,101,away
+2020,102,home,"[['26'], 'Pascal Groß']"
+2020,102,away,"[['45'], 'Jannik Vestergaard']","[['81'], 'Danny Ings']"
+2020,103,home,"[['03'], 'Robert Brady']"
+2020,103,away,"[['45.03'], 'Dominic Calvert-Lewin']"
+2020,104,home,"[['27'], 'Olivier Giroud']","[['61'], 'Kurt Zouma']","[['90.03'], 'Christian Pulisic']"
+2020,104,away,"[['04'], 'Patrick Bamford']"
+2020,105,home,"[['24'], 'Mohamed Salah']","[['58'], 'Georginio Wijnaldum']","[['67'], 'Joël Matip']","[['78'], '!Nélson Semedo']"
+2020,105,away
+2020,106,home,"[['05'], 'Raheem Sterling']","[['26'], 'Kevin De Bruyne']"
+2020,106,away
+2020,107,home,"[['26'], 'Oliver McBurnie']"
+2020,107,away,"[['24'], 'Ayoze Pérez']","[['90'], 'Jamie Vardy']"
+2020,108,home,"[['13'], 'Son Heung-Min']","[['45.01'], 'Harry Kane']"
+2020,108,away
+2020,109,home,"[['30'], 'Conor Gallagher']"
+2020,109,away,"[['08'], '!Darnell Furlong']","[['55', '68'], 'Wilfried Zaha']","[['59', '82'], 'Christian Benteke']"
+2020,110,home,"[['38'], 'Tomás Soucek']"
+2020,110,away,"[['65'], 'Paul Pogba']","[['68'], 'Mason Greenwood']","[['78'], 'Marcus Rashford']"
+2020,111,home
+2020,111,away,"[['73'], '!Pierre-Emerick Aubameyang']"
+2020,112,home,"[['81'], 'Jeffrey Schlupp']"
+2020,112,away,"[['23'], 'Harry Kane']"
+2020,113,home,"[['22'], 'Gylfi Sigurdsson']"
+2020,113,away
+2020,114,home,"[['25'], 'Bobby De Cordova-Reid']"
+2020,114,away,"[['79'], 'Mohamed Salah']"
+2020,115,home,"[['06'], 'Mateusz Klich']"
+2020,115,away,"[['25'], 'Tomás Soucek']","[['80'], 'Angelo Ogbonna']"
+2020,116,home,"[['27', '44'], 'James Maddison']","[['41'], 'Jamie Vardy']"
+2020,116,away
+2020,117,home
+2020,117,away
+2020,118,home,"[['01'], 'Miguel Almirón']","[['82'], 'Dwight Gayle']"
+2020,118,away,"[['50'], 'Darnell Furlong']"
+2020,119,home,"[['34'], 'Ché Adams']","[['62'], 'Stuart Armstrong']","[['83'], 'Nathan Redmond']"
+2020,119,away
+2020,120,home
+2020,120,away,"[['90.04'], 'Anwar El Ghazi']"
+2020,121,home,"[['52'], 'Pierre-Emerick Aubameyang']"
+2020,121,away,"[['18'], 'Theo Walcott']"
+2020,122,home
+2020,122,away
+2020,123,home
+2020,123,away
+2020,124,home,"[['35'], 'Patrick Bamford']","[['61'], ' Rodrigo']","[['77'], 'Stuart Dallas']","[['85'], 'Ezgjan Alioski']","[['88'], 'Jack Harrison']"
+2020,124,away,"[['26'], 'Jeff Hendrick']","[['65'], 'Ciaran Clark']"
+2020,125,home
+2020,125,away,"[['21'], ' Richarlison']","[['72'], 'Mason Holgate']"
+2020,126,home,"[['05', '87'], 'David McGoldrick']"
+2020,126,away,"[['26', '51'], 'Marcus Rashford']","[['33'], 'Anthony Martial']"
+2020,127,home,"[['55'], 'Sébastien Haller']"
+2020,127,away,"[['34'], 'Christian Benteke']"
+2020,128,home,"[['66'], 'Daniel Podence']","[['90.05'], 'Pedro Neto']"
+2020,128,away,"[['49'], 'Olivier Giroud']"
+2020,129,home,"[['26'], 'Mohamed Salah']","[['90'], 'Roberto Firmino']"
+2020,129,away,"[['33'], 'Son Heung-Min']"
+2020,130,home,"[['30'], 'Ilkay Gündogan']"
+2020,130,away,"[['43'], '!Rúben Dias']"
+2020,131,home,"[['87'], 'Danny Welbeck']"
+2020,131,away,"[['63'], 'Jayden Bogle']"
+2020,132,home,"[['35'], 'Ashley Barnes']","[['51'], 'Chris Wood']"
+2020,132,away,"[['89'], 'Fábio Silva']"
+2020,133,home,"[['10'], 'Thiago Silva']","[['78', '80'], 'Tammy Abraham']"
+2020,133,away
+2020,134,home
+2020,134,away,"[['03'], 'Takumi Minamino']","[['35'], 'Sadio Mané']","[['44', '68'], 'Roberto Firmino']","[['52'], 'Jordan Henderson']","[['81', '84'], 'Mohamed Salah']"
+2020,135,home,"[['22'], '!Rob Holding']","[['45'], 'Yerry Mina']"
+2020,135,away,"[['35'], 'Nicolas Pépé']"
+2020,136,home,"[['02', '03'], 'Scott McTominay']","[['20', '70'], 'Bruno Fernandes']","[['37'], 'Victor Lindelöf']","[['66'], 'Daniel James']"
+2020,136,away,"[['42'], 'Liam Cooper']","[['73'], 'Stuart Dallas']"
+2020,137,home,"[['64'], 'Callum Wilson']"
+2020,137,away,"[['42'], '!Matt Ritchie']"
+2020,138,home
+2020,138,away,"[['16'], 'Raheem Sterling']"
+2020,139,home
+2020,139,away,"[['45.04'], 'Jamie Vardy']","[['59'], '!Toby Alderweireld']"
+2020,140,home
+2020,140,away,"[['05', '88'], 'Anwar El Ghazi']","[['84'], 'Bertrand Traoré']"
+2020,141,home,"[['35'], 'Alexandre Lacazette']","[['44'], 'Granit Xhaka']","[['56'], 'Bukayo Saka']"
+2020,141,away,"[['85'], 'Tammy Abraham']"
+2020,142,home,"[['05'], 'Bertrand Traoré']","[['66'], 'Kortney Hause']","[['76'], 'Anwar El Ghazi']"
+2020,142,away
+2020,143,home
+2020,143,away
+2020,144,home,"[['05'], 'Patrick Bamford']"
+2020,144,away
+2020,145,home,"[['31'], 'Harvey Barnes']","[['85'], '!Axel Tuanzebe']"
+2020,145,away,"[['23'], 'Marcus Rashford']","[['79'], 'Bruno Fernandes']"
+2020,146,home,"[['12'], 'Sadio Mané']"
+2020,146,away,"[['82'], 'Semi Ajayi']"
+2020,147,home,"[['14'], 'Ilkay Gündogan']","[['55'], 'Ferran Torres']"
+2020,147,away
+2020,148,home
+2020,148,away,"[['80'], 'Gylfi Sigurdsson']"
+2020,149,home,"[['60'], 'Ben Johnson']","[['82'], 'Tomás Soucek']"
+2020,149,away,"[['44'], 'Neal Maupay']","[['70'], 'Lewis Dunk']"
+2020,150,home,"[['86'], 'Romain Saïss']"
+2020,150,away,"[['01'], 'Tanguy Ndombélé']"
+2020,151,home
+2020,151,away,"[['66'], 'Alexandre Lacazette']"
+2020,152,home,"[['32'], 'Ben Mee']"
+2020,152,away
+2020,153,home,"[['34'], 'Olivier Giroud']"
+2020,153,away,"[['50'], 'Anwar El Ghazi']"
+2020,154,home,"[['58'], 'Wilfried Zaha']"
+2020,154,away,"[['83'], 'Harvey Barnes']"
+2020,155,home,"[['37'], ' Richarlison']"
+2020,155,away,"[['32'], 'Phil Foden']","[['63'], 'Riyad Mahrez']","[['77'], 'Bernardo Silva']"
+2020,156,home,"[['90.03'], 'Marcus Rashford']"
+2020,156,away
+2020,157,home
+2020,157,away
+2020,158,home
+2020,158,away
+2020,159,home,"[['25'], 'Harry Kane']"
+2020,159,away,"[['74'], 'Ivan Cavaleiro']"
+2020,160,home
+2020,160,away,"[['09'], '!Romaine Sawyers']","[['31'], 'Ezgjan Alioski']","[['36'], 'Jack Harrison']","[['40'], ' Rodrigo']","[['72'], ' Raphinha']"
+2020,161,home,"[['13'], 'Aaron Connolly']","[['46'], 'Neal Maupay']","[['70'], 'Lewis Dunk']"
+2020,161,away,"[['19'], 'Romain Saïss']","[['34'], '!Dan Burn']","[['44'], 'Rúben Neves']"
+2020,162,home,"[['52'], 'Ashley Barnes']"
+2020,162,away,"[['49'], 'Ola Aina']"
+2020,163,home,"[['90.02'], 'Callum Hudson-Odoi']"
+2020,163,away,"[['18'], 'Ilkay Gündogan']","[['21'], 'Phil Foden']","[['34'], 'Kevin De Bruyne']"
+2020,164,home,"[['04'], 'Jeffrey Schlupp']","[['45.06'], 'Eberechi Eze']"
+2020,164,away
+2020,165,home
+2020,165,away,"[['86'], 'Tomás Soucek']"
+2020,166,home,"[['40'], 'Anthony Martial']","[['61'], 'Bruno Fernandes']"
+2020,166,away,"[['58'], 'Bertrand Traoré']"
+2020,167,home,"[['82'], 'Andy Carroll']"
+2020,167,away,"[['55'], 'James Maddison']","[['72'], 'Youri Tielemans']"
+2020,168,home,"[['02'], 'Danny Ings']"
+2020,168,away
+2020,169,home,"[['29'], 'Harry Kane']","[['43'], 'Son Heung-Min']","[['50'], 'Toby Alderweireld']"
+2020,169,away
+2020,170,home
+2020,170,away,"[['23'], 'Kieran Tierney']","[['28'], 'Bukayo Saka']","[['60', '64'], 'Alexandre Lacazette']"
+2020,171,home
+2020,171,away
+2020,172,home
+2020,172,away,"[['29'], 'Carlos Vinícius']","[['68'], 'Harry Kane']"
+2020,173,home,"[['05'], 'Ademola Lookman']"
+2020,173,away,"[['21'], 'Edinson Cavani']","[['65'], 'Paul Pogba']"
+2020,174,home,"[['47'], 'Patrick Bamford']","[['78'], 'Stuart Dallas']","[['84'], ' Raphinha']"
+2020,174,away
+2020,175,home,"[['06'], 'Wilfred Ndidi']","[['41'], 'James Maddison']"
+2020,175,away
+2020,176,home,"[['73'], 'Billy Sharp']"
+2020,176,away
+2020,177,home,"[['45.01'], 'Jarrod Bowen']","[['66'], 'Michail Antonio']"
+2020,177,away,"[['51'], 'Matheus Pereira']"
+2020,178,home,"[['14'], 'Rúben Neves']"
+2020,178,away,"[['06'], 'Alex Iwobi']","[['77'], 'Michael Keane']"
+2020,179,home
+2020,179,away,"[['83'], 'Ashley Barnes']"
+2020,180,home,"[['44'], 'Phil Foden']"
+2020,180,away
+2020,181,home,"[['50', '77'], 'Pierre-Emerick Aubameyang']","[['60'], 'Bukayo Saka']"
+2020,181,away
+2020,182,home
+2020,182,away
+2020,183,home
+2020,183,away,"[['78'], 'Mason Mount']"
+2020,184,home
+2020,184,away,"[['17'], 'Neal Maupay']"
+2020,185,home,"[['37'], 'James Maddison']","[['90.05'], 'Harvey Barnes']"
+2020,185,away
+2020,186,home
+2020,186,away
+2020,187,home,"[['26', '68'], 'John Stones']","[['56'], 'Ilkay Gündogan']","[['88'], 'Raheem Sterling']"
+2020,187,away
+2020,188,home,"[['59'], 'David McGoldrick']"
+2020,188,away,"[['05'], 'Sèrge Aurier']","[['40'], 'Harry Kane']","[['62'], 'Tanguy Ndombélé']"
+2020,189,home,"[['09'], 'Michail Antonio']"
+2020,189,away
+2020,190,home,"[['38'], 'Fábio Silva']","[['43'], 'Willy-Arnaud Boly']"
+2020,190,away,"[['08', '56'], 'Matheus Pereira']","[['52'], 'Semi Ajayi']"
+2020,191,home
+2020,191,away
+2020,192,home,"[['52'], 'Ben Mee']","[['76'], 'Dwight McNeil']","[['79'], 'Chris Wood']"
+2020,192,away,"[['14'], 'Ollie Watkins']","[['68'], 'Jack Grealish']"
+2020,193,home,"[['30'], 'James Rodríguez']"
+2020,193,away,"[['67'], 'Youri Tielemans']"
+2020,194,home,"[['64'], 'Harry Maguire']"
+2020,194,away,"[['23'], 'Kean Bryan']","[['74'], 'Oliver Burke']"
+2020,195,home
+2020,195,away,"[['06', '30'], 'Ilkay Gündogan']","[['20'], 'João Cancelo']","[['45.02'], 'Riyad Mahrez']","[['57'], 'Raheem Sterling']"
+2020,196,home
+2020,196,away
+2020,197,home,"[['03'], 'Wilfried Zaha']","[['90.07'], 'Michy Batshuayi']"
+2020,197,away,"[['09', '25'], 'Tomás Soucek']","[['65'], 'Craig Dawson']"
+2020,198,home,"[['57'], 'Miguel Almirón']"
+2020,198,away,"[['17'], ' Raphinha']","[['61'], 'Jack Harrison']"
+2020,199,home,"[['03'], 'Stuart Armstrong']"
+2020,199,away,"[['08'], 'Nicolas Pépé']","[['39'], 'Bukayo Saka']","[['72'], 'Alexandre Lacazette']"
+2020,200,home,"[['49'], 'Pierre-Emile Højbjerg']"
+2020,200,away,"[['45.04'], 'Roberto Firmino']","[['47'], 'Trent Alexander-Arnold']","[['65'], 'Sadio Mané']"
+2020,201,home
+2020,201,away
+2020,202,home,"[['17'], 'Leandro Trossard']"
+2020,202,away
+2020,203,home,"[['40'], 'César Azpilicueta']","[['84'], 'Marcos Alonso']"
+2020,203,away
+2020,204,home,"[['60'], 'Eberechi Eze']"
+2020,204,away
+2020,205,home
+2020,205,away,"[['73', '90.03'], 'Callum Wilson']"
+2020,206,home,"[['13'], 'Harvey Barnes']"
+2020,206,away,"[['15'], 'Stuart Dallas']","[['70'], 'Patrick Bamford']","[['84'], 'Jack Harrison']"
+2020,207,home,"[['09'], 'Gabriel Jesus']"
+2020,207,away
+2020,208,home
+2020,208,away,"[['41'], 'Ross Barkley']"
+2020,209,home,"[['47'], 'Kyle Bartley']","[['66'], 'Matheus Pereira']"
+2020,209,away,"[['10'], 'Bobby De Cordova-Reid']","[['76'], 'Ivan Cavaleiro']"
+2020,210,home,"[['87'], 'Craig Dawson']"
+2020,210,away,"[['57', '68'], 'Mohamed Salah']","[['84'], 'Georginio Wijnaldum']"
+2020,211,home,"[['81'], 'Ollie Watkins']"
+2020,211,away,"[['51'], 'Tomás Soucek']","[['56', '83'], 'Jesse Lingard']"
+2020,212,home
+2020,212,away,"[['03'], 'Gabriel Jesus']","[['38'], 'Raheem Sterling']"
+2020,213,home
+2020,213,away,"[['17'], 'Kelechi Iheanacho']","[['44'], 'James Justin']"
+2020,214,home,"[['48'], ' Raphinha']"
+2020,214,away,"[['09'], 'Gylfi Sigurdsson']","[['41'], 'Dominic Calvert-Lewin']"
+2020,215,home,"[['18'], 'Aaron Wan-Bissaka']","[['25'], 'Marcus Rashford']","[['34'], '!Jan Bednarek']","[['39'], 'Edinson Cavani']","[['69', '90'], 'Anthony Martial']","[['71'], 'Scott McTominay']","[['87'], 'Bruno Fernandes']","[['90.03'], 'Daniel James']"
+2020,215,away
+2020,216,home,"[['56'], 'Jayden Bogle']","[['73'], 'Billy Sharp']"
+2020,216,away,"[['41'], 'Matt Phillips']"
+2020,217,home,"[['45.05'], 'Rúben Neves']","[['49'], 'João Moutinho']"
+2020,217,away,"[['32'], 'Nicolas Pépé']"
+2020,218,home
+2020,218,away,"[['56'], 'Steven Alzate']"
+2020,219,home,"[['02'], 'Jonjo Shelvey']"
+2020,219,away,"[['21'], 'Jairo Riedewald']","[['25'], 'Gary Cahill']"
+2020,220,home
+2020,220,away,"[['24'], ' Jorginho']"
+2020,221,home,"[['02'], 'Ollie Watkins']"
+2020,221,away
+2020,222,home,"[['53'], 'Jóhann Gudmundsson']"
+2020,222,away,"[['36'], 'Lewis Dunk']"
+2020,223,home
+2020,223,away
+2020,224,home,"[['03'], 'Jack Harrison']","[['52'], 'Patrick Bamford']"
+2020,224,away
+2020,225,home,"[['63'], 'Mohamed Salah']"
+2020,225,away,"[['49', '73'], 'Ilkay Gündogan']","[['76'], 'Raheem Sterling']","[['83'], 'Phil Foden']"
+2020,226,home,"[['24'], 'Edinson Cavani']","[['45'], 'Bruno Fernandes']","[['70'], 'Scott McTominay']"
+2020,226,away,"[['49'], 'Abdoulaye Doucouré']","[['52'], 'James Rodríguez']","[['90.05'], 'Dominic Calvert-Lewin']"
+2020,227,home,"[['16'], 'Joe Willock']","[['26', '45.04'], 'Miguel Almirón']"
+2020,227,away,"[['30'], 'Takumi Minamino']","[['48'], 'James Ward-Prowse']"
+2020,228,home,"[['55'], '!Antonio Rüdiger']"
+2020,228,away,"[['43'], 'Mason Mount']","[['58'], ' Jorginho']"
+2020,229,home,"[['54'], 'Harry Kane']","[['58'], 'Son Heung-Min']"
+2020,229,away
+2020,230,home
+2020,230,away
+2020,231,home,"[['13', '41', '47'], 'Pierre-Emerick Aubameyang']","[['45'], 'Héctor Bellerín']"
+2020,231,away,"[['58'], 'Pascal Struijk']","[['69'], 'Hélder Costa']"
+2020,232,home
+2020,232,away
+2020,233,home,"[['31'], 'Olivier Giroud']","[['39'], 'Timo Werner']"
+2020,233,away
+2020,234,home
+2020,234,away,"[['05'], 'Jóhann Gudmundsson']","[['10'], 'Jay Rodríguez']","[['47'], 'Matthew Lowton']"
+2020,235,home
+2020,235,away,"[['48', '65'], 'Josh Maja']"
+2020,236,home,"[['78'], 'James Maddison']","[['81'], 'Jamie Vardy']","[['85'], 'Harvey Barnes']"
+2020,236,away,"[['67'], 'Mohamed Salah']"
+2020,237,home,"[['23'], ' Rodri']","[['50', '66'], 'Ilkay Gündogan']"
+2020,237,away
+2020,238,home,"[['25'], 'Danny Ings']"
+2020,238,away,"[['53'], 'Rúben Neves']","[['66'], 'Pedro Neto']"
+2020,239,home,"[['02'], 'Mbaye Diagne']"
+2020,239,away,"[['44'], 'Bruno Fernandes']"
+2020,240,home,"[['41'], 'Declan Rice']","[['58'], 'Issa Diop']","[['90.06'], 'Ryan Fredericks']"
+2020,240,away
+2020,241,home
+2020,241,away,"[['02'], 'Raheem Sterling']"
+2020,242,home,"[['48'], 'Bertrand Traoré']"
+2020,242,away,"[['19'], 'James Maddison']","[['23'], 'Harvey Barnes']"
+2020,243,home,"[['55'], 'Joël Veltman']"
+2020,243,away,"[['28'], 'Jean-Philippe Mateta']","[['90.05'], 'Christian Benteke']"
+2020,244,home
+2020,244,away
+2020,245,home,"[['61'], 'Ademola Lookman']"
+2020,245,away
+2020,246,home
+2020,246,away,"[['03'], ' Richarlison']","[['83'], 'Gylfi Sigurdsson']"
+2020,247,home,"[['30'], 'Marcus Rashford']","[['57'], 'Daniel James']","[['75'], 'Bruno Fernandes']"
+2020,247,away,"[['36'], 'Allan Saint-Maximin']"
+2020,248,home,"[['33'], 'Takumi Minamino']"
+2020,248,away,"[['54'], 'Mason Mount']"
+2020,249,home,"[['05'], 'Michail Antonio']","[['47'], 'Jesse Lingard']"
+2020,249,away,"[['64'], 'Lucas Moura']"
+2020,250,home,"[['64'], '!Illan Meslier']"
+2020,250,away
+2020,251,home
+2020,251,away
+2020,252,home
+2020,252,away
+2020,253,home,"[['09'], ' Richarlison']"
+2020,253,away
+2020,254,home
+2020,254,away,"[['05'], 'Anwar El Ghazi']"
+2020,255,home,"[['06'], 'Youri Tielemans']"
+2020,255,away,"[['39'], 'David Luiz']","[['45.02'], 'Alexandre Lacazette']","[['52'], 'Nicolas Pépé']"
+2020,256,home,"[['30'], 'Rúben Dias']","[['68'], 'John Stones']"
+2020,256,away,"[['43'], 'Michail Antonio']"
+2020,257,home,"[['52'], 'Jamaal Lascelles']"
+2020,257,away,"[['73'], 'Rúben Neves']"
+2020,258,home
+2020,258,away,"[['48'], 'Curtis Jones']","[['65'], '!Kean Bryan']"
+2020,259,home,"[['02', '55'], 'Gareth Bale']","[['15'], 'Harry Kane']","[['31'], 'Lucas Moura']"
+2020,259,away
+2020,260,home,"[['11'], 'Kyle Bartley']"
+2020,260,away
+2020,261,home
+2020,261,away
+2020,262,home,"[['10'], 'Adam Lallana']"
+2020,262,away,"[['62'], 'Kelechi Iheanacho']","[['87'], 'Daniel Amartey']"
+2020,263,home,"[['39'], 'Chris Wood']"
+2020,263,away,"[['06'], 'Pierre-Emerick Aubameyang']"
+2020,264,home,"[['31'], '!Ben Godfrey']","[['65'], ' Jorginho']"
+2020,264,away
+2020,265,home
+2020,265,away,"[['45'], 'Mario Lemina']"
+2020,266,home
+2020,266,away,"[['02'], 'Bruno Fernandes']","[['50'], 'Luke Shaw']"
+2020,267,home
+2020,267,away,"[['32'], 'James Ward-Prowse']","[['49'], 'Ché Adams']"
+2020,268,home,"[['25', '49'], 'Gareth Bale']","[['52', '76'], 'Harry Kane']"
+2020,268,away,"[['45.01'], 'Christian Benteke']"
+2020,269,home
+2020,269,away
+2020,270,home,"[['21'], 'Jesse Lingard']","[['28'], 'Craig Dawson']"
+2020,270,away
+2020,271,home,"[['44'], 'Martin Ødegaard']","[['64'], 'Alexandre Lacazette']"
+2020,271,away,"[['33'], 'Érik Lamela']"
+2020,272,home,"[['37'], 'Luka Milivojevic']"
+2020,272,away
+2020,273,home,"[['32'], 'Dominic Calvert-Lewin']"
+2020,273,away,"[['13'], 'Chris Wood']","[['24'], 'Dwight McNeil']"
+2020,274,home
+2020,274,away,"[['47'], 'John Stones']","[['56'], 'Gabriel Jesus']","[['60'], 'Sergio Agüero']"
+2020,275,home
+2020,275,away
+2020,276,home,"[['39', '69', '78'], 'Kelechi Iheanacho']","[['64'], 'Ayoze Pérez']","[['80'], '!Ethan Ampadu']"
+2020,276,away
+2020,277,home,"[['53'], '!Craig Dawson']"
+2020,277,away
+2020,278,home,"[['90.04'], 'Jamaal Lascelles']"
+2020,278,away,"[['86'], '!Ciaran Clark']"
+2020,279,home,"[['27'], 'Ché Adams']"
+2020,279,away,"[['16'], 'Lewis Dunk']","[['56'], 'Leandro Trossard']"
+2020,280,home
+2020,280,away,"[['45.02'], 'Diogo Jota']"
+2020,281,home,"[['45.03'], 'Leandro Trossard']","[['51'], 'Danny Welbeck']","[['68'], 'Neal Maupay']"
+2020,281,away
+2020,282,home,"[['04'], 'Matej Vydra']"
+2020,282,away,"[['34'], 'Kelechi Iheanacho']"
+2020,283,home
+2020,283,away
+2020,284,home,"[['38'], 'Joachim Andersen']"
+2020,284,away,"[['29'], 'Patrick Bamford']","[['58'], ' Raphinha']"
+2020,285,home
+2020,285,away,"[['42'], 'Mason Mount']"
+2020,286,home,"[['15'], '!Leander Dendoncker']","[['80', '90.03'], 'Gabriel Jesus']","[['90'], 'Riyad Mahrez']"
+2020,286,away,"[['61'], 'Conor Coady']"
+2020,287,home,"[['30'], 'David McGoldrick']"
+2020,287,away
+2020,288,home,"[['60'], 'Gareth Bale']","[['90'], 'Son Heung-Min']"
+2020,288,away,"[['30'], 'Danny Ings']"
+2020,289,home
+2020,289,away,"[['65'], ' Richarlison']"
+2020,290,home,"[['15'], 'Jesse Lingard']","[['17'], 'Jarrod Bowen']","[['32'], 'Tomás Soucek']"
+2020,290,away,"[['38'], '!Tomás Soucek']","[['61'], '!Craig Dawson']","[['82'], 'Alexandre Lacazette']"
+2020,291,home
+2020,291,away,"[['64', '82'], 'Diogo Jota']","[['68'], 'Mohamed Salah']"
+2020,292,home,"[['78', '81'], ' Trézéguet']","[['87'], 'Ollie Watkins']"
+2020,292,away,"[['61'], 'Aleksandar Mitrovic']"
+2020,293,home,"[['27'], 'Christian Pulisic']","[['71'], 'Mason Mount']"
+2020,293,away,"[['45.02', '45.04'], 'Matheus Pereira']","[['63', '90.01'], 'Callum Robinson']","[['68'], 'Mbaye Diagne']"
+2020,294,home,"[['56'], 'James Rodríguez']"
+2020,294,away,"[['86'], 'Michy Batshuayi']"
+2020,295,home,"[['12'], 'Jack Harrison']","[['49'], '!Phil Jagielka']"
+2020,295,away,"[['45.02'], 'Ben Osborn']"
+2020,296,home
+2020,296,away,"[['58'], 'Benjamin Mendy']","[['74'], 'Gabriel Jesus']"
+2020,297,home,"[['62'], 'Marcus Rashford']","[['83'], 'Mason Greenwood']"
+2020,297,away,"[['13'], 'Danny Welbeck']"
+2020,298,home,"[['28'], ' Joelinton']","[['85'], 'Joe Willock']"
+2020,298,away,"[['30', '34'], 'Harry Kane']"
+2020,299,home,"[['31'], 'Stuart Armstrong']","[['42'], 'Danny Ings']","[['66'], 'Nathan Redmond']"
+2020,299,away,"[['12'], 'Chris Wood']","[['28'], 'Matej Vydra']"
+2020,300,home,"[['44'], 'Leander Dendoncker']","[['68'], 'Fábio Silva']"
+2020,300,away,"[['06'], 'Jesse Lingard']","[['14'], 'Pablo Fornals']","[['38'], 'Jarrod Bowen']"
+2020,301,home
+2020,301,away
+2020,302,home,"[['18'], 'Matej Vydra']"
+2020,302,away,"[['59'], 'Jacob Murphy']","[['64'], 'Allan Saint-Maximin']"
+2020,303,home,"[['63'], 'Christian Benteke']"
+2020,303,away,"[['08'], 'Kai Havertz']","[['10', '78'], 'Christian Pulisic']","[['30'], 'Kurt Zouma']"
+2020,304,home
+2020,304,away,"[['90.02'], 'Adama Traoré']"
+2020,305,home,"[['57'], 'Mohamed Salah']","[['90.01'], 'Trent Alexander-Arnold']"
+2020,305,away,"[['43'], 'Ollie Watkins']"
+2020,306,home,"[['76'], 'Ferran Torres']"
+2020,306,away,"[['42', '90.01'], 'Stuart Dallas']"
+2020,307,home
+2020,307,away,"[['33', '85'], 'Alexandre Lacazette']","[['71'], 'Gabriel Martinelli']"
+2020,308,home,"[['40'], 'Son Heung-Min']"
+2020,308,away,"[['57'], ' Fred']","[['79'], 'Edinson Cavani']","[['90.06'], 'Mason Greenwood']"
+2020,309,home,"[['32'], 'Matheus Pereira']","[['35'], 'Matt Phillips']","[['69'], 'Callum Robinson']"
+2020,309,away
+2020,310,home,"[['29', '44'], 'Jesse Lingard']","[['48'], 'Jarrod Bowen']"
+2020,310,away,"[['70', '90.01'], 'Kelechi Iheanacho']"
+2020,311,home,"[['90.07'], 'Eddie Nketiah']"
+2020,311,away,"[['59'], 'Josh Maja']"
+2020,312,home,"[['01'], 'John McGinn']"
+2020,312,away,"[['22'], 'Phil Foden']","[['40'], ' Rodri']"
+2020,313,home
+2020,313,away
+2020,314,home,"[['31', '62'], 'Gylfi Sigurdsson']"
+2020,314,away,"[['27', '68'], 'Harry Kane']"
+2020,315,home,"[['87'], 'Diego Llorente']"
+2020,315,away,"[['31'], 'Sadio Mané']"
+2020,316,home,"[['23'], 'Jamie Vardy']","[['26'], 'Jonny Evans']","[['36'], 'Kelechi Iheanacho']"
+2020,316,away
+2020,317,home,"[['48', '84'], 'Mason Greenwood']","[['90.03'], 'Edinson Cavani']"
+2020,317,away,"[['50'], 'James Tarkowski']"
+2020,318,home,"[['36'], '!Issa Diop']","[['41'], ' Joelinton']","[['82'], 'Joe Willock']"
+2020,318,away,"[['73'], 'Issa Diop']","[['80'], 'Jesse Lingard']"
+2020,319,home,"[['19', '75'], 'Danny Ings']","[['48'], 'Ché Adams']"
+2020,319,away,"[['02'], 'Christian Benteke']"
+2020,320,home,"[['60'], 'Willian José']"
+2020,320,away
+2020,321,home
+2020,321,away,"[['76'], '!Bernd Leno']"
+2020,322,home,"[['09'], 'Anwar El Ghazi']","[['90.02'], 'Keinan Davis']"
+2020,322,away,"[['23'], 'Matheus Pereira']","[['47'], '!Tyrone Mings']"
+2020,323,home
+2020,323,away,"[['19'], '!Tosin Adarabioyo']"
+2020,324,home
+2020,324,away
+2020,325,home,"[['50'], 'Timothy Castagne']","[['80'], 'Kelechi Iheanacho']"
+2020,325,away,"[['12'], 'Wilfried Zaha']"
+2020,326,home,"[['03'], 'Mohamed Salah']"
+2020,326,away,"[['90.05'], 'Joe Willock']"
+2020,327,home,"[['15', '59'], 'Kevin De Bruyne']","[['40', '55'], 'Riyad Mahrez']","[['45.03'], 'Ilkay Gündogan']"
+2020,327,away,"[['25'], 'James Ward-Prowse']","[['56'], 'Ché Adams']"
+2020,328,home,"[['19'], 'David McGoldrick']"
+2020,328,away
+2020,329,home
+2020,329,away,"[['43'], 'Timo Werner']"
+2020,330,home
+2020,330,away,"[['15', '21', '44'], 'Chris Wood']","[['85'], 'Ashley Westwood']"
+2020,331,home,"[['14'], 'Pascal Groß']","[['79'], 'Danny Welbeck']"
+2020,331,away
+2020,332,home,"[['19'], 'Chris Wood']"
+2020,332,away,"[['21', '29'], 'Michail Antonio']"
+2020,333,home,"[['10', '49'], 'Kai Havertz']"
+2020,333,away
+2020,334,home
+2020,334,away,"[['57'], 'Sergio Agüero']","[['59'], 'Ferran Torres']"
+2020,335,home,"[['19'], 'Dominic Calvert-Lewin']"
+2020,335,away,"[['13'], 'Ollie Watkins']","[['80'], 'Anwar El Ghazi']"
+2020,336,home,"[['10'], 'Bruno Fernandes']","[['68'], 'Marcus Rashford']"
+2020,336,away,"[['34'], 'Diogo Jota']","[['45.03', '47'], 'Roberto Firmino']","[['90'], 'Mohamed Salah']"
+2020,337,home
+2020,337,away,"[['06'], 'Mohamed Elneny']","[['66'], 'Pierre-Emerick Aubameyang']"
+2020,338,home,"[['61'], 'James Ward-Prowse']"
+2020,338,away,"[['68'], 'Jonny Evans']"
+2020,339,home,"[['36', '61', '69'], 'Gareth Bale']","[['77'], 'Son Heung-Min']"
+2020,339,away
+2020,340,home,"[['62'], 'Mbaye Diagne']"
+2020,340,away,"[['45.02'], 'Fábio Silva']"
+2020,341,home,"[['29'], 'Emile Smith Rowe']","[['35'], 'Nicolas Pépé']","[['90'], ' Willian']"
+2020,341,away,"[['67'], 'Matheus Pereira']"
+2020,342,home,"[['24'], 'Bertrand Traoré']"
+2020,342,away,"[['52'], 'Bruno Fernandes']","[['56'], 'Mason Greenwood']","[['87'], 'Edinson Cavani']"
+2020,343,home
+2020,343,away,"[['35'], 'Ashley Westwood']","[['44'], 'Chris Wood']"
+2020,344,home,"[['13'], 'Stuart Dallas']","[['42'], 'Patrick Bamford']","[['84'], ' Rodrigo']"
+2020,344,away,"[['25'], 'Son Heung-Min']"
+2020,345,home,"[['80'], 'Marc Albrighton']","[['87'], 'Kelechi Iheanacho']"
+2020,345,away,"[['22'], 'Joe Willock']","[['34'], 'Paul Dummett']","[['64', '73'], 'Callum Wilson']"
+2020,346,home,"[['31'], 'Sadio Mané']","[['90'], 'Thiago Alcântara']"
+2020,346,away
+2020,347,home,"[['44'], 'Raheem Sterling']"
+2020,347,away,"[['63'], 'Hakim Ziyech']","[['90.02'], 'Marcos Alonso']"
+2020,348,home
+2020,348,away,"[['02'], 'Christian Benteke']","[['88'], 'Eberechi Eze']"
+2020,349,home
+2020,349,away,"[['24'], 'Dominic Calvert-Lewin']"
+2020,350,home,"[['76'], 'Adama Traoré']","[['90'], 'Morgan Gibbs-White']"
+2020,350,away,"[['13'], 'Lewis Dunk']"
+2020,351,home,"[['84'], 'Danny Welbeck']"
+2020,351,away,"[['87'], 'Saïd Benrahma']"
+2020,352,home
+2020,352,away,"[['44'], 'Mateusz Klich']","[['59'], 'Jack Harrison']","[['77', '79'], ' Rodrigo']"
+2020,353,home
+2020,353,away,"[['07'], 'Daniel Jebbison']"
+2020,354,home,"[['15'], 'Mason Greenwood']"
+2020,354,away,"[['10'], 'Luke Thomas']","[['66'], 'Çaglar Söyüncü']"
+2020,355,home,"[['15'], 'Hal Robson-Kanu']"
+2020,355,away,"[['33'], 'Mohamed Salah']","[['90.05'], 'Alisson Becker']"
+2020,356,home
+2020,356,away,"[['16'], 'Emile Smith Rowe']"
+2020,357,home,"[['32'], 'Christian Benteke']","[['76'], 'Wilfried Zaha']","[['84'], 'Tyrick Mitchell']"
+2020,357,away,"[['17'], 'John McGinn']","[['34'], 'Anwar El Ghazi']"
+2020,358,home,"[['25'], 'Emil Krafth']","[['45.06'], ' Joelinton']","[['62'], 'Joe Willock']"
+2020,358,away,"[['39'], 'João Cancelo']","[['42', '64', '66'], 'Ferran Torres']"
+2020,359,home,"[['27'], 'Ché Adams']","[['60'], 'Nathan Tella']","[['82'], 'Theo Walcott']"
+2020,359,away,"[['75'], 'Fábio Carvalho']"
+2020,360,home,"[['45'], 'Harry Kane']","[['62'], 'Pierre-Emile Højbjerg']"
+2020,360,away
+2020,361,home,"[['50'], 'Leandro Trossard']","[['72'], 'Adam Webster']","[['76'], 'Dan Burn']"
+2020,361,away,"[['02'], 'Ilkay Gündogan']","[['48'], 'Phil Foden']"
+2020,362,home
+2020,362,away,"[['43'], 'Roberto Firmino']","[['52'], 'Nathaniel Phillips']","[['88'], 'Alex Oxlade-Chamberlain']"
+2020,363,home,"[['47'], 'Antonio Rüdiger']","[['66'], ' Jorginho']"
+2020,363,away,"[['76'], 'Kelechi Iheanacho']"
+2020,364,home,"[['62'], 'Christian Benteke']"
+2020,364,away,"[['35', '90.05'], 'Nicolas Pépé']","[['90.01'], 'Gabriel Martinelli']"
+2020,365,home,"[['48'], ' Richarlison']"
+2020,365,away
+2020,366,home,"[['15'], 'Edinson Cavani']"
+2020,366,away,"[['76'], 'Joe Bryan']"
+2020,367,home,"[['45.04'], 'Joe Willock']"
+2020,367,away
+2020,368,home
+2020,368,away,"[['73'], 'Patrick Bamford']","[['90.05'], 'Tyler Roberts']"
+2020,369,home,"[['08'], 'Steven Bergwijn']"
+2020,369,away,"[['20'], '!Sergio Reguilón']","[['39'], 'Ollie Watkins']"
+2020,370,home,"[['27'], 'Matheus Pereira']"
+2020,370,away,"[['45.01'], 'Tomás Soucek']","[['82'], 'Angelo Ogbonna']","[['88'], 'Michail Antonio']"
+2020,371,home,"[['49', '60'], 'Nicolas Pépé']"
+2020,371,away
+2020,372,home,"[['43'], 'Bertrand Traoré']","[['52'], 'Anwar El Ghazi']"
+2020,372,away,"[['70'], 'Ben Chilwell']"
+2020,373,home
+2020,373,away,"[['23'], 'Joe Willock']","[['88'], 'Fabian Schär']"
+2020,374,home,"[['17'], ' Rodrigo']","[['42'], 'Kalvin Phillips']","[['79'], 'Patrick Bamford']"
+2020,374,away,"[['90'], 'Hal Robson-Kanu']"
+2020,375,home,"[['18', '52'], 'Jamie Vardy']"
+2020,375,away,"[['41'], 'Harry Kane']","[['76'], '!Kasper Schmeichel']","[['86', '90.06'], 'Gareth Bale']"
+2020,376,home,"[['36', '74'], 'Sadio Mané']"
+2020,376,away
+2020,377,home,"[['11'], 'Kevin De Bruyne']","[['14'], 'Gabriel Jesus']","[['53'], 'Phil Foden']","[['71', '76'], 'Sergio Agüero']"
+2020,377,away
+2020,378,home,"[['24'], 'David McGoldrick']"
+2020,378,away
+2020,379,home,"[['30', '33'], 'Pablo Fornals']","[['86'], 'Declan Rice']"
+2020,379,away
+2020,380,home,"[['39'], 'Nélson Semedo']"
+2020,380,away,"[['13'], 'Anthony Elanga']","[['45.04'], 'Juan Mata']"

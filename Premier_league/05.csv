@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+2005,1,home,"[['04'], 'Kevin Phillips']","[['09'], 'Steven Davis']"
+2005,1,away,"[['06'], 'Kevin Davies']","[['08'], 'Ivan Campo']"
+2005,2,home
+2005,2,away,"[['43'], 'Ruud van Nistelrooij']","[['46'], 'Wayne Rooney']"
+2005,3,home
+2005,3,away
+2005,4,home
+2005,4,away
+2005,5,home
+2005,5,away
+2005,6,home
+2005,6,away,"[['45.01'], '!Andy Griffin']","[['64'], 'Jermain Defoe']"
+2005,7,home,"[['31'], 'Andy Gray']"
+2005,7,away,"[['11', '90.03'], 'Darren Bent']","[['64'], 'Danny Murphy']"
+2005,8,home,"[['46'], 'Teddy Sheringham']","[['62'], 'Nigel Reo-Coker']","[['80'], 'Matthew Etherington']"
+2005,8,away,"[['17'], 'Andrew Todd']"
+2005,9,home,"[['81'], 'Thierry Henry']","[['87'], 'Robin van Persie']"
+2005,9,away
+2005,10,home
+2005,10,away,"[['90.03'], 'Hernán Crespo']"
+2005,11,home,"[['07'], 'Nicky Butt']"
+2005,11,away,"[['20'], 'Joey Barton']","[['47'], 'Andrew Cole']"
+2005,12,home,"[['15'], 'Morten Pedersen']","[['70'], ' Tugay']"
+2005,12,away,"[['49'], 'Brian McBride']"
+2005,13,home,"[['42'], 'Darren Bent']"
+2005,13,away
+2005,14,home,"[['24'], 'Xabi Alonso']"
+2005,14,away
+2005,15,home,"[['66'], 'Ruud van Nistelrooij']"
+2005,15,away
+2005,16,home
+2005,16,away
+2005,17,home,"[['49'], 'Jermain Defoe']","[['75'], ' Mido']"
+2005,17,away
+2005,18,home,"[['02', '59'], 'Geoff Horsfield']"
+2005,18,away,"[['63'], 'Laurent Robert']"
+2005,19,home
+2005,19,away,"[['52'], 'Marcus Bent']"
+2005,20,home,"[['73'], 'Didier Drogba']"
+2005,20,away
+2005,21,home
+2005,21,away,"[['14', '44'], 'Mark Viduka']","[['71'], 'Franck Queudrue']"
+2005,22,home,"[['42'], 'Lomana Lua Lua']"
+2005,22,away,"[['11'], '!Richard Hughes']"
+2005,23,home,"[['41'], 'Anthony Le Tallec']"
+2005,23,away,"[['10'], 'Darius Vassell']","[['35'], 'Trevor Sinclair']"
+2005,24,home,"[['31', '90.01'], 'Pascal Cygan']","[['53', '82'], 'Thierry Henry']"
+2005,24,away,"[['22'], 'Claus Jensen']"
+2005,25,home
+2005,25,away
+2005,26,home,"[['36'], 'El Hadji Diouf']","[['50'], 'Stelios Giannakopoulos']"
+2005,26,away
+2005,27,home,"[['23', '80'], 'Frank Lampard']","[['43'], 'Joe Cole']","[['68'], 'Didier Drogba']"
+2005,27,away
+2005,28,home,"[['11'], 'Milan Baros']"
+2005,28,away
+2005,29,home,"[['57'], 'Brian McBride']"
+2005,29,away
+2005,30,home,"[['66'], 'Claudio Reyna']","[['69'], 'Andrew Cole']"
+2005,30,away,"[['52'], 'Jhon Viáfara']"
+2005,31,home
+2005,31,away,"[['39'], 'Asier Del Horno']","[['71'], 'Damien Duff']"
+2005,32,home,"[['11', '64'], 'Geoff Horsfield']"
+2005,32,away,"[['09', '32'], 'Emile Heskey']","[['25'], 'Jirí Jarosik']"
+2005,33,home,"[['90'], 'Teddy Sheringham']"
+2005,33,away,"[['59'], 'Kevin Nolan']","[['85'], 'Ivan Campo']"
+2005,34,home,"[['01'], 'Jason Roberts']"
+2005,34,away
+2005,35,home
+2005,35,away,"[['38'], 'Dennis Rommedahl']","[['81'], 'Chris Perry']","[['90.04'], 'Darren Bent']"
+2005,36,home
+2005,36,away,"[['66'], 'Wayne Rooney']","[['90.01'], 'Ruud van Nistelrooij']"
+2005,37,home
+2005,37,away,"[['15'], 'Darren Bent']"
+2005,38,home,"[['54'], ' Geremi']","[['82'], 'Didier Drogba']"
+2005,38,away
+2005,39,home
+2005,39,away,"[['59'], '!Duncan Ferguson']"
+2005,40,home,"[['45.01'], 'Ruud van Nistelrooij']"
+2005,40,away,"[['75'], 'Joey Barton']"
+2005,41,home,"[['40'], ' Yakubu']","[['59'], 'Massimo Maccarone']"
+2005,41,away,"[['90.03'], 'José Antonio Reyes']"
+2005,42,home,"[['78'], ""Charles N'Zogbia""]"
+2005,42,away,"[['13'], 'Brian McBride']"
+2005,43,home
+2005,43,away
+2005,44,home,"[['26'], 'Jonathan Greening']"
+2005,44,away,"[['40'], 'David Connolly']","[['90.02'], 'Jimmy Bullard']"
+2005,45,home
+2005,45,away
+2005,46,home,"[['25', '29', '50'], 'Marlon Harewood']","[['89'], 'Yossi Benayoun']"
+2005,46,away
+2005,47,home,"[['04'], 'James Milner']"
+2005,47,away,"[['78'], 'Robbie Keane']"
+2005,48,home
+2005,48,away,"[['55'], 'Hernán Crespo']","[['60'], 'Arjen Robben']"
+2005,49,home,"[['66'], 'Luís Boa Morte']"
+2005,49,away,"[['46'], 'Marlon Harewood']","[['52'], '!Tony Warner']"
+2005,50,home,"[['03'], 'Lomana Lua Lua']"
+2005,50,away,"[['06'], 'Jirí Jarosik']"
+2005,51,home,"[['07'], 'Gary Breen']"
+2005,51,away,"[['90.03'], 'Zoltán Gera']"
+2005,52,home
+2005,52,away,"[['62'], 'Alan Shearer']","[['66'], 'Michael Owen']","[['85'], ""Charles N'Zogbia""]"
+2005,53,home
+2005,53,away
+2005,54,home
+2005,54,away,"[['90.04'], 'Gary Speed']"
+2005,55,home,"[['68'], 'Henri Camara']"
+2005,55,away,"[['13'], ' Yakubu']"
+2005,56,home,"[['11', '30'], 'Sol Campbell']"
+2005,56,away
+2005,57,home,"[['72'], '!Stephen Warnock']","[['75'], 'Walter Pandiani']"
+2005,57,away,"[['67'], 'Luis Garcia']","[['83'], 'Djibril Cissé']"
+2005,58,home,"[['25'], 'Kevin Nolan']"
+2005,58,away
+2005,59,home,"[['45.01', '75'], 'Frank Lampard']"
+2005,59,away,"[['44'], 'Luke Moore']"
+2005,60,home
+2005,60,away,"[['46'], 'Damien Francis']"
+2005,61,home,"[['67'], 'Ruud van Nistelrooij']"
+2005,61,away,"[['32', '81'], 'Morten Pedersen']"
+2005,62,home,"[['18'], 'Michael Owen']"
+2005,62,away
+2005,63,home,"[['50'], 'Curtis Davies']"
+2005,63,away,"[['09', '31'], 'Danny Murphy']"
+2005,64,home
+2005,64,away
+2005,65,home
+2005,65,away,"[['02'], 'Tommy Miller']","[['60'], 'Julio Arca']"
+2005,66,home,"[['08'], 'Jermain Defoe']"
+2005,66,away
+2005,67,home,"[['80', '88'], 'Shefki Kuqi']"
+2005,67,away
+2005,68,home,"[['25', '48'], 'Darren Bent']"
+2005,68,away,"[['51'], 'Ledley King']","[['64'], ' Mido']","[['80'], 'Robbie Keane']"
+2005,69,home,"[['02'], 'Collins John']","[['28'], 'Claus Jensen']"
+2005,69,away,"[['17', '45'], 'Ruud van Nistelrooij']","[['18'], 'Wayne Rooney']"
+2005,70,home
+2005,70,away
+2005,71,home,"[['45.01'], 'Tommy Miller']"
+2005,71,away,"[['72'], 'Yossi Benayoun']"
+2005,72,home,"[['80'], '!Stephen Clemence']"
+2005,72,away
+2005,73,home,"[['50'], 'Luke Moore']","[['90.03'], 'Steven Davis']"
+2005,73,away,"[['33', '88'], ' Yakubu']","[['64'], 'George Boateng']"
+2005,74,home,"[['36'], 'Steven Gerrard']"
+2005,74,away,"[['27'], 'Frank Lampard']","[['43'], 'Damien Duff']","[['63'], 'Joe Cole']","[['82'], ' Geremi']"
+2005,75,home,"[['72'], 'Danny Mills']","[['90.02'], 'Darius Vassell']"
+2005,75,away
+2005,76,home,"[['48'], 'Henri Camara']","[['62'], 'Lee McCulloch']"
+2005,76,away,"[['68'], 'Radhi Jaidi']"
+2005,77,home,"[['52', '61'], 'Didier Drogba']","[['55', '59'], 'Frank Lampard']","[['74'], 'Eidur Gudjohnsen']"
+2005,77,away,"[['04'], 'Stelios Giannakopoulos']"
+2005,78,home,"[['75'], 'Djibril Cissé']"
+2005,78,away
+2005,79,home,"[['54'], ' Yakubu']"
+2005,79,away,"[['46'], ""Gary O'Neil""]"
+2005,80,home,"[['82'], 'Stephen Elliott']"
+2005,80,away,"[['40'], 'Wayne Rooney']","[['76'], 'Ruud van Nistelrooij']","[['87'], 'Giuseppe Rossi']"
+2005,81,home,"[['57'], ' Mido']","[['63'], 'Jermaine Jenas']"
+2005,81,away
+2005,82,home,"[['38'], ' Kanu']","[['76'], 'Darren Carter']"
+2005,82,away,"[['17'], 'Philippe Senderos']"
+2005,83,home,"[['39'], 'Jason Roberts']"
+2005,83,away
+2005,84,home
+2005,84,away,"[['19'], 'Kevin Phillips']"
+2005,85,home,"[['18', '56'], 'Andrew Cole']"
+2005,85,away,"[['90.01'], 'Bobby Zamora']"
+2005,86,home,"[['48'], 'Danny Murphy']"
+2005,86,away,"[['27'], 'Collins John']"
+2005,87,home,"[['61'], 'Robert Pirès']"
+2005,87,away
+2005,88,home
+2005,88,away,"[['31'], '!Aaron Hughes']","[['82'], 'Alan Mahon']"
+2005,89,home,"[['49'], 'Paul Dickov']","[['81'], 'Craig Bellamy']"
+2005,89,away
+2005,90,home,"[['30'], 'Collins John']","[['90.02'], 'Luís Boa Morte']"
+2005,90,away
+2005,91,home,"[['07'], 'Mikaël Silvestre']"
+2005,91,away,"[['72'], 'Jermaine Jenas']"
+2005,92,home,"[['14'], 'Darío Silva']"
+2005,92,away,"[['61'], 'Darren Ambrose']","[['77'], 'Dennis Rommedahl']"
+2005,93,home,"[['81'], 'Hidetoshi Nakata']","[['90.02'], 'Kevin Nolan']"
+2005,93,away
+2005,94,home,"[['37'], 'James Beattie']"
+2005,94,away,"[['50'], 'Frank Lampard']"
+2005,95,home,"[['33', '37'], 'Shola Ameobi']","[['63'], ' Emre']"
+2005,95,away,"[['35'], 'Liam Lawrence']","[['41'], 'Stephen Elliott']"
+2005,96,home,"[['66'], 'Teddy Sheringham']","[['74'], '!Chris Riggott']"
+2005,96,away,"[['87'], 'Franck Queudrue']"
+2005,97,home
+2005,97,away,"[['43'], 'Simon Davies']"
+2005,98,home
+2005,98,away,"[['72'], 'Kevin Nolan']"
+2005,99,home,"[['10'], 'Didier Drogba']","[['14', '62'], 'Frank Lampard']","[['74'], '!Zurab Khizanishvili']"
+2005,99,away,"[['18', '44'], 'Craig Bellamy']"
+2005,100,home,"[['18'], 'Xabi Alonso']","[['82'], 'Boudewijn Zenden']"
+2005,100,away
+2005,101,home,"[['02', '77'], 'Gaizka Mendieta']","[['25'], 'Jimmy Floyd Hasselbaink']","[['45.05'], ' Yakubu']"
+2005,101,away,"[['90.04'], 'Cristiano Ronaldo']"
+2005,102,home,"[['04'], 'Dean Whitehead']"
+2005,102,away,"[['48'], 'Zvonimir Vukic']","[['59', '66'], 'Matthew Taylor']","[['73'], 'Darío Silva']"
+2005,103,home,"[['17'], 'Ledley King']"
+2005,103,away,"[['76'], 'Robert Pirès']"
+2005,104,home,"[['90.02'], 'Pascal Chimbonda']"
+2005,104,away
+2005,105,home
+2005,105,away,"[['46', '78'], 'Michael Owen']","[['80'], 'Alan Shearer']"
+2005,106,home,"[['04', '26'], 'Darius Vassell']","[['83'], 'Andrew Cole']"
+2005,106,away,"[['65'], 'Liam Ridgewell']"
+2005,107,home,"[['12'], 'Robin van Persie']","[['36', '82'], 'Thierry Henry']"
+2005,107,away,"[['75'], 'Alan Stubbs']"
+2005,108,home
+2005,108,away,"[['85'], 'Steven Gerrard']","[['89'], 'Xabi Alonso']"
+2005,109,home,"[['02'], 'Brett Emerton']","[['18'], 'Paul Dickov']","[['58'], 'Morten Pedersen']","[['90'], 'Craig Bellamy']"
+2005,109,away,"[['36'], 'Bryan Hughes']"
+2005,110,home,"[['06', '45'], 'Steed Malbranque']"
+2005,110,away,"[['20'], 'Lee Croft']"
+2005,111,home,"[['78'], ' Emre']"
+2005,111,away
+2005,112,home
+2005,112,away,"[['48'], 'Pascal Chimbonda']","[['79'], 'Jason Roberts']"
+2005,113,home,"[['57'], 'Teddy Sheringham']"
+2005,113,away
+2005,114,home,"[['16'], 'James Beattie']"
+2005,114,away
+2005,115,home,"[['31'], 'Darren Fletcher']"
+2005,115,away
+2005,116,home,"[['32'], 'Kevin Nolan']"
+2005,116,away
+2005,117,home,"[['65'], 'Darren Ambrose']"
+2005,117,away,"[['37'], 'Alan Smith']","[['70', '84'], 'Ruud van Nistelrooij']"
+2005,118,home,"[['47'], 'Joe Cole']","[['51'], 'Hernán Crespo']","[['90'], 'Damien Duff']"
+2005,118,away
+2005,119,home,"[['23'], 'Boudewijn Zenden']","[['39'], 'Djibril Cissé']","[['79'], 'Fernando Morientes']"
+2005,119,away
+2005,120,home
+2005,120,away
+2005,121,home,"[['90'], 'Dean Whitehead']"
+2005,121,away,"[['55'], 'Kevin Phillips']","[['81'], 'Gareth Barry']","[['82'], 'Milan Baros']"
+2005,122,home,"[['45.01', '69'], 'Nathan Ellington']","[['51'], 'Neil Clement']","[['90'], 'Robert Earnshaw']"
+2005,122,away
+2005,123,home,"[['28'], 'Henri Camara']","[['45'], 'Jimmy Bullard']"
+2005,123,away,"[['11'], 'Robin van Persie']","[['21', '41'], 'Thierry Henry']"
+2005,124,home,"[['64'], 'James Morrison']","[['76'], ' Yakubu']","[['84'], 'Jimmy Floyd Hasselbaink']"
+2005,124,away,"[['09'], 'Collins John']","[['69'], 'Papa Bouba Diop']"
+2005,125,home,"[['16'], ' Mido']"
+2005,125,away,"[['90.03'], 'Anton Ferdinand']"
+2005,126,home,"[['04'], 'Cesc Fàbregas']","[['45'], 'Thierry Henry']","[['90'], 'Robin van Persie']"
+2005,126,away
+2005,127,home,"[['69'], 'Steven Davis']"
+2005,127,away
+2005,128,home
+2005,128,away,"[['61'], 'John Arne Riise']"
+2005,129,home
+2005,129,away,"[['27'], 'Hernán Crespo']","[['67'], 'Frank Lampard']"
+2005,130,home
+2005,130,away,"[['67'], 'Julian Gray']"
+2005,131,home,"[['88'], 'Lee McCulloch']"
+2005,131,away,"[['08'], 'Robbie Keane']","[['77'], 'Edgar Davids']"
+2005,132,home,"[['46'], 'Joseph Yobo']"
+2005,132,away
+2005,133,home,"[['04', '18'], 'Brian McBride']"
+2005,133,away,"[['90.02'], '!Sylvain Legwinski']"
+2005,134,home,"[['12'], 'Mark Viduka']","[['66'], ' Yakubu']"
+2005,134,away,"[['18'], 'Nathan Ellington']","[['57'], ' Kanu']"
+2005,135,home,"[['01'], 'Marlon Harewood']"
+2005,135,away,"[['47'], 'Wayne Rooney']","[['56'], ""John O'Shea""]"
+2005,136,home
+2005,136,away,"[['30'], 'Luis Garcia']","[['45'], 'Steven Gerrard']"
+2005,137,home
+2005,137,away,"[['28'], 'James McFadden']","[['45'], 'Mikel Arteta']"
+2005,138,home,"[['20'], 'Abdoulaye Diagne-Faye']","[['32'], 'Stelios Giannakopoulos']"
+2005,138,away
+2005,139,home,"[['61'], 'John Terry']"
+2005,139,away
+2005,140,home,"[['19', '41'], 'Peter Crouch']","[['70'], 'Luis Garcia']"
+2005,140,away
+2005,141,home,"[['20'], 'Paul Scholes']","[['80'], 'Wayne Rooney']","[['84'], 'Ruud van Nistelrooij']"
+2005,141,away
+2005,142,home,"[['32'], 'Alan Shearer']"
+2005,142,away,"[['75'], 'Gavin McCann']"
+2005,143,home,"[['37'], ' Mido']","[['51'], 'Robbie Keane']","[['77'], 'Michael Carrick']"
+2005,143,away,"[['16'], 'Dean Whitehead']","[['60'], 'Anthony Le Tallec']"
+2005,144,home
+2005,144,away
+2005,145,home,"[['36'], 'Darren Bent']","[['72'], 'Jay Bothroyd']"
+2005,145,away,"[['25', '84'], 'Andrew Cole']","[['37'], 'Trevor Sinclair']","[['69'], 'Joey Barton']","[['79'], 'Darius Vassell']"
+2005,146,home,"[['11'], 'Emile Heskey']"
+2005,146,away,"[['36'], 'Bobby Zamora']","[['45'], 'Marlon Harewood']"
+2005,147,home,"[['84'], 'Nicky Butt']"
+2005,147,away
+2005,148,home,"[['55', '57'], 'Paul Dickov']","[['76'], 'Shefki Kuqi']"
+2005,148,away,"[['45.01'], 'Bobby Zamora']","[['63'], 'Marlon Harewood']"
+2005,149,home,"[['82'], 'El Hadji Diouf']"
+2005,149,away,"[['88'], 'Juan Pablo Ángel']"
+2005,150,home,"[['42'], 'Darren Bent']","[['48'], 'Darren Ambrose']"
+2005,150,away
+2005,151,home,"[['67'], 'John Terry']"
+2005,151,away
+2005,152,home,"[['71', '77'], 'Fernando Morientes']"
+2005,152,away
+2005,153,home,"[['82'], 'Nolberto Solano']"
+2005,153,away
+2005,154,home,"[['05'], 'Diomansy Kamara']","[['61'], 'Kevin Campbell']"
+2005,154,away
+2005,155,home,"[['15'], 'Ryan Giggs']"
+2005,155,away,"[['07'], 'James McFadden']"
+2005,156,home,"[['57'], 'Ledley King']","[['85'], ' Mido']","[['89'], 'Jermain Defoe']"
+2005,156,away,"[['24'], 'Lomana Lua Lua']"
+2005,157,home,"[['09'], 'James Beattie']"
+2005,157,away,"[['19'], '!David Weir']","[['67'], 'Bobby Zamora']"
+2005,158,home,"[['30'], 'Rio Ferdinand']","[['34', '55'], 'Wayne Rooney']","[['70'], 'Ruud van Nistelrooij']"
+2005,158,away
+2005,159,home
+2005,159,away,"[['10'], 'Ruud van Nistelrooij']","[['51'], 'Wayne Rooney']"
+2005,160,home
+2005,160,away,"[['32'], 'Kevin Davies']","[['75', '80'], 'Stelios Giannakopoulos']","[['79'], 'Gary Speed']"
+2005,161,home,"[['45'], 'Papa Bouba Diop']","[['52'], 'Luís Boa Morte']"
+2005,161,away,"[['90'], '!Zat Knight']"
+2005,162,home,"[['01'], 'David Sommeil']","[['14'], 'Joey Barton']","[['40'], 'Antoine Sibierski']","[['70'], 'Bradley Wright-Phillips']"
+2005,162,away,"[['76'], 'Jirí Jarosik']"
+2005,163,home,"[['56'], 'Svetoslav Todorov']"
+2005,163,away
+2005,164,home,"[['19'], '!Nolberto Solano']","[['73'], 'Marlon Harewood']"
+2005,164,away,"[['05', '43', '90.03'], 'Michael Owen']","[['66'], 'Alan Shearer']"
+2005,165,home,"[['09', '51', '63'], 'Henri Camara']"
+2005,165,away
+2005,166,home
+2005,166,away,"[['39'], 'Arjen Robben']","[['73'], 'Joe Cole']"
+2005,167,home,"[['30', '43'], ' Yakubu']","[['70'], 'Franck Queudrue']"
+2005,167,away,"[['25'], 'Robbie Keane']","[['63'], 'Jermaine Jenas']","[['83'], ' Mido']"
+2005,168,home,"[['34', '84'], 'Milan Baros']","[['48'], 'Mark Delaney']","[['82'], 'Juan Pablo Ángel']"
+2005,168,away
+2005,169,home
+2005,169,away,"[['58'], 'José Antonio Reyes']"
+2005,170,home,"[['03'], 'William Gallas']","[['24'], 'Frank Lampard']","[['74'], 'Hernán Crespo']"
+2005,170,away,"[['29'], 'Brian McBride']","[['56'], 'Heidar Helguson']"
+2005,171,home,"[['14'], 'Steven Gerrard']","[['43'], 'Peter Crouch']"
+2005,171,away
+2005,172,home,"[['35'], 'Paul Scholes']","[['45.02'], 'Rio Ferdinand']","[['63'], 'Ruud van Nistelrooij']"
+2005,172,away
+2005,173,home
+2005,173,away,"[['38', '79'], 'Shefki Kuqi']"
+2005,174,home,"[['17'], ""Gary O'Neil""]"
+2005,174,away,"[['56'], 'James Collins']"
+2005,175,home
+2005,175,away
+2005,176,home,"[['58'], 'Robbie Keane']","[['90.02'], 'Jermain Defoe']"
+2005,176,away
+2005,177,home,"[['11', '45'], 'Jason Roberts']","[['23'], 'Lee McCulloch']","[['71'], 'Henri Camara']"
+2005,177,away,"[['02'], 'Antoine Sibierski']","[['77'], 'Joey Barton']","[['88'], 'Andrew Cole']"
+2005,178,home,"[['07'], 'Dennis Bergkamp']","[['13'], 'José Antonio Reyes']","[['37', '43'], 'Thierry Henry']"
+2005,178,away
+2005,179,home,"[['18'], 'Jamie Clapham']","[['78'], 'Walter Pandiani']"
+2005,179,away,"[['04'], 'Ruud van Nistelrooij']","[['53'], 'Wayne Rooney']"
+2005,180,home,"[['42'], 'James Beattie']"
+2005,180,away,"[['11'], 'Peter Crouch']","[['17'], 'Steven Gerrard']","[['47'], 'Djibril Cissé']"
+2005,181,home,"[['13', '61'], 'Brian McBride']","[['32'], 'Heidar Helguson']"
+2005,181,away,"[['29'], 'Luke Moore']","[['60', '76'], 'Liam Ridgewell']"
+2005,182,home
+2005,182,away,"[['79'], 'Joe Cole']"
+2005,183,home,"[['23', '52'], ' Kanu']"
+2005,183,away
+2005,184,home
+2005,184,away,"[['43'], 'Jason Roberts']","[['45'], 'Henri Camara']"
+2005,185,home
+2005,185,away
+2005,186,home,"[['21'], 'Shaun Bartlett']","[['63'], 'Darren Bent']"
+2005,186,away
+2005,187,home,"[['25'], 'Hernán Crespo']","[['43'], 'Arjen Robben']"
+2005,187,away
+2005,188,home,"[['51'], 'Peter Crouch']"
+2005,188,away
+2005,189,home,"[['08'], ""!Bruno N'Gotty""]","[['44'], 'Louis Saha']","[['68', '90'], 'Cristiano Ronaldo']"
+2005,189,away,"[['33'], 'Gary Speed']"
+2005,190,home
+2005,190,away
+2005,191,home,"[['43'], ""Gary O'Neil""]"
+2005,191,away
+2005,192,home
+2005,192,away,"[['90.02'], 'Tim Cahill']"
+2005,193,home,"[['43'], 'Teemu Tainio']","[['66'], ' Mido']"
+2005,193,away
+2005,194,home
+2005,194,away,"[['15'], 'Morten Pedersen']","[['53'], 'Steven Reid']","[['85'], 'Craig Bellamy']"
+2005,195,home,"[['20'], 'Jermaine Pennant']","[['33'], 'Mario Melchiot']"
+2005,195,away
+2005,196,home,"[['09'], 'Morten Pedersen']","[['38'], 'Paul Dickov']"
+2005,196,away,"[['03'], 'Matthew Taylor']"
+2005,197,home,"[['10'], 'Radhi Jaidi']","[['71'], 'El Hadji Diouf']"
+2005,197,away,"[['67'], 'Steven Gerrard']","[['82'], 'Luis Garcia']"
+2005,198,home,"[['09'], 'James Beattie']","[['41', '59'], 'Tim Cahill']"
+2005,198,away,"[['18'], 'Matt Holland']"
+2005,199,home,"[['43', '61'], 'Collins John']"
+2005,199,away,"[['07'], 'Liam Lawrence']"
+2005,200,home,"[['27'], 'Nolberto Solano']","[['90.03'], 'Lee Clark']"
+2005,200,away,"[['53'], ' Yakubu']","[['87'], 'Jimmy Floyd Hasselbaink']"
+2005,201,home,"[['76'], 'Steve Watson']"
+2005,201,away,"[['47'], 'Steven Davis']","[['80'], 'Milan Baros']"
+2005,202,home,"[['46'], 'Marlon Harewood']"
+2005,202,away,"[['25'], 'Frank Lampard']","[['61'], 'Hernán Crespo']","[['79'], 'Didier Drogba']"
+2005,203,home
+2005,203,away
+2005,204,home
+2005,204,away,"[['31'], ' Mido']","[['83'], 'Robbie Keane']"
+2005,205,home,"[['20', '29', '68'], 'Thierry Henry']","[['22'], 'Philippe Senderos']","[['45.02'], 'Robert Pirès']","[['59'], 'Gilberto Silva']","[['84'], 'Aliaksandr Hleb']"
+2005,205,away
+2005,206,home,"[['27'], 'Lee Hendrie']"
+2005,206,away,"[['51'], 'Bobby Zamora']","[['60'], 'Marlon Harewood']"
+2005,207,home
+2005,207,away
+2005,208,home,"[['29'], 'Bryan Hughes']","[['90.02'], 'Darren Bent']"
+2005,208,away
+2005,209,home,"[['75'], 'Steed Malbranque']"
+2005,209,away
+2005,210,home,"[['58'], 'Harry Kewell']"
+2005,210,away
+2005,211,home,"[['32'], 'Trevor Sinclair']","[['39'], 'Darius Vassell']","[['90.03'], 'Robbie Fowler']"
+2005,211,away,"[['76'], 'Ruud van Nistelrooij']"
+2005,212,home
+2005,212,away,"[['31'], ""!Andy O'Brien""]"
+2005,213,home,"[['11'], 'Liam Lawrence']"
+2005,213,away,"[['28'], 'Hernán Crespo']","[['69'], 'Arjen Robben']"
+2005,214,home
+2005,214,away,"[['56'], 'Martin Albrechtsen']"
+2005,215,home,"[['05'], 'Jirí Jarosik']","[['37'], 'Jermaine Pennant']","[['55'], 'Matt Upson']","[['90.01'], 'Mikael Forssell']","[['90.03'], 'David Dunn']"
+2005,215,away
+2005,216,home,"[['37'], 'Jared Borgetti']","[['40'], 'Kevin Nolan']"
+2005,216,away
+2005,217,home,"[['14'], 'James Beattie']"
+2005,217,away
+2005,218,home,"[['56'], 'Jimmy Floyd Hasselbaink']","[['66'], ' Yakubu']"
+2005,218,away,"[['02'], 'Jason Roberts']","[['29'], 'David Thompson']","[['90.03'], 'Neil Mellor']"
+2005,219,home
+2005,219,away,"[['74'], 'Morten Pedersen']"
+2005,220,home
+2005,220,away
+2005,221,home
+2005,221,away,"[['72'], '!Steve Watson']"
+2005,222,home,"[['18'], 'Eidur Gudjohnsen']"
+2005,222,away,"[['59'], 'Marcus Bent']"
+2005,223,home,"[['90'], 'Rio Ferdinand']"
+2005,223,away
+2005,224,home,"[['17'], 'Anton Ferdinand']","[['28'], 'Yossi Benayoun']"
+2005,224,away,"[['52'], 'Heidar Helguson']"
+2005,225,home
+2005,225,away
+2005,226,home,"[['90'], 'Carlos Bocanegra']"
+2005,226,away
+2005,227,home
+2005,227,away,"[['18'], 'Emanuel Pogatetz']","[['31'], 'Stuart Parnaby']","[['71'], 'Jimmy Floyd Hasselbaink']"
+2005,228,home,"[['45'], 'Paul Scharner']"
+2005,228,away,"[['09'], '!David Thompson']"
+2005,229,home,"[['45'], 'Thierry Henry']","[['89'], 'Robert Pirès']"
+2005,229,away,"[['25'], 'Nigel Reo-Coker']","[['32'], 'Bobby Zamora']","[['80'], 'Matthew Etherington']"
+2005,230,home,"[['77'], 'Luke Moore']"
+2005,230,away,"[['14'], 'Arjen Robben']"
+2005,231,home,"[['35', '41', '56'], 'David Bentley']","[['45.03'], 'Lucas Neill']"
+2005,231,away,"[['37'], 'Louis Saha']","[['63', '68'], 'Ruud van Nistelrooij']"
+2005,232,home,"[['62'], 'Steven Gerrard']"
+2005,232,away,"[['88'], '!Xabi Alonso']"
+2005,233,home,"[['14'], 'Albert Riera']","[['38'], 'Andrew Cole']","[['62'], 'Darius Vassell']"
+2005,233,away
+2005,234,home,"[['85'], 'Azar Karadas']"
+2005,234,away,"[['69'], 'Khalilou Fadiga']"
+2005,235,home
+2005,235,away,"[['21'], 'Emmanuel Adebayor']","[['63'], 'Thierry Henry']"
+2005,236,home,"[['63'], 'Stelios Giannakopoulos']"
+2005,236,away,"[['76'], 'Andreas Johansson']"
+2005,237,home,"[['08'], 'David Weir']"
+2005,237,away
+2005,238,home,"[['06'], '!Carlos Bocanegra']","[['14', '86'], 'Cristiano Ronaldo']","[['23'], 'Louis Saha']"
+2005,238,away,"[['22'], 'Brian McBride']","[['37'], 'Heidar Helguson']"
+2005,239,home
+2005,239,away,"[['18', '62', '64'], 'Luke Moore']","[['24'], 'Kevin Phillips']"
+2005,240,home,"[['41'], ""Charles N'Zogbia""]","[['64'], 'Alan Shearer']"
+2005,240,away
+2005,241,home,"[['07'], 'Kevin Campbell']","[['32'], 'Jonathan Greening']"
+2005,241,away
+2005,242,home,"[['81'], 'Dean Ashton']","[['87'], 'Paul Konchesky']"
+2005,242,away
+2005,243,home,"[['34'], 'William Gallas']","[['68'], 'Hernán Crespo']"
+2005,243,away
+2005,244,home,"[['14', '46'], 'Jermain Defoe']","[['41'], 'Jermaine Jenas']"
+2005,244,away,"[['70'], 'Jerome Thomas']"
+2005,245,home,"[['42'], 'Darren Bent']","[['45.02'], 'Luke Young']"
+2005,245,away
+2005,246,home,"[['90.03'], 'Gilberto Silva']"
+2005,246,away,"[['12'], 'Kevin Nolan']"
+2005,247,home,"[['16'], 'Luke Moore']"
+2005,247,away,"[['02'], 'Shola Ameobi']","[['29'], ""Charles N'Zogbia""]"
+2005,248,home,"[['33'], 'James Beattie']"
+2005,248,away
+2005,249,home,"[['04', '40'], 'Heidar Helguson']","[['48'], 'Tomasz Radzinski']","[['58'], '!Curtis Davies']","[['83', '90'], 'Collins John']"
+2005,249,away,"[['85'], 'Kevin Campbell']"
+2005,250,home,"[['02'], 'Fábio Rochemback']","[['45'], 'Stewart Downing']","[['68'], ' Yakubu']"
+2005,250,away
+2005,251,home,"[['87'], 'Matthew Taylor']"
+2005,251,away,"[['18'], 'Ruud van Nistelrooij']","[['38', '45.01'], 'Cristiano Ronaldo']"
+2005,252,home
+2005,252,away,"[['30'], 'Sami Hyypiä']"
+2005,253,home,"[['22'], 'Richard Dunne']","[['54'], 'Georgios Samaras']","[['62'], 'Joey Barton']"
+2005,253,away,"[['51'], 'Darren Bent']","[['66'], 'Marcus Bent']"
+2005,254,home,"[['89'], 'Daryl Murphy']"
+2005,254,away,"[['38'], 'Robbie Keane']"
+2005,255,home,"[['10', '63'], 'Marlon Harewood']","[['65'], 'Dean Ashton']"
+2005,255,away
+2005,256,home,"[['87'], 'Luis Garcia']"
+2005,256,away
+2005,257,home,"[['38', '63'], 'Craig Bellamy']"
+2005,257,away
+2005,258,home,"[['23'], ' Mido']","[['68'], 'Jermain Defoe']"
+2005,258,away,"[['10', '67'], 'Andreas Johansson']"
+2005,259,home
+2005,259,away
+2005,260,home,"[['39'], 'Emile Heskey']"
+2005,260,away
+2005,261,home,"[['18'], 'Morten Pedersen']"
+2005,261,away
+2005,262,home
+2005,262,away
+2005,263,home,"[['65'], 'Frank Lampard']","[['78'], 'Arjen Robben']"
+2005,263,away
+2005,264,home,"[['64', '76'], 'Nolberto Solano']"
+2005,264,away
+2005,265,home,"[['45'], '!Heidar Helguson']","[['68'], 'Kevin Nolan']"
+2005,265,away,"[['22'], 'Heidar Helguson']"
+2005,266,home,"[['40'], 'Harry Kewell']"
+2005,266,away
+2005,267,home
+2005,267,away,"[['17'], 'Jimmy Floyd Hasselbaink']","[['44'], '!Ronnie Wallwork']"
+2005,268,home,"[['35'], 'Milan Baros']"
+2005,268,away
+2005,269,home
+2005,269,away,"[['31', '76'], 'Thierry Henry']","[['35'], 'Emmanuel Adebayor']","[['86'], 'Cesc Fàbregas']"
+2005,270,home
+2005,270,away
+2005,271,home,"[['45'], 'Mark Viduka']"
+2005,271,away
+2005,272,home,"[['34'], 'Nolberto Solano']","[['45'], 'Alan Shearer']","[['69'], 'Shola Ameobi']"
+2005,272,away,"[['71'], 'Kevin Davies']"
+2005,273,home,"[['88'], ' Kanu']"
+2005,273,away,"[['51'], 'Didier Drogba']","[['74'], 'Joe Cole']"
+2005,274,home,"[['10'], 'Marlon Harewood']","[['23'], 'Dean Ashton']"
+2005,274,away,"[['18'], 'Leon Osman']","[['71'], 'James Beattie']"
+2005,275,home,"[['09', '10'], 'Georgios Samaras']"
+2005,275,away,"[['25'], 'Kevin Kyle']"
+2005,276,home,"[['09', '42'], 'Robbie Keane']","[['69'], ' Mido']"
+2005,276,away,"[['43'], 'Florent Sinama-Pongolle']","[['67'], 'Craig Bellamy']"
+2005,277,home,"[['59'], 'Paul Scharner']"
+2005,277,away,"[['73'], 'Cristiano Ronaldo']","[['90.02'], '!Pascal Chimbonda']"
+2005,278,home,"[['49'], 'Mikael Forssell']"
+2005,278,away,"[['70'], 'Nathan Ellington']"
+2005,279,home,"[['48'], 'Andrew Todd']","[['71'], 'Craig Bellamy']"
+2005,279,away
+2005,280,home,"[['12', '33'], 'Stelios Giannakopoulos']","[['45.02'], 'Gary Speed']","[['81'], 'Henrik Pedersen']"
+2005,280,away,"[['78'], 'Teddy Sheringham']"
+2005,281,home,"[['14'], 'Michael Essien']","[['90.02'], 'William Gallas']"
+2005,281,away,"[['45'], 'Jermaine Jenas']"
+2005,282,home,"[['14', '36'], 'James Beattie']","[['55'], 'James McFadden']"
+2005,282,away,"[['86'], 'Collins John']"
+2005,283,home,"[['60', '90.03'], 'Pedro Mendes']"
+2005,283,away,"[['83'], 'Richard Dunne']"
+2005,284,home
+2005,284,away,"[['08'], 'Henri Camara']"
+2005,285,home,"[['21', '83'], 'Thierry Henry']"
+2005,285,away,"[['75'], 'Luis Garcia']"
+2005,286,home,"[['73', '86'], 'Darren Bent']"
+2005,286,away,"[['81'], 'Mark Viduka']"
+2005,287,home,"[['08', '12'], 'Wayne Rooney']"
+2005,287,away
+2005,288,home,"[['16'], 'Robbie Fowler']","[['34'], '!Michael Brown']","[['70'], 'Fernando Morientes']","[['89'], 'Peter Crouch']","[['90.01'], 'Stephen Warnock']"
+2005,288,away,"[['25'], 'Collins John']"
+2005,289,home,"[['13'], 'Robert Pirès']","[['32'], 'Emmanuel Adebayor']","[['49'], 'Aliaksandr Hleb']"
+2005,289,away
+2005,290,home
+2005,290,away,"[['65'], 'Aaron Lennon']","[['77'], 'Robbie Keane']"
+2005,291,home,"[['11', '68'], 'Craig Bellamy']","[['28'], 'Morten Pedersen']"
+2005,291,away,"[['16'], 'Mark Viduka']","[['63'], 'Fábio Rochemback']"
+2005,292,home,"[['47'], 'Kevin Davies']","[['85'], 'Kevin Nolan']"
+2005,292,away
+2005,293,home,"[['15'], 'James McFadden']","[['22', '90'], 'Tim Cahill']","[['44'], 'Leon Osman']"
+2005,293,away,"[['64'], 'Gabriel Agbonlahor']"
+2005,294,home
+2005,294,away,"[['55'], 'Lee McCulloch']"
+2005,295,home,"[['78'], 'Nathan Ellington']"
+2005,295,away,"[['16', '64'], 'Louis Saha']"
+2005,296,home,"[['69'], 'Teddy Sheringham']","[['90.01'], 'Yossi Benayoun']"
+2005,296,away,"[['18'], 'Lomana Lua Lua']","[['24'], 'Sean Davis']","[['42'], 'Pedro Mendes']","[['77'], 'Svetoslav Todorov']"
+2005,297,home,"[['17'], 'Luís Boa Morte']"
+2005,297,away
+2005,298,home,"[['41'], 'Shola Ameobi']"
+2005,298,away,"[['10'], 'Peter Crouch']","[['34'], 'Steven Gerrard']","[['52'], 'Djibril Cissé']"
+2005,299,home
+2005,299,away
+2005,300,home,"[['30', '33'], 'Didier Drogba']"
+2005,300,away
+2005,301,home,"[['45.01'], '!Phil Neville']","[['47'], 'Luis Garcia']","[['84'], 'Harry Kewell']"
+2005,301,away,"[['61'], 'Tim Cahill']"
+2005,302,home
+2005,302,away,"[['15'], 'Steven Reid']"
+2005,303,home,"[['45.01'], 'Lee McCulloch']"
+2005,303,away,"[['52'], 'Marlon Harewood']","[['90.02'], 'Nigel Reo-Coker']"
+2005,304,home,"[['23'], 'Darren Bent']","[['36'], '!Lee Bowyer']","[['89'], 'Jay Bothroyd']"
+2005,304,away,"[['35'], 'Scott Parker']"
+2005,305,home,"[['03', '15'], 'Ryan Giggs']","[['83'], 'Wayne Rooney']"
+2005,305,away
+2005,306,home,"[['08', '47'], 'Jimmy Floyd Hasselbaink']","[['30'], 'Mark Viduka']","[['90.02'], 'Stuart Parnaby']"
+2005,306,away,"[['03'], 'Stelios Giannakopoulos']","[['57'], 'Jay Jay Okocha']","[['81'], 'Radhi Jaidi']"
+2005,307,home,"[['68', '89'], 'Robbie Keane']"
+2005,307,away,"[['21'], 'Curtis Davies']"
+2005,308,home,"[['45.01'], 'Ruud van Nistelrooij']"
+2005,308,away
+2005,309,home,"[['18'], 'Emmanuel Adebayor']","[['25', '46'], 'Thierry Henry']","[['71'], 'Robin van Persie']","[['80'], 'Abou Diaby']"
+2005,309,away
+2005,310,home
+2005,310,away
+2005,311,home,"[['26'], 'Kevin Davies']"
+2005,311,away,"[['33'], 'Louis Saha']","[['79'], 'Ruud van Nistelrooij']"
+2005,312,home,"[['05'], 'Leon Osman']","[['26'], 'James McFadden']"
+2005,312,away,"[['15'], 'Jon Stead']","[['80'], 'Rory Delap']"
+2005,313,home,"[['10'], 'Steed Malbranque']"
+2005,313,away,"[['01', '62'], ""Gary O'Neil""]","[['24'], 'Lomana Lua Lua']"
+2005,314,home,"[['02'], 'Lee Bowyer']","[['25'], 'Shola Ameobi']","[['30'], 'Alan Shearer']"
+2005,314,away,"[['19'], 'Robbie Keane']"
+2005,315,home
+2005,315,away,"[['07'], 'Robbie Fowler']","[['38'], 'Djibril Cissé']"
+2005,316,home
+2005,316,away,"[['42'], 'Lee Cattermole']"
+2005,317,home
+2005,317,away
+2005,318,home,"[['84'], 'Shefki Kuqi']"
+2005,318,away,"[['52'], 'Jason Roberts']"
+2005,319,home,"[['37'], 'Jirí Jarosik']"
+2005,319,away
+2005,320,home
+2005,320,away
+2005,321,home,"[['41'], 'Lomana Lua Lua']","[['78'], 'Svetoslav Todorov']"
+2005,321,away,"[['31', '62'], 'Craig Bellamy']"
+2005,322,home,"[['44'], 'Paul Stalteri']","[['49'], 'Michael Carrick']"
+2005,322,away,"[['52'], 'Georgios Samaras']"
+2005,323,home,"[['49'], 'Andreas Johansson']"
+2005,323,away,"[['77'], 'David Dunn']"
+2005,324,home
+2005,324,away
+2005,325,home,"[['28'], 'Didier Drogba']","[['31'], 'Hernán Crespo']","[['54'], 'John Terry']","[['69'], 'William Gallas']"
+2005,325,away,"[['10'], 'James Collins']"
+2005,326,home,"[['45.02'], 'Robbie Fowler']"
+2005,326,away
+2005,327,home,"[['54'], 'Wayne Rooney']","[['78'], 'Park Ji-Sung']"
+2005,327,away
+2005,328,home,"[['79'], 'George Boateng']"
+2005,328,away,"[['29'], '!George Boateng']","[['44'], 'Shola Ameobi']"
+2005,329,home,"[['66'], 'Lomana Lua Lua']"
+2005,329,away,"[['36'], 'Thierry Henry']"
+2005,330,home
+2005,330,away
+2005,331,home,"[['44'], 'Aliaksandr Hleb']","[['76'], 'Robert Pirès']","[['89'], 'Dennis Bergkamp']"
+2005,331,away,"[['72'], 'Nigel Quashie']"
+2005,332,home
+2005,332,away,"[['44'], 'John Terry']","[['59'], 'Frank Lampard']"
+2005,333,home
+2005,333,away,"[['33'], 'Robbie Keane']"
+2005,334,home,"[['15', '30'], 'Luís Boa Morte']"
+2005,334,away,"[['25'], 'Jason Euell']"
+2005,335,home,"[['28', '65'], 'Alan Shearer']","[['36'], 'Titus Bramble']"
+2005,335,away,"[['05'], 'Jimmy Bullard']"
+2005,336,home,"[['54'], ""Gary O'Neil""]"
+2005,336,away
+2005,337,home,"[['15'], 'Shaun Newton']"
+2005,337,away
+2005,338,home,"[['10', '78'], 'Milan Baros']","[['56'], 'Gary Cahill']"
+2005,338,away,"[['25'], 'Chris Sutton']"
+2005,339,home
+2005,339,away,"[['29'], 'Robbie Fowler']"
+2005,340,home,"[['76'], 'Bryan Hughes']","[['83'], 'Darren Bent']"
+2005,340,away,"[['40'], ""Andrés D'Alessandro""]"
+2005,341,home,"[['28'], 'Frank Lampard']","[['62'], 'Didier Drogba']","[['74'], 'Michael Essien']"
+2005,341,away
+2005,342,home,"[['41'], 'Jimmy Floyd Hasselbaink']","[['56'], 'Massimo Maccarone']"
+2005,342,away
+2005,343,home,"[['32'], 'Justin Hoyte']"
+2005,343,away,"[['59'], 'Michael Chopra']","[['61'], 'Alan Shearer']","[['66'], ""Charles N'Zogbia""]","[['87'], 'Albert Luque']"
+2005,344,home,"[['53'], 'Jermaine Jenas']"
+2005,344,away,"[['08', '36'], 'Wayne Rooney']"
+2005,345,home
+2005,345,away
+2005,346,home,"[['25'], 'Jimmy Bullard']","[['56', '60'], 'Henri Camara']"
+2005,346,away,"[['53'], 'Juan Pablo Ángel']","[['67'], 'Liam Ridgewell']"
+2005,347,home,"[['62'], 'Nicky Butt']","[['87'], 'Mikael Forssell']"
+2005,347,away,"[['77'], 'Robbie Savage']"
+2005,348,home,"[['83'], 'Thierry Henry']"
+2005,348,away,"[['66'], 'Robbie Keane']"
+2005,349,home,"[['14'], 'Ricardo Vaz Tê']","[['20', '89'], 'Kevin Davies']","[['31'], 'Jared Borgetti']"
+2005,349,away,"[['76'], 'Darren Bent']"
+2005,350,home
+2005,350,away
+2005,351,home,"[['30'], 'Nolberto Solano']","[['40', '90.01'], 'Shola Ameobi']"
+2005,351,away
+2005,352,home,"[['73'], 'Svetoslav Todorov']","[['88'], 'Matthew Taylor']"
+2005,352,away,"[['70'], 'Tommy Miller']"
+2005,353,home,"[['45.01'], 'Steed Malbranque']"
+2005,353,away
+2005,354,home
+2005,354,away,"[['71'], 'Darius Vassell']"
+2005,355,home,"[['46'], 'Nigel Reo-Coker']"
+2005,355,away,"[['19', '54'], 'Djibril Cissé']"
+2005,356,home
+2005,356,away
+2005,357,home
+2005,357,away,"[['43'], 'Steven Reid']","[['65'], '!Chris Powell']"
+2005,358,home,"[['05'], 'William Gallas']","[['61'], 'Joe Cole']","[['73'], 'Ricardo Carvalho']"
+2005,358,away
+2005,359,home,"[['04'], 'Fernando Morientes']","[['61', '66'], 'Steven Gerrard']"
+2005,359,away,"[['58'], 'Gareth Barry']"
+2005,360,home,"[['69'], 'Richard Dunne']"
+2005,360,away,"[['84'], 'Collins John']","[['90.01'], 'Steed Malbranque']"
+2005,361,home
+2005,361,away,"[['89'], 'James McFadden']"
+2005,362,home,"[['33'], 'Henri Camara']"
+2005,362,away,"[['62'], ' Benjani']","[['70'], 'Matthew Taylor']"
+2005,363,home,"[['60'], 'Aaron Lennon']"
+2005,363,away
+2005,364,home
+2005,364,away
+2005,365,home
+2005,365,away,"[['27'], '!Danny Collins']","[['40'], 'Cesc Fàbregas']","[['43'], 'Thierry Henry']"
+2005,366,home
+2005,366,away,"[['41'], 'Nigel Reo-Coker']"
+2005,367,home,"[['43'], 'Steven Reid']"
+2005,367,away
+2005,368,home,"[['50'], 'Ricardo Vaz Tê']"
+2005,368,away,"[['47'], 'Adam Johnson']"
+2005,369,home,"[['38'], 'David Sommeil']"
+2005,369,away,"[['30'], 'Freddie Ljungberg']","[['78', '84'], 'José Antonio Reyes']"
+2005,370,home,"[['32'], 'Anthony Le Tallec']","[['57'], 'Chris Brown']"
+2005,370,away,"[['76'], 'Tomasz Radzinski']"
+2005,371,home,"[['08'], 'Robert Pirès']","[['35', '56', '76'], 'Thierry Henry']"
+2005,371,away,"[['10'], 'Paul Scharner']","[['33'], 'David Thompson']"
+2005,372,home,"[['43'], 'Gareth Barry']","[['78'], 'Liam Ridgewell']"
+2005,372,away,"[['88'], 'Danny Collins']"
+2005,373,home,"[['35'], 'Zurab Khizanishvili']","[['52'], 'Shefki Kuqi']"
+2005,373,away
+2005,374,home,"[['65'], 'Ricardo Vaz Tê']"
+2005,374,away
+2005,375,home,"[['84'], 'Victor Anichebe']","[['90.01'], 'Duncan Ferguson']"
+2005,375,away,"[['14'], 'Zoltán Gera']","[['47'], 'Williams Martínez']"
+2005,376,home,"[['84'], 'Heidar Helguson']"
+2005,376,away
+2005,377,home,"[['19'], 'Louis Saha']","[['23'], 'Cristiano Ronaldo']","[['34'], '!Jason Euell']","[['58'], 'Kieran Richardson']"
+2005,377,away
+2005,378,home,"[['72'], 'Titus Bramble']"
+2005,378,away
+2005,379,home,"[['85'], 'Ognjen Koroman']"
+2005,379,away,"[['52'], 'Robbie Fowler']","[['84'], 'Peter Crouch']","[['89'], 'Djibril Cissé']"
+2005,380,home,"[['10'], 'Carl Fletcher']","[['80'], 'Yossi Benayoun']"
+2005,380,away,"[['35'], 'Jermain Defoe']"

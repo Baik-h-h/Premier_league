@@ -1,0 +1,761 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+2016,1,home,"[['31'], 'Theo Walcott']","[['64'], 'Alex Oxlade-Chamberlain']","[['75'], 'Calum Chambers']"
+2016,1,away,"[['45.01', '56'], 'Philippe Coutinho']","[['49'], 'Adam Lallana']","[['63'], 'Sadio Mané']"
+2016,2,home,"[['69'], 'Adam Smith']"
+2016,2,away,"[['40'], 'Juan Mata']","[['59'], 'Wayne Rooney']","[['64'], 'Zlatan Ibrahimovic']"
+2016,3,home
+2016,3,away,"[['82'], 'Leroy Fer']"
+2016,4,home,"[['47'], 'Eden Hazard']","[['89'], 'Diego Costa']"
+2016,4,away,"[['77'], 'James Collins']"
+2016,5,home
+2016,5,away,"[['74'], 'Salomón Rondón']"
+2016,6,home,"[['05'], 'Ross Barkley']"
+2016,6,away,"[['59'], 'Érik Lamela']"
+2016,7,home,"[['45.01'], 'Adama Diomande']","[['57'], 'Robert Snodgrass']"
+2016,7,away,"[['47'], 'Riyad Mahrez']"
+2016,8,home,"[['04'], 'Sergio Agüero']","[['87'], '!Paddy McNair']"
+2016,8,away,"[['71'], 'Jermain Defoe']"
+2016,9,home,"[['11'], 'Álvaro Negredo']"
+2016,9,away,"[['67'], 'Xherdan Shaqiri']"
+2016,10,home,"[['58'], 'Nathan Redmond']"
+2016,10,away,"[['09'], 'Étienne Capoue']"
+2016,11,home
+2016,11,away
+2016,12,home,"[['45.01'], 'Georginio Wijnaldum']","[['61'], 'Emre Can']"
+2016,12,away,"[['07'], 'Ashley Barnes']"
+2016,13,home,"[['36', '52'], 'Zlatan Ibrahimovic']"
+2016,13,away
+2016,14,home,"[['49'], ' Bojan']"
+2016,14,away,"[['27', '36'], 'Sergio Agüero']","[['86', '90.05'], ' Nolito']"
+2016,15,home,"[['71'], 'Patrick van Aanholt']"
+2016,15,away,"[['13', '45'], 'Cristhian Stuani']"
+2016,16,home
+2016,16,away,"[['79'], 'Shaun Maloney']","[['90.02'], 'Abel Hernández']"
+2016,17,home,"[['82'], 'Victor Wanyama']"
+2016,17,away
+2016,18,home,"[['55'], 'Étienne Capoue']"
+2016,18,away,"[['80'], 'Michy Batshuayi']","[['87'], 'Diego Costa']"
+2016,19,home,"[['09'], 'Gareth McAuley']"
+2016,19,away,"[['45.02'], 'Kevin Mirallas']","[['60'], 'Gareth Barry']"
+2016,20,home,"[['85'], 'Michail Antonio']"
+2016,20,away
+2016,21,home,"[['09'], 'Eden Hazard']","[['41'], ' Willian']","[['89'], 'Victor Moses']"
+2016,21,away
+2016,22,home,"[['90.03'], 'Scott Dann']"
+2016,22,away,"[['11'], 'Joshua King']"
+2016,23,home,"[['51'], '!Shay Given']"
+2016,23,away
+2016,24,home
+2016,24,away,"[['90.02'], 'Marcus Rashford']"
+2016,25,home,"[['32'], 'Jamie Vardy']","[['52'], 'Wes Morgan']"
+2016,25,away,"[['80'], 'Leroy Fer']"
+2016,26,home,"[['07', '90.02'], 'Raheem Sterling']","[['18'], ' Fernandinho']"
+2016,26,away,"[['58'], 'Michail Antonio']"
+2016,27,home,"[['85'], 'Jay Rodríguez']"
+2016,27,away,"[['80'], 'Jermain Defoe']"
+2016,28,home,"[['72'], 'Danny Rose']"
+2016,28,away,"[['43'], 'James Milner']"
+2016,29,home,"[['57'], 'Roberto Pereyra']"
+2016,29,away,"[['09'], 'Santi Cazorla']","[['40'], 'Alexis Sánchez']","[['45.01'], 'Mesut Özil']"
+2016,30,home
+2016,30,away
+2016,31,home,"[['29'], 'Laurent Koscielny']","[['90.04'], 'Santi Cazorla']"
+2016,31,away,"[['18'], '!Petr Cech']"
+2016,32,home,"[['79'], 'Callum Wilson']"
+2016,32,away
+2016,33,home,"[['72'], 'Steven Defour']"
+2016,33,away,"[['90.05'], 'Robert Snodgrass']"
+2016,34,home,"[['13', '89'], 'Roberto Firmino']","[['31'], 'Sadio Mané']","[['56'], 'Adam Lallana']"
+2016,34,away,"[['38'], 'Jamie Vardy']"
+2016,35,home,"[['42'], 'Zlatan Ibrahimovic']"
+2016,35,away,"[['15'], 'Kevin De Bruyne']","[['36'], 'Kelechi Iheanacho']"
+2016,36,home,"[['38'], 'Daniel Ayala']"
+2016,36,away,"[['16'], 'Christian Benteke']","[['47'], 'Wilfried Zaha']"
+2016,37,home
+2016,37,away,"[['41', '56'], 'Son Heung-Min']","[['59'], 'Dele Alli']","[['70'], 'Harry Kane']"
+2016,38,home
+2016,38,away,"[['60', '68', '71'], 'Romelu Lukaku']"
+2016,39,home,"[['59'], 'Gylfi Sigurdsson']","[['62'], 'Leroy Fer']"
+2016,39,away,"[['18', '81'], 'Diego Costa']"
+2016,40,home,"[['05', '33'], 'Michail Antonio']"
+2016,40,away,"[['41'], 'Odion Ighalo']","[['45.02'], 'Troy Deeney']","[['53'], 'Étienne Capoue']","[['63'], 'José Holebas']"
+2016,41,home,"[['61'], 'Diego Costa']"
+2016,41,away,"[['17'], 'Dejan Lovren']","[['36'], 'Jordan Henderson']"
+2016,42,home,"[['09'], 'James Tomkins']","[['11'], 'Scott Dann']","[['71'], 'James McArthur']","[['75'], 'Andros Townsend']"
+2016,42,away,"[['90.04'], 'Marko Arnautovic']"
+2016,43,home,"[['24'], 'Gareth Barry']","[['42'], 'Séamus Coleman']","[['45.01'], 'Romelu Lukaku']"
+2016,43,away,"[['21'], '!Maarten Stekelenburg']"
+2016,44,home,"[['79'], 'Robert Snodgrass']"
+2016,44,away,"[['17', '83'], 'Alexis Sánchez']","[['55'], 'Theo Walcott']","[['90.02'], 'Granit Xhaka']"
+2016,45,home,"[['45.01', '48'], 'Islam Slimani']","[['78'], '!Ben Mee']"
+2016,45,away
+2016,46,home,"[['15'], 'Kevin De Bruyne']","[['25'], 'Kelechi Iheanacho']","[['48'], 'Raheem Sterling']","[['66'], 'Ilkay Gündogan']"
+2016,46,away
+2016,47,home,"[['64'], 'Charlie Austin']"
+2016,47,away
+2016,48,home,"[['59'], 'Harry Kane']"
+2016,48,away
+2016,49,home,"[['34'], 'Étienne Capoue']","[['83'], 'Juan Camilo Zuñiga']","[['90.05'], 'Troy Deeney']"
+2016,49,away,"[['62'], 'Marcus Rashford']"
+2016,50,home,"[['08', '56'], 'Nacer Chadli']","[['37'], 'Salomón Rondón']","[['44'], 'James McClean']"
+2016,50,away,"[['61'], 'Michail Antonio']","[['65'], 'Manuel Lanzini']"
+2016,51,home,"[['11'], 'Alexis Sánchez']","[['14'], 'Theo Walcott']","[['40'], 'Mesut Özil']"
+2016,51,away
+2016,52,home,"[['23'], 'Junior Stanislas']"
+2016,52,away
+2016,53,home,"[['38'], 'Jeff Hendrick']","[['50'], 'Michael Keane']"
+2016,53,away
+2016,54,home,"[['17'], 'Adam Lallana']","[['30', '71'], 'James Milner']","[['36'], 'Sadio Mané']","[['52'], 'Philippe Coutinho']"
+2016,54,away,"[['51'], 'David Meyler']"
+2016,55,home,"[['22'], 'Chris Smalling']","[['37'], 'Juan Mata']","[['40'], 'Marcus Rashford']","[['42'], 'Paul Pogba']"
+2016,55,away,"[['59'], 'Demarai Gray']"
+2016,56,home,"[['65'], 'Ben Gibson']"
+2016,56,away,"[['07', '23'], 'Son Heung-Min']"
+2016,57,home,"[['73'], 'Joe Allen']"
+2016,57,away,"[['90.01'], 'Salomón Rondón']"
+2016,58,home,"[['39', '60'], 'Jermain Defoe']"
+2016,58,away,"[['61'], 'Joe Ledley']","[['76'], 'James McArthur']","[['90.04'], 'Christian Benteke']"
+2016,59,home,"[['13'], 'Fernando Llorente']"
+2016,59,away,"[['09', '65'], 'Sergio Agüero']","[['77'], 'Raheem Sterling']"
+2016,60,home
+2016,60,away,"[['40'], 'Charlie Austin']","[['62'], 'Dusan Tadic']","[['90.02'], 'James Ward-Prowse']"
+2016,61,home
+2016,61,away,"[['90.03'], 'Laurent Koscielny']"
+2016,62,home,"[['35'], 'Romelu Lukaku']"
+2016,62,away,"[['50'], 'Christian Benteke']"
+2016,63,home
+2016,63,away,"[['61'], ' Willian']","[['67'], 'Diego Costa']"
+2016,64,home
+2016,64,away
+2016,65,home,"[['69'], 'Anthony Martial']"
+2016,65,away,"[['82'], 'Joe Allen']"
+2016,66,home,"[['83'], 'Patrick van Aanholt']"
+2016,66,away,"[['35'], 'Nacer Chadli']"
+2016,67,home,"[['08'], 'Leroy Fer']"
+2016,67,away,"[['54'], 'Roberto Firmino']","[['84'], 'James Milner']"
+2016,68,home,"[['09'], '!Aleksandar Kolarov']","[['37'], 'Dele Alli']"
+2016,68,away
+2016,69,home,"[['50'], 'Troy Deeney']","[['65'], 'Isaac Success']"
+2016,69,away,"[['31'], 'Callum Wilson']","[['62'], 'Joshua King']"
+2016,70,home,"[['57'], 'Dimitri Payet']"
+2016,70,away,"[['51'], 'Cristhian Stuani']"
+2016,71,home,"[['26', '33'], 'Theo Walcott']","[['57'], 'Mesut Özil']"
+2016,71,away,"[['38'], 'Gylfi Sigurdsson']","[['66'], 'Borja Bastón']"
+2016,72,home,"[['05'], 'Charlie Daniels']","[['41'], 'Steve Cook']","[['45', '65'], 'Junior Stanislas']","[['83'], 'Callum Wilson']","[['88'], 'Dan Gosling']"
+2016,72,away,"[['34'], 'Ryan Mason']"
+2016,73,home,"[['07'], 'Diego Costa']","[['33'], 'Eden Hazard']","[['80'], 'Victor Moses']"
+2016,73,away
+2016,74,home
+2016,74,away,"[['19'], 'Manuel Lanzini']"
+2016,75,home
+2016,75,away
+2016,76,home,"[['72'], ' Nolito']"
+2016,76,away,"[['64'], 'Romelu Lukaku']"
+2016,77,home
+2016,77,away,"[['54'], 'José Holebas']"
+2016,78,home,"[['52', '66'], 'Charlie Austin']","[['60'], 'Nathan Redmond']"
+2016,78,away,"[['72'], 'Sam Vokes']"
+2016,79,home,"[['08', '45.01'], 'Joe Allen']"
+2016,79,away
+2016,80,home,"[['82'], 'Nacer Chadli']"
+2016,80,away,"[['89'], 'Dele Alli']"
+2016,81,home
+2016,81,away
+2016,82,home
+2016,82,away
+2016,83,home,"[['39'], 'Sam Vokes']","[['90'], 'Scott Arfield']"
+2016,83,away,"[['58'], 'Yannick Bolasie']"
+2016,84,home,"[['01'], ' Pedro']","[['21'], 'Gary Cahill']","[['62'], 'Eden Hazard']","[['70'], ""N'Golo Kanté""]"
+2016,84,away
+2016,85,home
+2016,85,away,"[['26', '50'], 'Xherdan Shaqiri']"
+2016,86,home,"[['42'], 'Ahmed Musa']","[['63'], 'Shinji Okazaki']","[['80'], 'Christian Fuchs']"
+2016,86,away,"[['85'], 'Yohan Cabaye']"
+2016,87,home,"[['20'], 'Sadio Mané']","[['35'], 'Philippe Coutinho']"
+2016,87,away,"[['81'], 'Gareth McAuley']"
+2016,88,home,"[['55'], 'Kelechi Iheanacho']"
+2016,88,away,"[['27'], 'Nathan Redmond']"
+2016,89,home
+2016,89,away
+2016,90,home,"[['90.04'], 'Winston Reid']"
+2016,90,away
+2016,91,home,"[['18', '33'], 'James McArthur']"
+2016,91,away,"[['16'], 'Emre Can']","[['21'], 'Dejan Lovren']","[['44'], 'Joël Matip']","[['71'], 'Roberto Firmino']"
+2016,92,home,"[['50'], 'Romelu Lukaku']","[['76'], 'Ross Barkley']"
+2016,92,away
+2016,93,home
+2016,93,away
+2016,94,home,"[['39'], 'Gastón Ramírez']","[['56'], 'Stewart Downing']"
+2016,94,away
+2016,95,home
+2016,95,away,"[['06'], 'Eden Hazard']","[['55'], 'Diego Costa']"
+2016,96,home,"[['03', '73'], 'Wilfried Bony']","[['55'], '!Alfie Mawson']"
+2016,96,away,"[['08'], 'Wayne Routledge']"
+2016,97,home,"[['65'], 'Jermain Defoe']"
+2016,97,away,"[['19', '78'], 'Alexis Sánchez']","[['71', '76'], 'Olivier Giroud']"
+2016,98,home,"[['44'], 'Vincent Janssen']"
+2016,98,away,"[['48'], 'Ahmed Musa']"
+2016,99,home,"[['82'], '!Michael Dawson']"
+2016,99,away
+2016,100,home
+2016,100,away,"[['19', '28'], 'Sergio Agüero']","[['79', '90'], 'Ilkay Gündogan']"
+2016,101,home,"[['42'], '!Kevin Wimmer']"
+2016,101,away,"[['51'], 'Harry Kane']"
+2016,102,home,"[['11'], 'Dan Gosling']"
+2016,102,away,"[['33'], 'Victor Anichebe']","[['74'], 'Jermain Defoe']"
+2016,103,home,"[['02'], 'Sam Vokes']","[['14'], 'Jóhann Gudmundsson']","[['90.04'], 'Ashley Barnes']"
+2016,103,away,"[['60'], 'Connor Wickham']","[['81'], 'Christian Benteke']"
+2016,104,home,"[['19', '56'], 'Eden Hazard']","[['20'], 'Marcos Alonso']","[['42'], 'Diego Costa']","[['65'], ' Pedro']"
+2016,104,away
+2016,105,home,"[['61'], 'Robert Snodgrass']","[['63'], 'Michael Dawson']"
+2016,105,away,"[['06'], 'Charlie Austin']"
+2016,106,home,"[['55'], 'Islam Slimani']"
+2016,106,away,"[['52'], 'James Morrison']","[['72'], 'Matt Phillips']"
+2016,107,home,"[['27', '60'], 'Sadio Mané']","[['30'], 'Philippe Coutinho']","[['43'], 'Emre Can']","[['57'], 'Roberto Firmino']","[['90.01'], 'Georginio Wijnaldum']"
+2016,107,away,"[['75'], 'Daryl Janmaat']"
+2016,108,home,"[['43'], 'Sergio Agüero']"
+2016,108,away,"[['90.01'], 'Marten de Roon']"
+2016,109,home,"[['69'], 'Mike van der Hoorn']"
+2016,109,away,"[['15'], 'Paul Pogba']","[['21', '33'], 'Zlatan Ibrahimovic']"
+2016,110,home,"[['65'], '!Glenn Whelan']"
+2016,110,away,"[['75'], ' Bojan']"
+2016,111,home,"[['66'], 'Connor Wickham']"
+2016,111,away,"[['39', '83'], 'Yaya Touré']"
+2016,112,home,"[['89'], 'Séamus Coleman']"
+2016,112,away,"[['41'], 'Gylfi Sigurdsson']"
+2016,113,home,"[['68'], 'Juan Mata']"
+2016,113,away,"[['89'], 'Olivier Giroud']"
+2016,114,home
+2016,114,away,"[['41'], 'Diego Costa']"
+2016,115,home
+2016,115,away
+2016,116,home
+2016,116,away,"[['26'], 'Nathan Aké']"
+2016,117,home,"[['34'], 'Jermain Defoe']","[['62', '84'], 'Victor Anichebe']"
+2016,117,away
+2016,118,home,"[['51'], 'Harry Winks']","[['89', '90.01'], 'Harry Kane']"
+2016,118,away,"[['24'], 'Michail Antonio']","[['68'], 'Manuel Lanzini']"
+2016,119,home,"[['01'], 'Étienne Capoue']","[['12'], 'Roberto Pereyra']"
+2016,119,away,"[['15'], 'Riyad Mahrez']"
+2016,120,home,"[['04'], 'Matt Phillips']","[['16'], 'James Morrison']","[['37'], 'Darren Fletcher']","[['64'], 'Salomón Rondón']"
+2016,120,away
+2016,121,home,"[['12', '90.01'], 'Alexis Sánchez']","[['53'], 'Theo Walcott']"
+2016,121,away,"[['23'], 'Callum Wilson']"
+2016,122,home,"[['14'], 'Dean Marney']"
+2016,122,away,"[['37', '60'], 'Sergio Agüero']"
+2016,123,home,"[['45'], ' Pedro']","[['51'], 'Victor Moses']"
+2016,123,away,"[['11'], 'Christian Eriksen']"
+2016,124,home,"[['72'], 'Michael Dawson']"
+2016,124,away,"[['34'], 'Gareth McAuley']"
+2016,125,home,"[['34'], 'Riyad Mahrez']","[['90.04'], 'Islam Slimani']"
+2016,125,away,"[['13', '71'], 'Álvaro Negredo']"
+2016,126,home,"[['75'], 'Divock Origi']","[['90.01'], 'James Milner']"
+2016,126,away
+2016,127,home,"[['21'], 'Zlatan Ibrahimovic']"
+2016,127,away,"[['02'], 'Diafra Sakho']"
+2016,128,home,"[['01'], 'Charlie Austin']"
+2016,128,away
+2016,129,home,"[['36'], 'Gylfi Sigurdsson']","[['66', '68'], 'Leroy Fer']","[['90.01', '90.03'], 'Fernando Llorente']"
+2016,129,away,"[['19'], 'Wilfried Zaha']","[['75'], 'James Tomkins']","[['82'], '!Jack Cork']","[['84'], 'Christian Benteke']"
+2016,130,home
+2016,130,away,"[['29'], '!Heurelho Gomes']"
+2016,131,home,"[['56'], 'Callum Wilson']","[['76'], 'Ryan Fraser']","[['78'], 'Steve Cook']","[['90.03'], 'Nathan Aké']"
+2016,131,away,"[['20'], 'Sadio Mané']","[['22'], 'Divock Origi']","[['64'], 'Emre Can']"
+2016,132,home,"[['33', '85'], 'Christian Benteke']","[['36'], 'James Tomkins']"
+2016,132,away
+2016,133,home,"[['89'], 'Leighton Baines']"
+2016,133,away,"[['42'], 'Zlatan Ibrahimovic']"
+2016,134,home,"[['45'], '!Gary Cahill']"
+2016,134,away,"[['60'], 'Diego Costa']","[['70'], ' Willian']","[['90'], 'Eden Hazard']"
+2016,135,home,"[['60'], 'Gastón Ramírez']"
+2016,135,away
+2016,136,home,"[['20'], 'Jonathan Walters']","[['35'], ' Muniesa']"
+2016,136,away
+2016,137,home,"[['64'], '!Robert Huth']","[['77'], 'Jermain Defoe']"
+2016,137,away,"[['80'], 'Shinji Okazaki']"
+2016,138,home,"[['39', '49'], 'Harry Kane']","[['45.01'], 'Son Heung-Min']","[['70', '90.02'], 'Christian Eriksen']"
+2016,138,away
+2016,139,home,"[['16'], 'Jonny Evans']","[['34'], 'Chris Brunt']","[['90.01'], 'Matt Phillips']"
+2016,139,away,"[['60'], 'Christian Kabasele']"
+2016,140,home,"[['83'], 'Andy Carroll']"
+2016,140,away,"[['24'], 'Mesut Özil']","[['72', '80', '86'], 'Alexis Sánchez']","[['84'], 'Alex Oxlade-Chamberlain']"
+2016,141,home,"[['42'], 'Theo Walcott']","[['49'], 'Mesut Özil']","[['75'], 'Alex Iwobi']"
+2016,141,away,"[['29'], 'Charlie Adam']"
+2016,142,home,"[['13'], 'Jeff Hendrick']","[['16'], 'Stephen Ward']","[['75'], 'George Boyd']"
+2016,142,away,"[['45.02'], 'Benik Afobe']","[['90.01'], 'Charlie Daniels']"
+2016,143,home,"[['76'], 'Diego Costa']"
+2016,143,away
+2016,144,home,"[['27'], 'Robert Snodgrass']","[['72'], 'Adama Diomande']","[['78'], 'Jake Livermore']"
+2016,144,away,"[['52'], 'Christian Benteke']","[['70'], 'Wilfried Zaha']","[['89'], 'Fraizer Campbell']"
+2016,145,home,"[['03', '20', '78'], 'Jamie Vardy']","[['05'], 'Andy King']"
+2016,145,away,"[['82'], 'Aleksandar Kolarov']","[['90'], ' Nolito']"
+2016,146,home,"[['05'], 'Adam Lallana']","[['48'], 'Divock Origi']"
+2016,146,away,"[['27'], 'Dimitri Payet']","[['39'], 'Michail Antonio']"
+2016,147,home,"[['29'], 'Henrikh Mkhitaryan']"
+2016,147,away
+2016,148,home,"[['53'], 'Sofiane Boufal']"
+2016,148,away
+2016,149,home,"[['51'], 'Gylfi Sigurdsson']","[['54', '80'], 'Fernando Llorente']"
+2016,149,away
+2016,150,home,"[['36', '64'], 'Stefano Okaka']","[['59'], 'Sebastian Prödl']"
+2016,150,away,"[['17', '86'], 'Romelu Lukaku']"
+2016,151,home,"[['34'], 'Marc Pugh']"
+2016,151,away
+2016,152,home,"[['66'], 'James McArthur']"
+2016,152,away,"[['45.02'], 'Paul Pogba']","[['88'], 'Zlatan Ibrahimovic']"
+2016,153,home
+2016,153,away,"[['29', '68'], 'Adam Lallana']","[['60'], 'Divock Origi']"
+2016,154,home
+2016,154,away,"[['40'], 'Cesc Fàbregas']"
+2016,155,home,"[['50', '61', '63'], 'Salomón Rondón']"
+2016,155,away,"[['78'], 'Wayne Routledge']"
+2016,156,home,"[['45.03'], 'Mark Noble']"
+2016,156,away
+2016,157,home,"[['44'], 'Séamus Coleman']","[['86'], 'Ashley Williams']"
+2016,157,away,"[['20'], 'Alexis Sánchez']"
+2016,158,home,"[['33'], 'Pablo Zabaleta']","[['86'], 'David Silva']"
+2016,158,away
+2016,159,home
+2016,159,away
+2016,160,home,"[['14', '63'], 'Christian Eriksen']","[['73'], 'Victor Wanyama']"
+2016,160,away
+2016,161,home,"[['06'], 'Nathan Aké']"
+2016,161,away,"[['14'], 'Ryan Bertrand']","[['48', '85'], 'Jay Rodríguez']"
+2016,162,home
+2016,162,away,"[['43'], 'Diego Costa']"
+2016,163,home
+2016,163,away,"[['90.04'], 'Sadio Mané']"
+2016,164,home,"[['47'], 'Leroy Sané']","[['71'], 'Raheem Sterling']"
+2016,164,away,"[['05'], 'Theo Walcott']"
+2016,165,home,"[['18', '29'], 'Álvaro Negredo']","[['58'], 'Marten de Roon']"
+2016,165,away
+2016,166,home,"[['39'], ' Bojan']","[['45.03'], 'Joe Allen']"
+2016,166,away,"[['74'], 'Leonardo Ulloa']","[['88'], 'Daniel Amartey']"
+2016,167,home,"[['49'], 'Patrick van Aanholt']"
+2016,167,away
+2016,168,home,"[['27'], 'Dele Alli']","[['71'], 'Danny Rose']"
+2016,168,away,"[['21'], 'Ashley Barnes']"
+2016,169,home
+2016,169,away,"[['05', '56'], 'Zlatan Ibrahimovic']"
+2016,170,home,"[['76'], 'Mark Noble']"
+2016,170,away
+2016,171,home,"[['86'], 'Olivier Giroud']"
+2016,171,away
+2016,172,home,"[['80'], 'Andre Gray']"
+2016,172,away
+2016,173,home,"[['24'], ' Pedro']","[['49'], 'Eden Hazard']","[['90.03'], '!Steve Cook']"
+2016,173,away
+2016,174,home
+2016,174,away,"[['72'], 'Yaya Touré']","[['78'], 'Kelechi Iheanacho']","[['90.04'], '!Curtis Davies']"
+2016,175,home
+2016,175,away,"[['51'], 'Kevin Mirallas']","[['90.01'], 'Romelu Lukaku']"
+2016,176,home,"[['34'], 'Adam Lallana']","[['44'], 'Roberto Firmino']","[['59'], '!Giannelli Imbula']","[['70'], 'Daniel Sturridge']"
+2016,176,away,"[['12'], 'Jonathan Walters']"
+2016,177,home,"[['39'], 'Daley Blind']","[['82'], 'Zlatan Ibrahimovic']","[['86'], 'Henrikh Mkhitaryan']"
+2016,177,away,"[['90.01'], 'Fabio Borini']"
+2016,178,home,"[['02'], 'Virgil van Dijk']"
+2016,178,away,"[['19', '87'], 'Dele Alli']","[['52'], 'Harry Kane']","[['85'], 'Son Heung-Min']"
+2016,179,home,"[['89'], 'Fernando Llorente']"
+2016,179,away,"[['13'], 'André Ayew']","[['50'], 'Winston Reid']","[['78'], 'Michail Antonio']","[['90'], 'Andy Carroll']"
+2016,180,home,"[['71'], 'Troy Deeney']"
+2016,180,away,"[['26'], 'Yohan Cabaye']"
+2016,181,home,"[['17'], 'Olivier Giroud']","[['56'], 'Alex Iwobi']"
+2016,181,away
+2016,182,home,"[['31', '51', '53'], 'Andre Gray']","[['67'], 'Ashley Barnes']"
+2016,182,away,"[['71'], 'Jermain Defoe']"
+2016,183,home,"[['34'], 'Gary Cahill']","[['57', '65'], ' Willian']","[['85'], 'Diego Costa']"
+2016,183,away,"[['46'], 'Bruno Martins Indi']","[['64'], 'Peter Crouch']"
+2016,184,home,"[['06'], 'Michael Dawson']","[['65'], 'Robert Snodgrass']"
+2016,184,away,"[['45.01'], '!David Marshall']","[['84'], 'Ross Barkley']"
+2016,185,home,"[['20'], 'Islam Slimani']"
+2016,185,away
+2016,186,home,"[['08'], 'Georginio Wijnaldum']"
+2016,186,away
+2016,187,home,"[['85'], 'Anthony Martial']","[['86'], 'Paul Pogba']"
+2016,187,away,"[['67'], 'Grant Leadbitter']"
+2016,188,home,"[['41'], 'Shane Long']"
+2016,188,away,"[['43'], 'Matt Phillips']","[['50'], 'Hal Robson-Kanu']"
+2016,189,home
+2016,189,away,"[['25'], 'Benik Afobe']","[['45.01'], 'Ryan Fraser']","[['88'], 'Joshua King']"
+2016,190,home,"[['90.01'], 'Younes Kaboul']"
+2016,190,away,"[['27', '33'], 'Harry Kane']","[['41', '46'], 'Dele Alli']"
+2016,191,home,"[['16'], 'Charlie Daniels']","[['20'], 'Callum Wilson']","[['58'], 'Ryan Fraser']"
+2016,191,away,"[['70'], 'Alexis Sánchez']","[['75'], 'Lucas Pérez']","[['90.02'], 'Olivier Giroud']"
+2016,192,home,"[['83'], 'Wilfried Zaha']"
+2016,192,away,"[['42'], 'Alfie Mawson']","[['88'], 'Angel Rangel']"
+2016,193,home,"[['73'], 'Enner Valencia']","[['81'], 'Leighton Baines']","[['89'], 'Romelu Lukaku']"
+2016,193,away
+2016,194,home,"[['58'], 'Gaël Clichy']","[['62'], 'Sergio Agüero']"
+2016,194,away,"[['70'], 'Ben Mee']"
+2016,195,home
+2016,195,away
+2016,196,home,"[['45.03'], 'Ryan Shawcross']","[['49'], 'Peter Crouch']"
+2016,196,away
+2016,197,home,"[['25', '84'], 'Jermain Defoe']"
+2016,197,away,"[['19'], 'Daniel Sturridge']","[['72'], 'Sadio Mané']"
+2016,198,home,"[['45.01', '54'], 'Dele Alli']"
+2016,198,away
+2016,199,home,"[['49'], 'Chris Brunt']","[['62'], 'Gareth McAuley']","[['73'], 'James Morrison']"
+2016,199,away,"[['21'], 'Robert Snodgrass']"
+2016,200,home
+2016,200,away,"[['63'], 'Juan Mata']","[['78'], 'Zlatan Ibrahimovic']"
+2016,201,home,"[['78'], 'Joey Barton']"
+2016,201,away
+2016,202,home,"[['34'], 'Romelu Lukaku']","[['47'], 'Kevin Mirallas']","[['79'], 'Tom Davies']","[['90.04'], 'Ademola Lookman']"
+2016,202,away
+2016,203,home,"[['32', '50'], 'Abel Hernández']","[['62'], '!Tyrone Mings']"
+2016,203,away,"[['03'], 'Junior Stanislas']"
+2016,204,home
+2016,204,away,"[['06', '51'], 'Marcos Alonso']","[['71'], ' Pedro']"
+2016,205,home,"[['84'], 'Zlatan Ibrahimovic']"
+2016,205,away,"[['27'], 'James Milner']"
+2016,206,home,"[['40'], 'Jermain Defoe']"
+2016,206,away,"[['15', '22'], 'Marko Arnautovic']","[['34'], 'Peter Crouch']"
+2016,207,home
+2016,207,away,"[['37'], 'Olivier Giroud']","[['54'], '!Jack Cork']","[['67'], '!Kyle Naughton']","[['73'], 'Alexis Sánchez']"
+2016,208,home,"[['12', '77', '82'], 'Harry Kane']","[['26'], '!Gareth McAuley']"
+2016,208,away
+2016,209,home
+2016,209,away
+2016,210,home,"[['68'], 'Sofiane Feghouli']","[['79'], 'Andy Carroll']","[['86'], 'Manuel Lanzini']"
+2016,210,away
+2016,211,home,"[['59'], 'Shkodran Mustafi']","[['90.08'], 'Alexis Sánchez']"
+2016,211,away,"[['90.03'], 'Andre Gray']"
+2016,212,home,"[['48'], 'Joshua King']","[['82'], 'Benik Afobe']"
+2016,212,away,"[['24'], 'Christian Kabasele']","[['64'], 'Troy Deeney']"
+2016,213,home,"[['45.07'], 'Diego Costa']","[['81'], 'Gary Cahill']"
+2016,213,away
+2016,214,home
+2016,214,away,"[['87'], 'Séamus Coleman']"
+2016,215,home,"[['55', '69'], 'Roberto Firmino']"
+2016,215,away,"[['48', '52'], 'Fernando Llorente']","[['74'], 'Gylfi Sigurdsson']"
+2016,216,home,"[['49'], 'Leroy Sané']","[['54'], 'Kevin De Bruyne']"
+2016,216,away,"[['58'], 'Dele Alli']","[['77'], 'Son Heung-Min']"
+2016,217,home,"[['27'], 'Cristhian Stuani']"
+2016,217,away,"[['09', '43'], 'Andy Carroll']","[['90.04'], 'Jonathan Calleri']"
+2016,218,home,"[['26'], 'James Ward-Prowse']","[['39'], 'Jay Rodríguez']","[['86'], 'Dusan Tadic']"
+2016,218,away
+2016,219,home,"[['19'], '!Juan Mata']"
+2016,219,away,"[['90.04'], 'Wayne Rooney']"
+2016,220,home,"[['30'], 'Darren Fletcher']","[['36'], 'Chris Brunt']"
+2016,220,away
+2016,221,home,"[['58'], 'Alex Iwobi']"
+2016,221,away,"[['10'], 'Younes Kaboul']","[['13'], 'Troy Deeney']"
+2016,222,home
+2016,222,away,"[['46'], 'Scott Dann']","[['90.02'], 'Christian Benteke']"
+2016,223,home,"[['87'], 'Sam Vokes']"
+2016,223,away
+2016,224,home
+2016,224,away
+2016,225,home,"[['17'], 'Álvaro Negredo']"
+2016,225,away,"[['06'], 'James Morrison']"
+2016,226,home
+2016,226,away
+2016,227,home,"[['38'], 'Alfie Mawson']","[['70'], 'Gylfi Sigurdsson']"
+2016,227,away,"[['57'], 'Shane Long']"
+2016,228,home
+2016,228,away,"[['17'], 'Kevin De Bruyne']","[['21'], 'David Silva']","[['39'], 'Gabriel Jesus']","[['67'], 'Yaya Touré']"
+2016,229,home,"[['57'], 'Georginio Wijnaldum']"
+2016,229,away,"[['24'], 'David Luiz']"
+2016,230,home,"[['07'], 'Peter Crouch']"
+2016,230,away,"[['39'], '!Ryan Shawcross']"
+2016,231,home,"[['13'], 'Marcos Alonso']","[['53'], 'Eden Hazard']","[['85'], 'Cesc Fàbregas']"
+2016,231,away,"[['90.01'], 'Olivier Giroud']"
+2016,232,home
+2016,232,away,"[['09'], 'Lamine Koné']","[['43'], 'Didier Ndong']","[['45.01', '45.03'], 'Jermain Defoe']"
+2016,233,home,"[['01', '29', '83', '84'], 'Romelu Lukaku']","[['23'], 'James McCarthy']","[['90.04'], 'Ross Barkley']"
+2016,233,away,"[['59', '70'], 'Joshua King']","[['90'], 'Harry Arter']"
+2016,234,home,"[['44'], ""Alfred N'Diaye""]","[['84'], 'Oumar Niasse']"
+2016,234,away
+2016,235,home
+2016,235,away,"[['42'], 'Henrikh Mkhitaryan']","[['44'], 'Zlatan Ibrahimovic']","[['49'], 'Juan Mata']"
+2016,236,home,"[['11', '90.02'], 'Gabriel Jesus']"
+2016,236,away,"[['81'], 'Gylfi Sigurdsson']"
+2016,237,home,"[['12'], 'Manolo Gabbiadini']"
+2016,237,away,"[['14'], 'Andy Carroll']","[['44'], 'Pedro Obiang']","[['52'], 'Mark Noble']"
+2016,238,home,"[['58'], 'Harry Kane']"
+2016,238,away
+2016,239,home,"[['10'], 'Troy Deeney']","[['45.02'], ""M'Baye Niang""]"
+2016,239,away,"[['78'], 'Ashley Barnes']"
+2016,240,home,"[['06'], 'James Morrison']"
+2016,240,away
+2016,241,home,"[['34', '90.03'], 'Alexis Sánchez']"
+2016,241,away
+2016,242,home
+2016,242,away,"[['29'], 'Raheem Sterling']","[['69'], '!Tyrone Mings']"
+2016,243,home,"[['24'], 'Robert Brady']"
+2016,243,away,"[['07'], ' Pedro']"
+2016,244,home,"[['16', '18'], 'Sadio Mané']"
+2016,244,away
+2016,245,home,"[['32'], 'Juan Mata']","[['60'], 'Anthony Martial']"
+2016,245,away
+2016,246,home
+2016,246,away
+2016,247,home,"[['67'], 'Joe Allen']"
+2016,247,away
+2016,248,home
+2016,248,away,"[['30', '45'], 'Manolo Gabbiadini']","[['88'], '!Jason Denayer']","[['90.02'], 'Shane Long']"
+2016,249,home,"[['36'], 'Alfie Mawson']","[['45.02'], 'Martin Olsson']"
+2016,249,away
+2016,250,home,"[['63'], 'Sofiane Feghouli']","[['86'], 'Manuel Lanzini']"
+2016,250,away,"[['06'], 'Nacer Chadli']","[['90.04'], 'Gareth McAuley']"
+2016,251,home,"[['19'], 'Cesc Fàbregas']","[['72'], ' Pedro']","[['84'], 'Diego Costa']"
+2016,251,away,"[['45.02'], 'Fernando Llorente']"
+2016,252,home,"[['34'], 'Patrick van Aanholt']"
+2016,252,away
+2016,253,home,"[['40'], 'Idrissa Gueye']","[['80'], 'Romelu Lukaku']"
+2016,253,away
+2016,254,home,"[['72'], 'Tom Huddlestone']"
+2016,254,away,"[['76'], 'Michael Keane']"
+2016,255,home,"[['28', '60'], 'Jamie Vardy']","[['39'], 'Danny Drinkwater']"
+2016,255,away,"[['68'], 'Philippe Coutinho']"
+2016,256,home
+2016,256,away
+2016,257,home
+2016,257,away,"[['60'], 'Alexis Sánchez']","[['83'], 'Olivier Giroud']"
+2016,258,home,"[['14', '32', '37'], 'Harry Kane']","[['45.01'], 'Dele Alli']"
+2016,258,away
+2016,259,home,"[['03'], 'Troy Deeney']"
+2016,259,away,"[['73'], 'André Ayew']"
+2016,260,home,"[['10'], 'Craig Dawson']","[['21'], 'Gareth McAuley']"
+2016,260,away,"[['05'], 'Joshua King']"
+2016,261,home,"[['27'], 'Christian Fuchs']","[['59'], 'Riyad Mahrez']","[['90'], '!Tom Huddlestone']"
+2016,261,away,"[['14'], 'Sam Clucas']"
+2016,262,home,"[['09'], 'Roberto Firmino']","[['40'], 'Sadio Mané']","[['90.01'], 'Georginio Wijnaldum']"
+2016,262,away,"[['57'], 'Danny Welbeck']"
+2016,263,home,"[['23'], 'Marcos Rojo']"
+2016,263,away,"[['40'], 'Joshua King']"
+2016,264,home,"[['29', '42'], 'Marko Arnautovic']"
+2016,264,away
+2016,265,home
+2016,265,away,"[['42'], 'Sergio Agüero']","[['59'], 'Leroy Sané']"
+2016,266,home,"[['12', '90.02'], 'Fernando Llorente']","[['69'], 'Martin Olsson']"
+2016,266,away,"[['20', '61'], 'Andre Gray']"
+2016,267,home,"[['20', '56'], 'Harry Kane']","[['90.02'], 'Dele Alli']"
+2016,267,away,"[['81'], 'Romelu Lukaku']","[['90.03'], 'Enner Valencia']"
+2016,268,home,"[['04'], 'Troy Deeney']","[['79'], 'Stefano Okaka']","[['90.04'], 'Abdoulaye Doucouré']"
+2016,268,away,"[['28'], 'Dusan Tadic']","[['45.02', '86'], 'Nathan Redmond']","[['83'], 'Manolo Gabbiadini']"
+2016,269,home
+2016,269,away,"[['55'], 'Wilfried Zaha']","[['84'], 'Andros Townsend']"
+2016,270,home,"[['90.02'], 'Manuel Lanzini']"
+2016,270,away,"[['25'], 'Eden Hazard']","[['50'], 'Diego Costa']"
+2016,271,home,"[['86'], '!Robert Huth']"
+2016,271,away
+2016,272,home,"[['31', '48', '90'], 'Joshua King']"
+2016,272,away,"[['10'], 'Michail Antonio']","[['83'], 'André Ayew']"
+2016,273,home,"[['02'], 'Sam Vokes']","[['37'], 'Andre Gray']"
+2016,273,away
+2016,274,home,"[['22'], 'John Terry']","[['36'], 'César Azpilicueta']","[['49'], 'Michy Batshuayi']","[['88'], 'Cesc Fàbregas']"
+2016,274,away,"[['24'], 'Étienne Capoue']","[['51'], 'Daryl Janmaat']","[['74'], 'Stefano Okaka']"
+2016,275,home
+2016,275,away,"[['78'], 'Christian Eriksen']"
+2016,276,home,"[['39'], 'Kevin Mirallas']","[['45'], 'Morgan Schneiderlin']","[['82'], 'Romelu Lukaku']"
+2016,276,away
+2016,277,home,"[['69', '78'], 'Oumar Niasse']"
+2016,277,away,"[['90.01'], 'Alfie Mawson']"
+2016,278,home
+2016,278,away
+2016,279,home,"[['08'], 'Marten de Roon']"
+2016,279,away
+2016,280,home
+2016,280,away
+2016,281,home,"[['31'], '!Alfie Mawson']","[['72'], 'Benik Afobe']"
+2016,281,away
+2016,282,home,"[['68'], '!Troy Deeney']"
+2016,282,away
+2016,283,home,"[['09'], 'Dominic Calvert-Lewin']","[['78'], 'Enner Valencia']","[['90.01', '90.04'], 'Romelu Lukaku']"
+2016,283,away
+2016,284,home,"[['69'], 'Sergio Agüero']"
+2016,284,away,"[['51'], 'James Milner']"
+2016,285,home,"[['77'], 'Rudy Gestede']"
+2016,285,away,"[['30'], 'Marouane Fellaini']","[['62'], 'Jesse Lingard']","[['90.03'], 'Antonio Valencia']"
+2016,286,home,"[['38'], 'Jonathan Walters']"
+2016,286,away,"[['13'], ' Willian']","[['87'], 'Gary Cahill']"
+2016,287,home
+2016,287,away
+2016,288,home,"[['14'], 'Christian Eriksen']","[['33'], 'Dele Alli']"
+2016,288,away,"[['52'], 'James Ward-Prowse']"
+2016,289,home,"[['12', '75'], 'Craig Dawson']","[['55'], 'Hal Robson-Kanu']"
+2016,289,away,"[['15'], 'Alexis Sánchez']"
+2016,290,home,"[['20'], 'Manuel Lanzini']","[['63'], 'André Ayew']"
+2016,290,away,"[['05'], 'Riyad Mahrez']","[['07'], 'Robert Huth']","[['38'], 'Jamie Vardy']"
+2016,291,home,"[['40'], 'Theo Walcott']","[['53'], 'Shkodran Mustafi']"
+2016,291,away,"[['05'], 'Leroy Sané']","[['42'], 'Sergio Agüero']"
+2016,292,home
+2016,292,away,"[['66'], 'Eric Dier']","[['77'], 'Son Heung-Min']"
+2016,293,home,"[['05'], 'Cesc Fàbregas']"
+2016,293,away,"[['09'], 'Wilfried Zaha']","[['11'], 'Christian Benteke']"
+2016,294,home,"[['53'], 'Andy Robertson']","[['85'], 'Andrea Ranocchia']"
+2016,294,away,"[['18'], 'Andy Carroll']"
+2016,295,home,"[['25'], 'Wilfred Ndidi']","[['47'], 'Jamie Vardy']"
+2016,295,away
+2016,296,home,"[['08'], 'Sadio Mané']","[['31'], 'Philippe Coutinho']","[['60'], 'Divock Origi']"
+2016,296,away,"[['28'], 'Matthew Pennington']"
+2016,297,home
+2016,297,away
+2016,298,home
+2016,298,away
+2016,299,home
+2016,299,away
+2016,300,home,"[['59'], 'Miguel Britos']"
+2016,300,away
+2016,301,home,"[['58'], 'Mesut Özil']","[['68'], 'Theo Walcott']","[['83'], 'Olivier Giroud']"
+2016,301,away
+2016,302,home,"[['58'], 'George Boyd']"
+2016,302,away
+2016,303,home,"[['13'], 'Lazar Markovic']","[['27'], 'Oumar Niasse']","[['33'], 'Abel Hernández']","[['70'], 'Harry Maguire']"
+2016,303,away,"[['05'], 'Álvaro Negredo']","[['45.01'], 'Marten de Roon']"
+2016,304,home,"[['69'], 'Islam Slimani']","[['78'], 'Jamie Vardy']"
+2016,304,away
+2016,305,home,"[['90.04'], 'Zlatan Ibrahimovic']"
+2016,305,away,"[['22'], 'Phil Jagielka']"
+2016,306,home,"[['11'], 'Wayne Routledge']"
+2016,306,away,"[['88'], 'Dele Alli']","[['90.01'], 'Son Heung-Min']","[['90.04'], 'Christian Eriksen']"
+2016,307,home,"[['13'], ""M'Baye Niang""]","[['49'], 'Troy Deeney']"
+2016,307,away
+2016,308,home,"[['10', '35'], 'Eden Hazard']"
+2016,308,away,"[['26'], 'Sergio Agüero']"
+2016,309,home,"[['40'], 'Philippe Coutinho']","[['59'], 'Divock Origi']"
+2016,309,away,"[['07'], 'Benik Afobe']","[['87'], 'Joshua King']"
+2016,310,home,"[['45'], 'Nathan Redmond']","[['83'], 'Maya Yoshida']","[['85'], 'James Ward-Prowse']"
+2016,310,away,"[['31'], 'Christian Benteke']"
+2016,311,home,"[['42'], 'Joshua King']"
+2016,311,away,"[['17'], '!Adam Smith']","[['20'], 'Eden Hazard']","[['68'], 'Marcos Alonso']"
+2016,312,home,"[['17'], 'Andros Townsend']","[['63'], 'Yohan Cabaye']","[['68'], 'Luka Milivojevic']"
+2016,312,away
+2016,313,home,"[['01'], 'Tom Davies']","[['23', '57'], 'Romelu Lukaku']","[['41'], 'Phil Jagielka']"
+2016,313,away,"[['04'], 'Islam Slimani']","[['10'], 'Marc Albrighton']"
+2016,314,home,"[['31'], '!Ahmed El Mohamady']","[['48'], 'Sergio Agüero']","[['64'], 'Fabian Delph']"
+2016,314,away,"[['85'], 'Andrea Ranocchia']"
+2016,315,home
+2016,315,away
+2016,316,home,"[['44'], 'Jonathan Walters']"
+2016,316,away,"[['70'], 'Philippe Coutinho']","[['72'], 'Roberto Firmino']"
+2016,317,home
+2016,317,away,"[['30'], 'Zlatan Ibrahimovic']","[['46'], 'Henrikh Mkhitaryan']","[['89'], 'Marcus Rashford']"
+2016,318,home,"[['33'], 'Dele Alli']","[['39'], 'Eric Dier']","[['44', '54'], 'Son Heung-Min']"
+2016,318,away
+2016,319,home
+2016,319,away,"[['25'], 'Jordy Clasie']"
+2016,320,home,"[['44'], 'Cheikhou Kouyaté']"
+2016,320,away
+2016,321,home,"[['54'], 'Yohan Cabaye']","[['70'], 'Christian Benteke']"
+2016,321,away,"[['06'], 'Robert Huth']","[['52'], 'Jamie Vardy']"
+2016,322,home,"[['49'], 'Phil Jagielka']","[['71'], '!Ben Mee']","[['74'], 'Romelu Lukaku']"
+2016,322,away,"[['52'], 'Sam Vokes']"
+2016,323,home,"[['07'], 'Marcus Rashford']","[['49'], 'Ander Herrera']"
+2016,323,away
+2016,324,home,"[['50'], 'Álvaro Negredo']"
+2016,324,away,"[['42'], 'Alexis Sánchez']","[['71'], 'Mesut Özil']"
+2016,325,home
+2016,325,away,"[['55'], 'Vincent Kompany']","[['77'], 'Leroy Sané']","[['80'], 'Sergio Agüero']"
+2016,326,home,"[['06'], 'Marko Arnautovic']","[['66'], 'Peter Crouch']","[['80'], 'Xherdan Shaqiri']"
+2016,326,away,"[['51'], 'Harry Maguire']"
+2016,327,home,"[['26'], 'Wahbi Khazri']","[['90'], 'Fabio Borini']"
+2016,327,away,"[['05'], 'André Ayew']","[['47'], 'James Collins']"
+2016,328,home,"[['16'], 'Mousa Dembélé']","[['19'], 'Son Heung-Min']","[['48'], 'Harry Kane']","[['90.02'], 'Vincent Janssen']"
+2016,328,away
+2016,329,home,"[['42'], 'Étienne Capoue']"
+2016,329,away
+2016,330,home
+2016,330,away,"[['45.01'], 'Roberto Firmino']"
+2016,331,home,"[['72', '81'], 'Alexis Sánchez']"
+2016,331,away
+2016,332,home,"[['02'], 'Joshua King']","[['16'], 'Benik Afobe']","[['65'], 'Marc Pugh']","[['70'], 'Charlie Daniels']"
+2016,332,away
+2016,333,home
+2016,333,away,"[['21'], 'Anthony Martial']","[['39'], 'Wayne Rooney']"
+2016,334,home,"[['05'], 'Eden Hazard']","[['45.01'], 'Gary Cahill']","[['53', '89'], 'Diego Costa']"
+2016,334,away,"[['24'], 'Oriol Romeu']","[['90.04'], 'Ryan Bertrand']"
+2016,335,home,"[['62'], 'Lazar Markovic']","[['71'], 'Sam Clucas']"
+2016,335,away
+2016,336,home,"[['59'], 'Ben Chilwell']"
+2016,336,away,"[['25', '63', '88', '90.02'], 'Harry Kane']","[['36', '71'], 'Son Heung-Min']"
+2016,337,home,"[['24'], 'Philippe Coutinho']"
+2016,337,away,"[['42', '74'], 'Christian Benteke']"
+2016,338,home,"[['27'], 'Gabriel Jesus']","[['29'], 'Kevin De Bruyne']","[['57'], 'Yaya Touré']"
+2016,338,away,"[['87'], 'Hal Robson-Kanu']"
+2016,339,home,"[['10'], 'Fernando Llorente']","[['70'], 'Tom Carroll']"
+2016,339,away
+2016,340,home
+2016,340,away
+2016,341,home
+2016,341,away,"[['07'], 'Ashley Barnes']","[['85'], 'Andre Gray']"
+2016,342,home
+2016,342,away,"[['66'], ' Pedro']","[['79'], 'Gary Cahill']","[['86'], ' Willian']"
+2016,343,home,"[['45.03'], 'Wayne Rooney']"
+2016,343,away,"[['79'], 'Gylfi Sigurdsson']"
+2016,344,home,"[['38'], 'Álvaro Negredo']","[['77'], 'Calum Chambers']"
+2016,344,away,"[['69'], 'Sergio Agüero']","[['85'], 'Gabriel Jesus']"
+2016,345,home
+2016,345,away
+2016,346,home
+2016,346,away
+2016,347,home
+2016,347,away,"[['88'], 'Joshua King']"
+2016,348,home,"[['55'], 'Dele Alli']","[['58'], 'Harry Kane']"
+2016,348,away
+2016,349,home
+2016,349,away,"[['45.02'], 'Emre Can']"
+2016,350,home
+2016,350,away,"[['43'], 'Jamie Vardy']"
+2016,351,home,"[['54'], 'Granit Xhaka']","[['57'], 'Danny Welbeck']"
+2016,351,away
+2016,352,home,"[['62'], 'Junior Stanislas']","[['81'], '!Ryan Shawcross']"
+2016,352,away,"[['33'], '!Lys Mousset']","[['73'], 'Mame Diouf']"
+2016,353,home,"[['56', '86'], 'Sam Vokes']"
+2016,353,away,"[['66'], 'Salomón Rondón']","[['78'], 'Craig Dawson']"
+2016,354,home,"[['23'], 'Diego Costa']","[['34'], 'Marcos Alonso']","[['65'], 'Nemanja Matic']"
+2016,354,away
+2016,355,home
+2016,355,away,"[['69'], 'Billy Jones']","[['90.02'], 'Jermain Defoe']"
+2016,356,home,"[['38'], 'Wilfred Ndidi']","[['58'], 'Riyad Mahrez']","[['90.03'], 'Marc Albrighton']"
+2016,356,away
+2016,357,home
+2016,357,away
+2016,358,home,"[['02'], 'David Silva']","[['49'], 'Vincent Kompany']","[['59'], 'Kevin De Bruyne']","[['82'], 'Raheem Sterling']","[['90.02'], 'Nicolás Otamendi']"
+2016,358,away
+2016,359,home,"[['29'], 'Fernando Llorente']"
+2016,359,away
+2016,360,home,"[['65'], 'Manuel Lanzini']"
+2016,360,away
+2016,361,home,"[['25'], 'Junior Stanislas']","[['85'], 'Joshua King']"
+2016,361,away,"[['83'], 'Sam Vokes']"
+2016,362,home,"[['03'], 'Wilfried Zaha']","[['34'], 'Christian Benteke']","[['85'], 'Luka Milivojevic']","[['90'], 'Patrick van Aanholt']"
+2016,362,away
+2016,363,home,"[['56'], 'Ross Barkley']"
+2016,363,away
+2016,364,home,"[['29'], 'David Silva']","[['36'], 'Gabriel Jesus']"
+2016,364,away,"[['42'], 'Shinji Okazaki']"
+2016,365,home,"[['72'], 'Patrick Bamford']"
+2016,365,away,"[['42'], 'Jay Rodríguez']","[['57'], 'Nathan Redmond']"
+2016,366,home,"[['67'], 'Peter Crouch']"
+2016,366,away,"[['42', '80'], 'Olivier Giroud']","[['55'], 'Mesut Özil']","[['76'], 'Alexis Sánchez']"
+2016,367,home
+2016,367,away,"[['09'], 'Fernando Llorente']","[['45.02'], 'Kyle Naughton']"
+2016,368,home,"[['06'], 'Victor Wanyama']","[['48'], 'Harry Kane']"
+2016,368,away,"[['71'], 'Wayne Rooney']"
+2016,369,home
+2016,369,away,"[['82'], 'Michy Batshuayi']"
+2016,370,home
+2016,370,away,"[['35'], 'Daniel Sturridge']","[['57', '61'], 'Philippe Coutinho']","[['76'], 'Divock Origi']"
+2016,371,home,"[['08'], 'Héctor Bellerín']","[['27'], 'Alexis Sánchez']","[['90.01'], 'Aaron Ramsey']"
+2016,371,away,"[['58'], 'Romelu Lukaku']"
+2016,372,home,"[['23'], 'Sam Vokes']"
+2016,372,away,"[['27'], 'Sofiane Feghouli']","[['72'], 'André Ayew']"
+2016,373,home,"[['08'], ' Willian']","[['61'], 'Eden Hazard']","[['77'], ' Pedro']","[['90', '90.02'], 'Michy Batshuayi']"
+2016,373,away,"[['03'], 'Javier Manquillo']"
+2016,374,home,"[['66'], 'Sam Clucas']"
+2016,374,away,"[['11', '13', '72'], 'Harry Kane']","[['45.02'], 'Dele Alli']","[['69'], 'Victor Wanyama']","[['84'], 'Ben Davies']","[['87'], 'Toby Alderweireld']"
+2016,375,home,"[['51'], 'Jamie Vardy']"
+2016,375,away,"[['01'], 'Junior Stanislas']"
+2016,376,home,"[['45.01'], 'Georginio Wijnaldum']","[['51'], 'Philippe Coutinho']","[['56'], 'Adam Lallana']"
+2016,376,away
+2016,377,home,"[['15'], 'Josh Harrop']","[['19'], 'Paul Pogba']"
+2016,377,away
+2016,378,home
+2016,378,away,"[['60'], 'Peter Crouch']"
+2016,379,home,"[['72'], 'Jordan Ayew']","[['86'], 'Fernando Llorente']"
+2016,379,away,"[['33'], 'Jonny Evans']"
+2016,380,home
+2016,380,away,"[['05'], 'Vincent Kompany']","[['23', '36'], 'Sergio Agüero']","[['41'], ' Fernandinho']","[['58'], 'Gabriel Jesus']"

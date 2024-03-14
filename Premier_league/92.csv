@@ -1,0 +1,925 @@
+year,match_num,home_away,1_scorer,2_scorer,3_scorer,4_scorer,5_scorer,6_scorer,7_scorer,8_scorer,9_scorer,10_scorer
+1992,1,home,"[['28'], 'Steve Bould']","[['39'], 'Kevin Campbell']"
+1992,1,away,"[['69', '84'], 'Mark Robins']","[['73'], 'David Phillips']","[['82'], 'Ruel Fox']"
+1992,2,home,"[['84'], 'Mick Harford']"
+1992,2,away,"[['86'], 'Nick Henry']"
+1992,3,home,"[['09'], 'John Williams']","[['51'], 'David Smith']"
+1992,3,away,"[['63'], 'Paul Wilkinson']"
+1992,4,home,"[['37'], 'Mark Bright']","[['63'], 'Gareth Southgate']","[['90'], 'Simon Osborn']"
+1992,4,away,"[['42'], 'Stuart Ripley']","[['66', '81'], 'Alan Shearer']"
+1992,5,home,"[['44'], 'Barry Horne']"
+1992,5,away,"[['15'], 'Nigel Pearson']"
+1992,6,home,"[['31'], 'Gavin Johnson']"
+1992,6,away,"[['84'], 'Dalian Atkinson']"
+1992,7,home,"[['14', '86'], 'Lee Chapman']"
+1992,7,away,"[['76'], 'Warren Barton']"
+1992,8,home,"[['05', '50'], 'Brian Deane']"
+1992,8,away,"[['61'], 'Mark Hughes']"
+1992,9,home
+1992,9,away
+1992,10,home,"[['29'], 'Teddy Sheringham']"
+1992,10,away
+1992,11,home,"[['37'], 'David White']"
+1992,11,away,"[['47'], 'Andy Sinton']"
+1992,12,home,"[['84'], 'Alan Shearer']"
+1992,12,away
+1992,13,home
+1992,13,away,"[['37'], 'Gavin Johnson']"
+1992,14,home,"[['77'], 'Dalian Atkinson']"
+1992,14,away,"[['84'], 'Gary Speed']"
+1992,15,home,"[['43'], 'Mark Walters']","[['65'], 'Paul Stewart']"
+1992,15,away,"[['35'], 'Brian Deane']"
+1992,16,home
+1992,16,away,"[['45'], 'Peter Beardsley']","[['80'], 'Robert Warzycha']","[['90'], 'Mo Johnston']"
+1992,17,home,"[['15', '17'], 'Bernie Slaven']"
+1992,17,away
+1992,18,home,"[['57'], 'David Phillips']","[['59'], 'Mark Robins']"
+1992,18,away,"[['15'], 'Graham Stuart']"
+1992,19,home,"[['16'], 'Graeme Sharp']"
+1992,19,away,"[['50'], 'Eddie McGoldrick']"
+1992,20,home,"[['58', '86'], 'Les Ferdinand']","[['70'], 'David Bardsley']"
+1992,20,away,"[['31'], 'Matthew Le Tissier']"
+1992,21,home,"[['16', '78'], 'David Hirst']"
+1992,21,away
+1992,22,home
+1992,22,away,"[['04', '29'], 'John Williams']"
+1992,23,home,"[['64'], 'Dalian Atkinson']"
+1992,23,away,"[['79'], 'Micky Adams']"
+1992,24,home,"[['69'], 'Mike Newell']"
+1992,24,away
+1992,25,home,"[['57'], 'Denis Irwin']"
+1992,25,away,"[['56'], 'Chris Kiwomya']"
+1992,26,home,"[['07', '08'], 'Paul Wilkinson']","[['47'], 'Tommy Wright']","[['59'], 'John Hendrie']"
+1992,26,away,"[['68'], 'Eric Cantona']"
+1992,27,home,"[['67'], 'Ruel Fox']"
+1992,27,away,"[['55'], 'Peter Beardsley']"
+1992,28,home,"[['31'], 'Neil Adams']","[['38'], 'Graeme Sharp']","[['44'], 'Nick Henry']","[['46'], 'Gunnar Halle']","[['59'], 'Paul Bernard']"
+1992,28,away,"[['66'], 'Stuart Pearce']","[['86', '88'], 'Gary Bannister']"
+1992,29,home,"[['03'], 'Les Ferdinand']","[['14'], 'Simon Barker']","[['84'], 'Dennis Bailey']"
+1992,29,away,"[['04'], 'Alan Cork']","[['63'], 'Brian Deane']"
+1992,30,home,"[['27', '37'], 'David Hirst']","[['81'], 'Danny Wilson']"
+1992,30,away,"[['49'], 'Vinnie Jones']","[['57'], 'Graham Stuart']","[['64'], 'Eddie Newton']"
+1992,31,home,"[['16'], 'Gordon Durie']","[['88'], 'Steve Sedgley']"
+1992,31,away,"[['21'], 'Eddie McGoldrick']","[['80'], 'Eric Young']"
+1992,32,home,"[['73'], 'Dean Holdsworth']"
+1992,32,away,"[['13', '46'], 'Micky Gynn']"
+1992,33,home
+1992,33,away,"[['53'], 'Anders Limpar']","[['80'], 'Ian Wright']"
+1992,34,home
+1992,34,away,"[['89'], 'Dion Dublin']"
+1992,35,home,"[['41'], 'Eric Young']"
+1992,35,away,"[['66'], 'Paul Williams']"
+1992,36,home,"[['88'], 'Mo Johnston']"
+1992,36,away
+1992,37,home,"[['56'], 'Jason Dozzell']","[['90'], 'Chris Kiwomya']"
+1992,37,away,"[['39'], 'Mark Walters']","[['70'], 'Jan Mølby']"
+1992,38,home,"[['19'], 'Rod Wallace']","[['26', '31', '46'], 'Eric Cantona']","[['66'], 'Lee Chapman']"
+1992,38,away
+1992,39,home,"[['48'], 'Paul Beesley']","[['67'], 'Glyn Hodges']"
+1992,39,away,"[['34'], 'Warren Barton']","[['74'], 'Dean Holdsworth']"
+1992,40,home,"[['25'], 'Nigel Winterburn']","[['31'], 'Ian Wright']"
+1992,40,away
+1992,41,home
+1992,41,away
+1992,42,home
+1992,42,away,"[['45'], 'Andy Impey']"
+1992,43,home,"[['45', '80'], 'David White']","[['90'], 'Steve McMahon']"
+1992,43,away,"[['58'], 'Gary Megson']"
+1992,44,home,"[['08'], 'Ray Parlour']","[['27'], 'Paul Merson']"
+1992,44,away,"[['33'], 'David Hirst']"
+1992,45,home,"[['59'], 'Mick Harford']"
+1992,45,away
+1992,46,home
+1992,46,away,"[['69'], 'Alan Shearer']","[['79'], 'Mark Atkins']"
+1992,47,home,"[['20'], 'Eddie McGoldrick']"
+1992,47,away,"[['16'], 'Lee Power']","[['74'], 'David Phillips']"
+1992,48,home
+1992,48,away
+1992,49,home,"[['07'], 'Gary McAllister']","[['87'], 'Lee Chapman']"
+1992,49,away,"[['44'], 'Ronnie Whelan']","[['70'], 'Jan Mølby']"
+1992,50,home,"[['04'], 'Niall Quinn']","[['08'], 'Michel Vonk']","[['23'], 'David White']"
+1992,50,away,"[['11'], 'Richard Jobson']","[['29'], 'Mike Milligan']","[['38'], 'Gunnar Halle']"
+1992,51,home
+1992,51,away,"[['17'], 'Mark Hughes']","[['50'], 'Ryan Giggs']"
+1992,52,home
+1992,52,away,"[['02', '86'], 'Garry Parker']"
+1992,53,home,"[['80'], 'Matthew Le Tissier']","[['83'], 'Nicky Banger']"
+1992,53,away,"[['75'], 'Paul Wilkinson']"
+1992,54,home,"[['45'], 'John Wark']"
+1992,54,away,"[['29'], 'Jason Cundy']"
+1992,55,home,"[['02'], 'Ian Crook']","[['76'], 'Lee Power']","[['89'], 'David Phillips']"
+1992,55,away,"[['31'], 'Nigel Clough']"
+1992,56,home,"[['60'], 'Mark Wright']"
+1992,56,away,"[['51'], 'Kerry Dixon']"
+1992,57,home,"[['54'], 'Alan Kernaghan']","[['82'], 'Paul Wilkinson']"
+1992,57,away,"[['26'], 'John Wark']","[['59'], 'Paul Goddard']"
+1992,58,home,"[['85', '90'], 'Ian Olney']"
+1992,58,away,"[['53', '76'], 'Eric Cantona']"
+1992,59,home
+1992,59,away,"[['49'], 'David White']"
+1992,60,home,"[['30'], 'Kevin Richardson']"
+1992,60,away,"[['40'], 'Robert Fleck']","[['42'], 'Eddie Newton']","[['57'], 'Dennis Wise']"
+1992,61,home,"[['88'], 'Mark Hughes']"
+1992,61,away
+1992,62,home
+1992,62,away
+1992,63,home,"[['62'], 'Chris Bart-Williams']"
+1992,63,away,"[['42'], 'Peter Ndlovu']","[['49'], 'Lee Hurst']"
+1992,64,home,"[['43'], 'Teddy Sheringham']","[['46'], 'Gordon Durie']"
+1992,64,away
+1992,65,home,"[['18'], 'Dwight Yorke']","[['42'], 'Steve Staunton']","[['72'], 'Stephen Froggatt']"
+1992,65,away
+1992,66,home,"[['02', '59'], 'Alan Shearer']","[['52'], 'Mark Atkins']","[['62'], '!Mark Crossley']"
+1992,66,away,"[['15'], 'Gary Bannister']"
+1992,67,home,"[['27'], 'Dean Saunders']","[['89'], 'Jamie Redknapp']"
+1992,67,away,"[['72'], 'Mick Harford']"
+1992,68,home,"[['35'], 'Willie Falconer']","[['83'], 'Tommy Wright']"
+1992,68,away
+1992,69,home,"[['87'], 'Mark Robins']"
+1992,69,away
+1992,70,home
+1992,70,away,"[['55'], 'Kevin Gallacher']"
+1992,71,home
+1992,71,away
+1992,72,home
+1992,72,away,"[['20', '75'], 'David White']","[['55'], 'Michel Vonk']"
+1992,73,home,"[['79'], 'Paul Allen']","[['90'], 'Andy Turner']"
+1992,73,away,"[['42'], 'Peter Beardsley']"
+1992,74,home,"[['39'], 'Lawrie Sanchez']","[['80'], 'John Fashanu']","[['86'], 'Robbie Earle']"
+1992,74,away,"[['34', '82'], 'Ian Wright']"
+1992,75,home,"[['28'], 'Andrei Kanchelskis']","[['44'], 'Steve Bruce']"
+1992,75,away
+1992,76,home
+1992,76,away,"[['71'], 'Mike Newell']"
+1992,77,home,"[['02'], 'Mick Harford']","[['29'], 'Andy Townsend']"
+1992,77,away,"[['46', '74'], 'Mark Robins']","[['79'], 'David Phillips']"
+1992,78,home,"[['64', '66'], 'Chris Armstrong']"
+1992,78,away,"[['19'], 'Ian Olney']","[['78'], 'Graeme Sharp']"
+1992,79,home
+1992,79,away,"[['29'], 'Brian McClair']","[['76'], 'Steve Bruce']"
+1992,80,home,"[['14', '48'], 'Mick Stockwell']"
+1992,80,away,"[['27'], 'Dean Holdsworth']"
+1992,81,home
+1992,81,away,"[['42'], '!Garry Flitcroft']"
+1992,82,home,"[['87'], 'Gary Bannister']"
+1992,82,away,"[['39'], 'Paul Warhurst']","[['57'], 'Graham Hyde']"
+1992,83,home,"[['04'], 'Adrian Littlejohn']"
+1992,83,away
+1992,84,home,"[['11'], 'Matthew Le Tissier']"
+1992,84,away,"[['53'], 'Andy Sinton']","[['56'], 'Justin Channing']"
+1992,85,home,"[['85'], 'Steve Hodge']"
+1992,85,away,"[['19'], 'Garry Parker']"
+1992,86,home,"[['61'], 'John Williams']"
+1992,86,away
+1992,87,home,"[['12', '74'], 'Alan Shearer']"
+1992,87,away,"[['22', '81'], 'Tony Cottee']","[['39'], 'John Ebbrell']"
+1992,88,home,"[['44', '66'], 'Dean Saunders']","[['54'], 'Dalian Atkinson']","[['78'], 'Garry Parker']"
+1992,88,away,"[['43'], 'Mark Walters']","[['84'], 'Ronny Rosenthal']"
+1992,89,home
+1992,89,away,"[['08', '17'], 'Chris Armstrong']"
+1992,90,home,"[['44'], 'Rob Newman']"
+1992,90,away
+1992,91,home,"[['32'], 'Ian Marshall']","[['53'], 'Graeme Sharp']","[['56'], 'Gunnar Halle']","[['82'], 'Nick Henry']"
+1992,91,away,"[['75'], 'John Wark']","[['88'], 'Neil Thompson']"
+1992,92,home,"[['57'], 'Les Ferdinand']","[['73'], 'Gary Penrice']","[['90'], 'Andy Sinton']"
+1992,92,away,"[['37'], 'Alan Kernaghan']","[['58'], 'Tommy Wright']","[['86'], 'Willie Falconer']"
+1992,93,home,"[['48'], 'Dane Whitehouse']"
+1992,93,away,"[['85'], 'Ian Wright']"
+1992,94,home,"[['43'], 'Perry Groves']"
+1992,94,away,"[['83'], 'Gary Speed']"
+1992,95,home,"[['52'], 'Gordon Durie']"
+1992,95,away,"[['45'], 'Ryan Giggs']"
+1992,96,home,"[['24'], 'Neal Ardley']"
+1992,96,away,"[['32'], 'Alan Shearer']"
+1992,97,home
+1992,97,away,"[['40'], 'Mick Harford']"
+1992,98,home,"[['69'], 'Nigel Clough']"
+1992,98,away,"[['45'], 'Robert Rosario']"
+1992,99,home,"[['30'], 'Alan Shearer']","[['61'], 'Stuart Ripley']"
+1992,99,away
+1992,100,home
+1992,100,away
+1992,101,home,"[['37'], 'Peter Ndlovu']"
+1992,101,away,"[['13'], 'Ian Crook']"
+1992,102,home,"[['54'], 'Eric Young']"
+1992,102,away,"[['44', '88'], 'Iain Dowie']"
+1992,103,home
+1992,103,away
+1992,104,home,"[['61'], 'Gary McAllister']","[['63'], 'Lee Chapman']"
+1992,104,away
+1992,105,home,"[['35'], 'Jan Mølby']","[['39'], 'Steve McManaman']"
+1992,105,away,"[['12'], 'John Fashanu']","[['27', '76'], 'Robbie Earle']"
+1992,106,home
+1992,106,away
+1992,107,home,"[['62'], 'Bernie Slaven']","[['86'], '!Paul McGrath']"
+1992,107,away,"[['22', '74'], 'Dean Saunders']","[['71'], 'Dalian Atkinson']"
+1992,108,home,"[['06'], 'Mark Bright']","[['32'], 'Viv Anderson']"
+1992,108,away
+1992,109,home,"[['19'], 'Ian Wright']"
+1992,109,away
+1992,110,home,"[['10'], 'Paul Merson']","[['85'], 'Ian Wright']"
+1992,110,away,"[['79'], 'Dennis Wise']"
+1992,111,home,"[['08', '32'], 'Roy Wegerle']","[['27'], 'Tim Sherwood']","[['43', '76'], 'Alan Shearer']","[['63'], 'Gordon Cowans']","[['70'], 'Stuart Ripley']"
+1992,111,away,"[['39'], 'Rob Newman']"
+1992,112,home,"[['07'], 'Andy Pearce']","[['18'], 'Kevin Gallacher']"
+1992,112,away,"[['09'], 'Chris Coleman']","[['39'], 'Eddie McGoldrick']"
+1992,113,home,"[['25'], 'Chris Kiwomya']","[['36', '44'], 'John Wark']","[['70'], 'Jason Dozzell']"
+1992,113,away,"[['55'], 'Lee Chapman']","[['64'], 'Gary Speed']"
+1992,114,home,"[['80'], 'Don Hutchison']"
+1992,114,away
+1992,115,home,"[['17'], 'Richard Holden']","[['64'], 'Fitzroy Simpson']"
+1992,115,away,"[['56'], 'Ray McKinnon']","[['83'], 'Stuart Pearce']"
+1992,116,home,"[['59'], 'Bernie Slaven']"
+1992,116,away,"[['43'], 'Steve Bruce']"
+1992,117,home,"[['52'], 'Ian Holloway']","[['59'], 'Ray Wilkins']","[['67', '79'], 'Gary Penrice']"
+1992,117,away,"[['28'], 'Teddy Sheringham']"
+1992,118,home,"[['04'], 'Dane Whitehouse']","[['26'], 'Adrian Littlejohn']"
+1992,118,away
+1992,119,home,"[['34'], 'Aidan Newhouse']","[['90'], 'Andy Clarke']"
+1992,119,away,"[['05', '29'], 'Dean Saunders']","[['77'], 'Dalian Atkinson']"
+1992,120,home,"[['08'], 'Richard Jobson']"
+1992,120,away
+1992,121,home,"[['28'], 'Gareth Hall']","[['78'], 'Mick Harford']"
+1992,121,away,"[['79'], 'Steve Whitton']"
+1992,122,home
+1992,122,away
+1992,123,home,"[['28'], 'Peter Beagrie']"
+1992,123,away,"[['44'], 'Peter Ndlovu']"
+1992,124,home,"[['36'], 'Lee Chapman']","[['74'], 'Gary Speed']","[['78'], 'Chris Whyte']"
+1992,124,away,"[['53'], 'Paul Beesley']"
+1992,125,home,"[['53'], 'Mark Bowen']","[['64'], 'Chris Sutton']"
+1992,125,away,"[['77'], 'Bradley Allen']"
+1992,126,home
+1992,126,away,"[['38'], 'Alan Smith']"
+1992,127,home,"[['09'], 'Carlton Palmer']","[['17'], 'Mark Bright']"
+1992,127,away,"[['44'], 'Mike Milligan']"
+1992,128,home,"[['57'], 'Iain Dowie']","[['83'], 'Perry Groves']"
+1992,128,away,"[['50', '67'], 'Steve Cotterill']"
+1992,129,home,"[['70'], 'Teddy Sheringham']","[['73'], 'Nick Barmby']"
+1992,129,away,"[['01'], 'Robbie Mustoe']","[['32'], '!Neil Ruddock']"
+1992,130,home,"[['78', '90'], 'Mark Hughes']"
+1992,130,away,"[['23'], 'Don Hutchison']","[['44'], 'Ian Rush']"
+1992,131,home
+1992,131,away
+1992,132,home,"[['84'], 'Kingsley Black']"
+1992,132,away
+1992,133,home,"[['05'], 'Ian Wright']","[['58'], 'Anders Limpar']"
+1992,133,away
+1992,134,home
+1992,134,away
+1992,135,home,"[['58'], 'Robert Rosario']"
+1992,135,away,"[['32'], 'Mick Harford']","[['70'], 'Graham Stuart']"
+1992,136,home,"[['72', '83'], 'Jason Dozzell']"
+1992,136,away,"[['60'], 'Chris Armstrong']","[['75'], 'Chris Coleman']"
+1992,137,home,"[['74'], 'Mike Sheron']"
+1992,137,away
+1992,138,home,"[['34'], 'Paul Wilkinson']"
+1992,138,away,"[['29'], 'Mark Bright']"
+1992,139,home,"[['19'], 'Ian Olney']"
+1992,139,away,"[['81'], 'Dalian Atkinson']"
+1992,140,home,"[['73'], 'David Bardsley']","[['85'], 'Les Ferdinand']"
+1992,140,away,"[['57'], 'Gordon Strachan']"
+1992,141,home
+1992,141,away
+1992,142,home,"[['15'], 'Michael Thomas']","[['20'], 'Don Hutchison']","[['52'], 'David Burrows']","[['89'], 'Mark Walters']"
+1992,142,away,"[['02'], 'Ian Butterworth']"
+1992,143,home,"[['38'], 'Terry Gibson']"
+1992,143,away,"[['48'], 'Nick Barmby']"
+1992,144,home,"[['41'], 'Andy Townsend']"
+1992,144,away,"[['40'], 'Adrian Littlejohn']","[['57'], 'Brian Deane']"
+1992,145,home,"[['68'], '!Ian Brightwell']"
+1992,145,away,"[['12', '62'], 'Mike Sheron']","[['19'], 'David White']"
+1992,146,home,"[['70'], 'Lee Chapman']","[['90'], 'Chris Fairclough']"
+1992,146,away,"[['12'], '!Gary McAllister']","[['77'], 'Peter Ndlovu']"
+1992,147,home
+1992,147,away,"[['79'], 'Lawrie Sanchez']"
+1992,148,home,"[['86'], 'Daryl Sutch']"
+1992,148,away,"[['64'], 'Paul Wilkinson']"
+1992,149,home
+1992,149,away,"[['06'], 'Jason Dozzell']"
+1992,150,home
+1992,150,away
+1992,151,home,"[['58'], 'Richard Hall']"
+1992,151,away
+1992,152,home,"[['63'], ' Nayim']","[['72'], 'Neil Ruddock']"
+1992,152,away
+1992,153,home,"[['43'], 'Dean Saunders']","[['79'], 'Dalian Atkinson']"
+1992,153,away
+1992,154,home,"[['69'], 'Eddie McGoldrick']"
+1992,154,away,"[['05'], 'Paul Merson']","[['73'], 'Ian Wright']"
+1992,155,home,"[['03'], 'Alan Smith']","[['30'], 'Ian Wright']","[['45'], 'Kevin Campbell']"
+1992,155,away
+1992,156,home,"[['12'], 'Dalian Atkinson']"
+1992,156,away
+1992,157,home
+1992,157,away,"[['67'], 'David Howells']","[['81'], 'Teddy Sheringham']"
+1992,158,home,"[['04'], '!Richard Shaw']","[['40'], 'Graham Stuart']","[['58'], 'Mick Harford']"
+1992,158,away,"[['70'], 'Eric Young']"
+1992,159,home
+1992,159,away
+1992,160,home,"[['09', '38'], 'Ronny Rosenthal']","[['45'], 'Steve McManaman']","[['89'], 'Ian Rush']"
+1992,160,away,"[['41'], 'Jimmy Phillips']"
+1992,161,home,"[['13'], 'Mike Sheron']","[['37'], 'David White']","[['75'], 'Andy Hill']","[['80'], 'Ian Brightwell']"
+1992,161,away
+1992,162,home
+1992,162,away,"[['52'], 'Paul Rideout']"
+1992,163,home
+1992,163,away,"[['25'], 'Bradley Allen']","[['42'], 'Ray Wilkins']"
+1992,164,home,"[['61'], 'Adrian Littlejohn']"
+1992,164,away,"[['84'], 'David Hirst']"
+1992,165,home,"[['25'], 'Graeme Sharp']","[['43'], 'Ian Marshall']"
+1992,165,away,"[['14', '27', '90'], 'Mark Robins']"
+1992,166,home,"[['13', '49'], 'Mick Quinn']"
+1992,166,away,"[['56'], 'Mike Sheron']","[['66'], 'Niall Quinn']","[['78'], 'Keith Curle']"
+1992,167,home,"[['23'], 'Chris Armstrong']"
+1992,167,away,"[['84'], 'Gary Bannister']"
+1992,168,home
+1992,168,away,"[['45'], 'Robert Fleck']"
+1992,169,home,"[['51'], 'Chris Fairclough']","[['56'], 'Lee Chapman']","[['87'], 'Gary McAllister']"
+1992,169,away
+1992,170,home,"[['10', '28'], 'Brian McClair']","[['11'], 'Mark Hughes']"
+1992,170,away
+1992,171,home,"[['49'], 'John Hendrie']","[['56'], 'Chris Morris']"
+1992,171,away
+1992,172,home,"[['60'], '!John Pemberton']","[['80'], 'Mark Robins']"
+1992,172,away,"[['71'], 'Alan Cork']"
+1992,173,home,"[['16'], '!Neil Thompson']"
+1992,173,away,"[['74'], 'Chris Kiwomya']"
+1992,174,home
+1992,174,away
+1992,175,home,"[['32'], 'Matthew Le Tissier']"
+1992,175,away,"[['38'], 'Kevin Moran']"
+1992,176,home
+1992,176,away,"[['87'], 'Ronny Rosenthal']"
+1992,177,home
+1992,177,away,"[['27'], 'Mark Hughes']"
+1992,178,home,"[['45'], 'Ray Houghton']","[['46'], 'Garry Parker']"
+1992,178,away,"[['17'], 'David Phillips']","[['30'], 'Darren Beckford']","[['49'], 'Daryl Sutch']"
+1992,179,home,"[['17'], 'Alan Shearer']"
+1992,179,away
+1992,180,home,"[['72'], 'Gavin Johnson']"
+1992,180,away
+1992,181,home,"[['07', '18'], 'Steve McManaman']","[['09'], 'Mike Marsh']","[['61'], 'Ronny Rosenthal']","[['72'], 'Don Hutchison']"
+1992,181,away
+1992,182,home
+1992,182,away,"[['77'], '!Terry Phelan']"
+1992,183,home,"[['43'], 'Nigel Clough']"
+1992,183,away,"[['21'], 'Matthew Le Tissier']","[['53'], 'Micky Adams']"
+1992,184,home,"[['21'], 'Gunnar Halle']","[['24'], 'Neil Pointon']","[['28'], 'Graeme Sharp']","[['60'], 'Neil Adams']"
+1992,184,away,"[['15'], 'Willie Falconer']"
+1992,185,home,"[['37'], '!Andy Pearce']"
+1992,185,away,"[['07'], 'Mick Quinn']"
+1992,186,home,"[['89'], 'Vinnie Jones']"
+1992,186,away,"[['14'], 'Chris Bart-Williams']"
+1992,187,home,"[['87'], 'Andy Townsend']"
+1992,187,away
+1992,188,home,"[['16'], 'Kevin Gallacher']","[['54'], 'Mick Quinn']"
+1992,188,away,"[['13'], 'Chris Kiwomya']","[['70'], 'Steve Whitton']"
+1992,189,home,"[['43'], 'Chris Armstrong']","[['76'], 'Gareth Southgate']"
+1992,189,away
+1992,190,home,"[['87'], 'Gary Speed']"
+1992,190,away,"[['27'], 'Nigel Clough']","[['53', '67'], 'Roy Keane']","[['54'], 'Kingsley Black']"
+1992,191,home,"[['52', '55', '65'], 'John Hendrie']"
+1992,191,away,"[['44'], 'Jason Wilcox']","[['74'], '!Jimmy Phillips']"
+1992,192,home,"[['77'], 'Mark Robins']","[['88'], 'David Phillips']"
+1992,192,away,"[['53'], 'Lawrie Sanchez']"
+1992,193,home,"[['24', '52'], 'Les Ferdinand']","[['33'], 'Gary Penrice']"
+1992,193,away,"[['41'], 'Neil Adams']","[['46'], 'Ian Olney']"
+1992,194,home,"[['26'], 'Mark Bright']"
+1992,194,away,"[['19', '67'], 'Dalian Atkinson']"
+1992,195,home,"[['16'], 'Neil Maddison']","[['53'], 'Iain Dowie']"
+1992,195,away
+1992,196,home,"[['88'], 'Sol Campbell']"
+1992,196,away,"[['76', '85'], 'Eddie Newton']"
+1992,197,home,"[['20'], 'Paul Ince']","[['73'], 'Mark Hughes']"
+1992,197,away,"[['74'], 'Niall Quinn']"
+1992,198,home,"[['63'], 'Mo Johnston']","[['84'], 'Peter Beardsley']"
+1992,198,away,"[['62'], 'Mark Wright']"
+1992,199,home
+1992,199,away
+1992,200,home,"[['33'], 'Cyrille Regis']","[['47'], 'Paul McGrath']"
+1992,200,away,"[['09'], 'Roy Keane']"
+1992,201,home,"[['57'], 'Mick Stockwell']","[['61'], 'Gavin Johnson']","[['88'], 'Paul Goddard']"
+1992,201,away,"[['37'], 'Garry Flitcroft']"
+1992,202,home,"[['32'], 'Gary Speed']","[['46'], 'Lee Chapman']","[['79'], 'Imre Varadi']"
+1992,202,away,"[['37'], 'Roland Nilsson']"
+1992,203,home,"[['59'], 'Mark Hughes']"
+1992,203,away
+1992,204,home,"[['26'], 'Gary Penrice']"
+1992,204,away,"[['46', '89'], 'Eddie McGoldrick']","[['71'], 'Chris Armstrong']"
+1992,205,home,"[['34'], 'Adrian Littlejohn']"
+1992,205,away
+1992,206,home,"[['09'], 'Neil Maddison']","[['61'], 'Iain Dowie']"
+1992,206,away,"[['06', '25'], 'Mick Quinn']"
+1992,207,home,"[['20'], 'Paul Allen']"
+1992,207,away
+1992,208,home,"[['18', '26'], 'Neal Ardley']","[['22', '52'], 'Dean Holdsworth']","[['51'], 'Andy Clarke']"
+1992,208,away,"[['46'], 'Mark Brennan']","[['63'], 'Mike Milligan']"
+1992,209,home,"[['77', '85'], 'Mark Walters']"
+1992,209,away,"[['80'], 'Alan Shearer']"
+1992,210,home,"[['81'], 'Ian Wright']"
+1992,210,away,"[['34'], '!David Seaman']"
+1992,211,home,"[['27'], 'Kevin Moran']"
+1992,211,away
+1992,212,home,"[['67'], 'David Lee']"
+1992,212,away,"[['71'], 'Eric Cantona']"
+1992,213,home,"[['37', '54'], 'Brian Borrows']","[['61'], 'Kevin Gallacher']","[['71', '74'], 'Mick Quinn']"
+1992,213,away,"[['64'], 'Jamie Redknapp']"
+1992,214,home,"[['11'], 'Peter Beardsley']","[['36'], 'Paul Rideout']"
+1992,214,away,"[['05'], 'Matthew Le Tissier']"
+1992,215,home,"[['58'], 'Garry Flitcroft']"
+1992,215,away,"[['34'], 'Garry Parker']"
+1992,216,home,"[['29'], 'Graeme Sharp']","[['90'], 'Ian Olney']"
+1992,216,away,"[['61'], 'Teddy Sheringham']"
+1992,217,home,"[['39'], 'Mark Bright']"
+1992,217,away
+1992,218,home,"[['30'], 'Andy Thorn']"
+1992,218,away
+1992,219,home,"[['05'], 'Nigel Clough']"
+1992,219,away,"[['13'], 'Andy Clarke']"
+1992,220,home
+1992,220,away,"[['51'], 'Chris Kiwomya']","[['87'], 'Neil Thompson']"
+1992,221,home
+1992,221,away
+1992,222,home,"[['08'], 'Jason Wilcox']","[['45', '58'], 'Alan Shearer']"
+1992,222,away,"[['37'], 'Gary McAllister']"
+1992,223,home,"[['89'], 'Eddie Newton']"
+1992,223,away,"[['02'], 'Iain Dowie']"
+1992,224,home,"[['52', '55'], 'Mick Quinn']","[['59'], 'Robert Rosario']"
+1992,224,away
+1992,225,home,"[['03'], 'Chris Coleman']","[['37'], 'Geoff Thomas']"
+1992,225,away
+1992,226,home,"[['47'], 'Paul Rideout']","[['66'], 'Peter Beardsley']"
+1992,226,away,"[['49', '82'], 'Craig Hignett']"
+1992,227,home,"[['20', '55'], 'David White']"
+1992,227,away
+1992,228,home
+1992,228,away
+1992,229,home,"[['02'], 'David Hirst']","[['06'], 'Mark Bright']","[['62'], 'John Sheridan']"
+1992,229,away,"[['67', '80'], 'Brian McClair']","[['84'], 'Eric Cantona']"
+1992,230,home,"[['45'], 'Dean Saunders']"
+1992,230,away
+1992,231,home,"[['79'], 'Bontcho Guenchev']","[['81'], 'Chris Kiwomya']"
+1992,231,away,"[['72'], 'Roy Wegerle']"
+1992,232,home
+1992,232,away
+1992,233,home,"[['49'], 'Ian Rush']"
+1992,233,away,"[['39'], 'Niall Quinn']"
+1992,234,home,"[['06'], 'Ryan Giggs']","[['40'], 'Mark Hughes']","[['64'], 'Eric Cantona']","[['78'], 'Lee Sharpe']","[['83'], 'Denis Irwin']"
+1992,234,away
+1992,235,home
+1992,235,away,"[['63'], 'Simon Osborn']"
+1992,236,home,"[['27', '51', '88'], 'Andy Sinton']","[['46'], 'Gary Penrice']"
+1992,236,away,"[['65', '72'], 'Stuart Barlow']"
+1992,237,home,"[['80'], 'Kenneth Monkou']"
+1992,237,away,"[['12'], 'John Sheridan']","[['63'], 'David Hirst']"
+1992,238,home,"[['35'], 'Nick Barmby']","[['85'], 'Gary Mabbutt']"
+1992,238,away,"[['73'], 'Scot Gemmill']"
+1992,239,home
+1992,239,away
+1992,240,home,"[['43'], 'David Hillier']"
+1992,240,away,"[['87'], 'Adrian Littlejohn']"
+1992,241,home
+1992,241,away
+1992,242,home,"[['77'], 'Graham Stuart']","[['83'], 'John Spencer']"
+1992,242,away,"[['26'], 'David White']","[['29', '87'], 'Mike Sheron']","[['54'], '!Frank Sinclair']"
+1992,243,home
+1992,243,away,"[['65'], 'Ian Woan']"
+1992,244,home
+1992,244,away,"[['50'], 'Matt Jackson']","[['85'], 'Peter Beardsley']"
+1992,245,home,"[['60'], 'Chris Kiwomya']"
+1992,245,away,"[['16'], 'Mark Brennan']","[['51'], 'Paul Bernard']"
+1992,246,home,"[['50'], 'Lee Chapman']","[['72'], 'Gary Speed']"
+1992,246,away,"[['19'], 'Kerry Dixon']"
+1992,247,home,"[['42'], 'John Barnes']"
+1992,247,away,"[['54'], 'Garry Parker']","[['64'], 'Dean Saunders']"
+1992,248,home,"[['40'], 'Eric Cantona']","[['52'], 'Denis Irwin']","[['53'], 'Brian McClair']","[['58'], 'Paul Parker']"
+1992,248,away,"[['88'], 'Nick Barmby']"
+1992,249,home
+1992,249,away,"[['72'], 'Les Ferdinand']"
+1992,250,home,"[['42'], 'Nigel Worthington']"
+1992,250,away
+1992,251,home,"[['30', '49'], 'Tony Cottee']"
+1992,251,away
+1992,252,home
+1992,252,away,"[['79'], 'Paul Merson']"
+1992,253,home,"[['13'], 'Chris Sutton']"
+1992,253,away,"[['57'], 'Mick Quinn']"
+1992,254,home,"[['09', '58'], 'Gary Bannister']","[['89'], 'Thorvaldu Örlygsson']"
+1992,254,away
+1992,255,home
+1992,255,away,"[['80'], 'Stuart Ripley']"
+1992,256,home,"[['31', '72', '75'], 'Brian Deane']"
+1992,256,away
+1992,257,home,"[['50'], 'Neil Maddison']"
+1992,257,away
+1992,258,home
+1992,258,away,"[['54'], 'Mark Bright']","[['88'], 'David Hirst']"
+1992,259,home,"[['36'], 'John Fashanu']","[['64'], 'Steve Cotterill']"
+1992,259,away
+1992,260,home,"[['26'], 'Garry Parker']","[['32'], 'Paul McGrath']","[['44'], 'Dwight Yorke']","[['58'], 'Dean Saunders']","[['68'], 'Shaun Teale']"
+1992,260,away,"[['82'], 'Craig Hignett']"
+1992,261,home,"[['42'], 'Bradley Allen']"
+1992,261,away,"[['26'], 'Paul Ince']","[['30'], 'Ryan Giggs']","[['48'], 'Andrei Kanchelskis']"
+1992,262,home,"[['06', '18'], 'Kevin Gallacher']","[['12'], 'Peter Ndlovu']"
+1992,262,away
+1992,263,home,"[['13'], 'Mike Newell']","[['71'], 'Colin Hendry']"
+1992,263,away,"[['19'], '!David May']","[['44'], 'Lee Hurst']","[['48'], 'John Williams']","[['85', '89'], 'Mick Quinn']"
+1992,264,home,"[['24'], 'Nicky Mohan']","[['71'], 'Paul Wilkinson']"
+1992,264,away,"[['58'], 'Matthew Le Tissier']"
+1992,265,home
+1992,265,away,"[['77'], 'Niall Quinn']"
+1992,266,home,"[['75'], 'John Fashanu']"
+1992,266,away,"[['61', '71'], 'Tony Cottee']","[['73'], 'Ian Snodin']"
+1992,267,home,"[['54'], 'Paul McGrath']","[['58'], 'Dean Saunders']","[['89'], 'Kevin Richardson']"
+1992,267,away,"[['74'], 'Brian Deane']"
+1992,268,home,"[['47'], 'Paul Ince']","[['68'], 'Mark Hughes']"
+1992,268,away
+1992,269,home,"[['09', '89'], 'Lee Power']","[['26'], 'Chris Sutton']","[['50'], 'Jeremy Goss']"
+1992,269,away,"[['02'], 'Chris Armstrong']","[['45'], 'Geoff Thomas']"
+1992,270,home,"[['88'], 'Bradley Allen']"
+1992,270,away,"[['47'], 'John Spencer']"
+1992,271,home
+1992,271,away,"[['47'], 'Frank Yallop']","[['79'], 'Bontcho Guenchev']"
+1992,272,home
+1992,272,away,"[['03'], 'Paul Warhurst']","[['89'], 'John Harkes']"
+1992,273,home
+1992,273,away,"[['04'], 'Dean Holdsworth']","[['55'], 'Andy Clarke']"
+1992,274,home,"[['56'], '!Neil Ruddock']"
+1992,274,away,"[['15', '31'], 'Teddy Sheringham']","[['25'], 'Andrew Gray']"
+1992,275,home
+1992,275,away,"[['15'], 'Chris Sutton']"
+1992,276,home,"[['20'], 'Chris Kiwomya']","[['47'], 'Frank Yallop']"
+1992,276,away,"[['85'], 'Brian McClair']"
+1992,277,home,"[['69'], 'Frank Strandli']","[['81'], 'David Batty']","[['90'], 'Chris Fairclough']"
+1992,277,away
+1992,278,home,"[['33'], 'Mike Sheron']","[['74'], 'Keith Curle']","[['78'], 'David White']"
+1992,278,away,"[['04'], 'Mike Newell']","[['14'], '!Terry Phelan']"
+1992,279,home,"[['14', '59'], 'Ian Woan']"
+1992,279,away
+1992,280,home,"[['88'], 'Jamie Hoyland']"
+1992,280,away,"[['19'], 'Bradley Allen']","[['75'], 'Ian Holloway']"
+1992,281,home,"[['39'], 'Nicky Banger']","[['63'], 'Iain Dowie']"
+1992,281,away
+1992,282,home
+1992,282,away,"[['59'], 'John Barnes']"
+1992,283,home,"[['16'], 'Roy Wegerle']"
+1992,283,away,"[['09'], 'Chris Armstrong']","[['59'], 'Simon Rodger']"
+1992,284,home,"[['32'], 'Dwight Yorke']","[['42'], 'Dean Saunders']"
+1992,284,away
+1992,285,home
+1992,285,away
+1992,286,home,"[['64'], 'Brian McClair']","[['80'], 'Eric Cantona']"
+1992,286,away,"[['07'], 'Franz Carr']"
+1992,287,home
+1992,287,away,"[['67'], 'Peter Ndlovu']","[['79'], 'Mick Quinn']"
+1992,288,home,"[['38'], 'Nick Henry']","[['61'], 'Neil Adams']","[['71'], 'Mark Brennan']"
+1992,288,away,"[['89'], 'Mick Harford']"
+1992,289,home,"[['66'], 'Clive Wilson']"
+1992,289,away,"[['77'], 'Mike Sheron']"
+1992,290,home,"[['16'], 'Paul Warhurst']","[['17'], 'John Harkes']","[['62'], 'Chris Waddle']"
+1992,290,away,"[['83'], 'Tony Cottee']"
+1992,291,home,"[['61'], 'Dean Holdsworth']"
+1992,291,away
+1992,292,home,"[['54', '59'], 'Teddy Sheringham']","[['56'], 'Nick Barmby']","[['57'], 'Darren Anderton']"
+1992,292,away,"[['21'], 'Iain Dowie']","[['66'], 'Richard Hall']"
+1992,293,home
+1992,293,away
+1992,294,home,"[['40'], 'Neil Thompson']"
+1992,294,away,"[['80'], 'Devon White']"
+1992,295,home,"[['38'], 'Franz Carr']","[['60'], 'Brian Deane']"
+1992,295,away
+1992,296,home
+1992,296,away,"[['19'], 'Dean Holdsworth']"
+1992,297,home
+1992,297,away
+1992,298,home,"[['09'], 'Bobby Bowry']"
+1992,298,away
+1992,299,home,"[['29'], 'Kenny Sansom']"
+1992,299,away,"[['26'], 'Gary Mabbutt']","[['69'], 'Paul Allen']"
+1992,300,home,"[['09'], 'Richard Hall']","[['25'], 'Micky Adams']","[['79'], 'Nicky Banger']"
+1992,300,away
+1992,301,home
+1992,301,away,"[['22'], 'Ray Houghton']"
+1992,302,home,"[['18'], 'Gary McAllister']","[['79'], 'Lee Chapman']"
+1992,302,away
+1992,303,home,"[['23'], 'Neil Maddison']","[['73'], 'Nicky Banger']"
+1992,303,away,"[['61'], 'Don Hutchison']"
+1992,304,home,"[['12'], 'Neil Cox']","[['18'], 'Earl Barrett']"
+1992,304,away,"[['24'], 'Peter Beardsley']"
+1992,305,home
+1992,305,away
+1992,306,home,"[['82', '83'], 'Ryan Giggs']"
+1992,306,away,"[['77'], 'Nicky Banger']"
+1992,307,home,"[['59'], 'Jimmy Phillips']"
+1992,307,away,"[['58'], 'Nigel Clough']","[['68'], 'Steve Stone']"
+1992,308,home,"[['28'], 'Mark Robins']","[['29'], 'Lee Power']"
+1992,308,away,"[['46'], 'Mike Sheron']"
+1992,309,home
+1992,309,away,"[['50'], 'Andy Linighan']"
+1992,310,home,"[['34'], '!Andy Pearce']","[['41'], 'Darren Peacock']"
+1992,310,away
+1992,311,home,"[['27'], 'Paul Warhurst']","[['71'], 'Danny Wilson']"
+1992,311,away,"[['62'], 'Chris Armstrong']"
+1992,312,home,"[['08', '37', '67'], 'Teddy Sheringham']","[['48'], 'Neil Ruddock']"
+1992,312,away
+1992,313,home,"[['01'], 'John Fashanu']","[['44'], 'Gerald Dobbs']"
+1992,313,away
+1992,314,home,"[['08', '63'], 'Mike Newell']"
+1992,314,away
+1992,315,home,"[['45'], 'John Gannon']","[['77'], 'Adrian Littlejohn']"
+1992,315,away
+1992,316,home,"[['84'], 'Niall Quinn']"
+1992,316,away,"[['72'], 'Viv Anderson']","[['82'], 'Paul Warhurst']"
+1992,317,home
+1992,317,away
+1992,318,home,"[['70'], 'Gary Crosby']"
+1992,318,away
+1992,319,home,"[['79'], 'Dwight Yorke']"
+1992,319,away
+1992,320,home
+1992,320,away
+1992,321,home,"[['20'], 'Peter Beardsley']","[['61'], 'Stuart Barlow']"
+1992,321,away,"[['87', '88'], 'Neil Adams']"
+1992,322,home,"[['71'], 'Tony Dorigo']"
+1992,322,away
+1992,323,home,"[['20'], 'Ryan Giggs']","[['79'], 'Denis Irwin']","[['85'], 'Eric Cantona']"
+1992,323,away
+1992,324,home
+1992,324,away,"[['19'], 'David White']","[['89'], 'Garry Flitcroft']"
+1992,325,home,"[['82'], 'Viv Anderson']"
+1992,325,away,"[['20'], 'Don Hutchison']"
+1992,326,home,"[['02'], 'Kevin Moore']","[['05'], 'Jeff Kenna']","[['39'], 'Iain Dowie']"
+1992,326,away,"[['37'], 'Brian Gayle']","[['83'], 'Ian Bryson']"
+1992,327,home,"[['08', '34'], 'Teddy Sheringham']","[['61'], 'Darren Anderton']"
+1992,327,away,"[['87'], 'Darren Peacock']","[['88'], 'Devon White']"
+1992,328,home
+1992,328,away
+1992,329,home,"[['81'], 'Graham Stuart']"
+1992,329,away
+1992,330,home
+1992,330,away,"[['35'], 'Paul Wilkinson']"
+1992,331,home,"[['13'], 'Franz Carr']","[['21'], '!Andrew Gray']","[['28', '29'], 'Ian Bryson']","[['73'], 'Brian Deane']","[['87'], 'Paul Rogers']"
+1992,331,away
+1992,332,home,"[['43'], 'Micky Gynn']"
+1992,332,away
+1992,333,home,"[['56'], '!Colin Hendry']","[['71'], 'Tony Cottee']"
+1992,333,away,"[['42'], 'David May']"
+1992,334,home,"[['35'], 'Ruel Fox']"
+1992,334,away,"[['81'], 'Ian Wright']"
+1992,335,home,"[['24'], 'Roy Keane']"
+1992,335,away,"[['23'], 'Gareth Southgate']"
+1992,336,home,"[['50'], 'Ian Rush']"
+1992,336,away,"[['42'], 'Mark Hughes']","[['56'], 'Brian McClair']"
+1992,337,home,"[['19', '34'], 'Les Ferdinand']","[['79'], 'Clive Wilson']"
+1992,337,away,"[['38'], '!Rufus Brevett']"
+1992,338,home,"[['22'], 'Dean Holdsworth']"
+1992,338,away,"[['33'], 'Matthew Le Tissier']","[['73'], 'Kevin Moore']"
+1992,339,home
+1992,339,away,"[['08'], 'Mark Ward']"
+1992,340,home
+1992,340,away
+1992,341,home,"[['26'], 'Neil Adams']"
+1992,341,away
+1992,342,home,"[['32'], 'John Scales']","[['74'], 'Dean Holdsworth']"
+1992,342,away
+1992,343,home
+1992,343,away
+1992,344,home,"[['39'], 'Graham Stuart']","[['79'], 'John Spencer']"
+1992,344,away,"[['45'], 'Billy Kenny']"
+1992,345,home
+1992,345,away,"[['35'], 'David Hirst']"
+1992,346,home,"[['72'], 'Ian Rush']"
+1992,346,away
+1992,347,home,"[['35'], 'Garry Flitcroft']"
+1992,347,away
+1992,348,home
+1992,348,away,"[['55'], 'Ruel Fox']"
+1992,349,home
+1992,349,away,"[['28'], 'Kevin Campbell']","[['29'], 'Ian Wright']"
+1992,350,home,"[['15', '26'], 'Tony Cottee']","[['38'], 'Andy Hinchcliffe']"
+1992,350,away
+1992,351,home,"[['11'], 'David Rocastle']"
+1992,351,away
+1992,352,home,"[['15'], '!Steve Nicol']"
+1992,352,away,"[['11'], 'Don Hutchison']","[['81'], 'Ian Rush']"
+1992,353,home,"[['12'], '!Nick Henry']"
+1992,353,away
+1992,354,home,"[['03'], 'Les Ferdinand']"
+1992,354,away,"[['07'], 'John Fashanu']","[['78'], 'Robbie Earle']"
+1992,355,home,"[['17'], 'Richard Hall']","[['65', '90'], 'Matthew Le Tissier']","[['85'], 'Jeff Kenna']"
+1992,355,away,"[['13'], 'David Linighan']","[['35'], 'Paul Goddard']","[['87'], 'Chris Kiwomya']"
+1992,356,home,"[['57'], 'Mark Hughes']"
+1992,356,away,"[['53'], 'Steve Staunton']"
+1992,357,home,"[['41'], 'Chris Armstrong']"
+1992,357,away,"[['04'], 'Graham Stuart']"
+1992,358,home
+1992,358,away,"[['45'], 'Mark Robins']","[['73'], 'Lee Power']","[['78'], 'Ian Crook']"
+1992,359,home,"[['15'], 'Andy Linighan']","[['16'], 'Paul Merson']","[['20', '79'], 'Jimmy Carter']"
+1992,359,away,"[['04'], 'Iain Dowie']","[['30'], 'Micky Adams']","[['50'], 'Matthew Le Tissier']"
+1992,360,home,"[['02', '56'], 'Dwight Yorke']"
+1992,360,away
+1992,361,home,"[['23'], 'Mark Atkins']"
+1992,361,away,"[['32'], 'John Hendrie']"
+1992,362,home,"[['52'], 'Tony Cascarino']"
+1992,362,away,"[['31'], 'Teddy Sheringham']"
+1992,363,home
+1992,363,away
+1992,364,home,"[['90'], 'Ronny Rosenthal']"
+1992,364,away
+1992,365,home,"[['57'], 'Niall Quinn']"
+1992,365,away,"[['68'], 'Eric Cantona']"
+1992,366,home,"[['01'], 'Nick Henry']","[['88'], 'Neil Adams']"
+1992,366,away,"[['68'], 'Bradley Allen']","[['73'], 'Andy Sinton']"
+1992,367,home
+1992,367,away,"[['44'], 'Chris Coleman']"
+1992,368,home,"[['16', '82'], 'Dean Holdsworth']","[['29'], 'Neal Ardley']"
+1992,368,away
+1992,369,home,"[['25'], 'Nigel Clough']"
+1992,369,away,"[['13'], 'Rod Wallace']"
+1992,370,home,"[['83'], 'Nicky Mohan']","[['88'], 'Craig Hignett']"
+1992,370,away,"[['29'], 'Paul Bernard']","[['34'], 'Ian Olney']","[['85'], 'Andy Ritchie']"
+1992,371,home,"[['78'], 'Chris Armstrong']"
+1992,371,away,"[['49'], 'Ian Rush']"
+1992,372,home,"[['17'], 'John Williams']"
+1992,372,away,"[['69'], 'Dane Whitehouse']","[['75'], 'Brian Deane']","[['87'], 'Adrian Littlejohn']"
+1992,373,home,"[['18'], 'Stuart Barlow']","[['49'], 'Matt Jackson']","[['66'], 'Tony Cottee']"
+1992,373,away
+1992,374,home,"[['43'], 'David Wetherall']"
+1992,374,away,"[['53'], 'Mal Donaghy']"
+1992,375,home
+1992,375,away
+1992,376,home,"[['81'], 'John Polston']"
+1992,376,away
+1992,377,home
+1992,377,away,"[['23'], 'Stuart Ripley']","[['55'], 'Kevin Moran']","[['65'], 'Mark Atkins']"
+1992,378,home,"[['66'], 'Mark Bright']"
+1992,378,away,"[['90'], 'Dean Holdsworth']"
+1992,379,home,"[['72'], 'Matthew Le Tissier']"
+1992,379,away,"[['05'], 'Nigel Clough']","[['45'], 'Roy Keane']"
+1992,380,home,"[['23'], 'Darren Anderton']","[['43'], ' Nayim']","[['87'], 'Andy Turner']"
+1992,380,away,"[['60'], 'Mike Sheron']"
+1992,381,home,"[['13'], 'Mike Newell']","[['25'], 'Kevin Moran']","[['41'], 'Kevin Gallacher']","[['65'], 'Jason Wilcox']"
+1992,381,away,"[['84'], 'Ian Rush']"
+1992,382,home,"[['52'], 'Mal Donaghy']","[['61'], 'John Spencer']","[['73'], 'Graham Stuart']","[['89'], 'Darren Barnard']"
+1992,382,away
+1992,383,home,"[['07'], 'Mick Quinn']","[['80'], 'John Williams']"
+1992,383,away
+1992,384,home,"[['62'], '!David Bardsley']"
+1992,384,away,"[['23'], 'Bradley Allen']"
+1992,385,home,"[['55'], 'Niall Quinn']","[['66'], 'Richard Holden']","[['70'], 'Michel Vonk']"
+1992,385,away,"[['02'], 'Gavin Johnson']"
+1992,386,home,"[['05'], '!John Fashanu']","[['13'], 'Paul Bernard']","[['42', '69'], 'Ian Olney']","[['73'], 'Neil Adams']","[['87'], 'Darren Beckford']"
+1992,386,away,"[['61', '68'], 'Dean Holdsworth']"
+1992,387,home
+1992,387,away,"[['63'], 'Paul McGrath']"
+1992,388,home,"[['61'], 'Mark Robins']"
+1992,388,away,"[['13'], 'Ryan Giggs']","[['20'], 'Andrei Kanchelskis']","[['21'], 'Eric Cantona']"
+1992,389,home,"[['38'], 'Bontcho Guenchev']"
+1992,389,away,"[['58'], 'John Spencer']"
+1992,390,home,"[['32'], 'John Hendrie']"
+1992,390,away
+1992,391,home,"[['24'], 'Paul Rogers']","[['86'], 'Brian Deane']"
+1992,391,away,"[['34'], 'Frank Strandli']"
+1992,392,home,"[['51'], 'Nigel Clough']"
+1992,392,away,"[['07'], 'Jason Wilcox']","[['67'], 'Stuart Ripley']","[['76'], 'Mike Newell']"
+1992,393,home,"[['13'], 'Neil Pointon']"
+1992,393,away,"[['65'], 'Gordon Watson']"
+1992,394,home,"[['69'], 'Brian Deane']"
+1992,394,away,"[['08'], '!John Pemberton']"
+1992,395,home,"[['27'], 'Neil Ruddock']","[['30', '77'], 'Teddy Sheringham']","[['55'], 'Nick Barmby']","[['83'], ' Nayim']"
+1992,395,away,"[['86'], 'Efan Ekoku']"
+1992,396,home,"[['20', '53'], 'Robbie Earle']","[['24', '46'], 'Dean Holdsworth']"
+1992,396,away
+1992,397,home
+1992,397,away
+1992,398,home,"[['27'], 'John Wark']"
+1992,398,away,"[['02'], 'Alan Smith']","[['87'], 'Paul Merson']"
+1992,399,home,"[['08', '26', '50'], 'Gordon Strachan']","[['67'], 'Rod Wallace']","[['89'], 'Lee Chapman']"
+1992,399,away,"[['72'], 'Kevin Gallacher']","[['85'], 'Mark Atkins']"
+1992,400,home,"[['60'], 'Ian Rush']"
+1992,400,away
+1992,401,home,"[['86', '90'], 'Steve Bruce']"
+1992,401,away,"[['65'], 'John Sheridan']"
+1992,402,home,"[['64'], 'Paul Wilkinson']"
+1992,402,away,"[['26'], 'Dave Watson']","[['80'], ' Preki']"
+1992,403,home,"[['38', '70', '73'], 'Les Ferdinand']","[['45'], 'Clive Wilson']"
+1992,403,away,"[['08'], 'Gary Bannister']","[['49', '54'], 'Kingsley Black']"
+1992,404,home,"[['49'], 'Nicky Banger']"
+1992,404,away
+1992,405,home
+1992,405,away,"[['68'], 'Tony Daley']"
+1992,406,home,"[['06'], 'Stuart Ripley']","[['43'], '!Phil Whelan']"
+1992,406,away,"[['68'], 'Simon Milton']"
+1992,407,home,"[['45'], 'Dennis Wise']","[['50'], 'Gareth Hall']","[['81'], 'John Spencer']","[['85'], 'Neil Shipperley']"
+1992,407,away,"[['55'], 'Dean Holdsworth']","[['88'], 'Lawrie Sanchez']"
+1992,408,home
+1992,408,away,"[['40'], 'Denis Irwin']"
+1992,409,home,"[['54'], 'Simon Rodger']","[['61'], 'Eric Young']","[['81'], 'Chris Armstrong']","[['85'], 'Chris Coleman']"
+1992,409,away,"[['86'], 'Paul Wilkinson']"
+1992,410,home,"[['31'], 'Tony Cottee']","[['87'], 'Stuart Barlow']","[['89'], ' Preki']"
+1992,410,away,"[['06'], 'Andy Impey']","[['38', '47', '51'], 'Les Ferdinand']","[['79'], 'David Bardsley']"
+1992,411,home,"[['12'], 'Garry Flitcroft']"
+1992,411,away,"[['61'], 'Ian Rush']"
+1992,412,home,"[['25'], 'Kingsley Black']","[['35'], 'Robert Rosario']"
+1992,412,away,"[['44'], 'Steve Sedgley']"
+1992,413,home,"[['37'], 'Mark Bright']","[['43', '71', '81'], 'Chris Bart-Williams']","[['50'], 'Phil King']"
+1992,413,away,"[['68'], 'Jason Dodd']","[['86'], 'Iain Dowie']"
+1992,414,home,"[['10'], 'Andy Ritchie']"
+1992,414,away,"[['44'], 'Jamie Hoyland']"
+1992,415,home,"[['11', '14', '79'], 'Chris Sutton']","[['15'], 'David Phillips']"
+1992,415,away,"[['02'], 'Lee Chapman']","[['46'], 'Rod Wallace']"
+1992,416,home
+1992,416,away
+1992,417,home,"[['16', '33', '50'], 'Mark Walters']","[['75'], 'David Burrows']"
+1992,417,away
+1992,418,home,"[['23'], 'Mark Hughes']","[['44'], '!Steve Clarke']","[['48'], 'Eric Cantona']"
+1992,418,away
+1992,419,home,"[['08'], 'Glyn Hodges']"
+1992,419,away,"[['39'], 'Kevin Gallacher']","[['54'], 'Mike Newell']","[['68'], 'Tim Sherwood']"
+1992,420,home
+1992,420,away
+1992,421,home,"[['58', '82'], 'Teddy Sheringham']","[['70'], 'Darren Anderton']","[['84'], 'Andy Turner']"
+1992,421,away,"[['25'], 'Darren Beckford']"
+1992,422,home,"[['32'], 'Andy Clarke']"
+1992,422,away
+1992,423,home,"[['57'], 'Dean Saunders']","[['67'], 'Garry Parker']","[['89'], 'Ray Houghton']"
+1992,423,away,"[['34'], 'Niall Quinn']"
+1992,424,home,"[['21', '57'], 'Jason Dozzell']","[['52'], 'Mick Stockwell']"
+1992,424,away,"[['41'], 'Chris Sutton']"
+1992,425,home,"[['02', '26'], 'Tommy Wright']","[['76'], 'Paul Wilkinson']"
+1992,425,away
+1992,426,home,"[['67'], 'Ian Wright']"
+1992,426,away,"[['90'], 'Roy Keane']"
+1992,427,home,"[['09', '40'], 'Mike Newell']","[['15'], 'Kevin Gallacher']"
+1992,427,away
+1992,428,home
+1992,428,away,"[['64'], 'Mark Hughes']","[['89'], 'Paul Ince']"
+1992,429,home,"[['54'], 'John Barnes']","[['73'], 'Mark Walters']"
+1992,429,away
+1992,430,home,"[['84'], 'Richard Holden']"
+1992,430,away,"[['50'], 'Paul Miller']"
+1992,431,home,"[['71'], 'Paul Warhurst']"
+1992,431,away,"[['44'], 'Brian Deane']"
+1992,432,home,"[['13'], 'John Spencer']","[['71'], 'Tony Cascarino']"
+1992,432,away,"[['57'], 'Mick Quinn']"
+1992,433,home,"[['08'], 'Eric Young']","[['17'], 'Chris Armstrong']","[['60'], 'Eddie McGoldrick']"
+1992,433,away,"[['37'], 'David Gregory']"
+1992,434,home
+1992,434,away
+1992,435,home,"[['69'], 'Steve Hodge']"
+1992,435,away,"[['16'], 'Les Ferdinand']"
+1992,436,home,"[['62'], 'David Phillips']"
+1992,436,away
+1992,437,home
+1992,437,away,"[['30'], 'Glyn Hodges']","[['73'], 'Brian Gayle']"
+1992,438,home,"[['52'], 'Chris Bart-Williams']","[['78'], '!Chris Morris']"
+1992,438,away,"[['26'], 'Willie Falconer']","[['38'], 'Jamie Pollock']","[['51'], 'John Hendrie']"
+1992,439,home
+1992,439,away,"[['42'], 'David White']"
+1992,440,home,"[['39'], 'Darren Anderton']"
+1992,440,away,"[['64'], 'Robbie Earle']"
+1992,441,home
+1992,441,away,"[['30'], 'Nick Henry']"
+1992,442,home,"[['21'], 'Ryan Giggs']","[['59'], 'Paul Ince']","[['90'], 'Gary Pallister']"
+1992,442,away,"[['08'], 'Kevin Gallacher']"
+1992,443,home
+1992,443,away
+1992,444,home
+1992,444,away,"[['15'], 'Carl Bradshaw']","[['26'], 'Glyn Hodges']"
+1992,445,home,"[['90'], 'David Hirst']"
+1992,445,away,"[['35'], 'Lee Chapman']"
+1992,446,home
+1992,446,away
+1992,447,home,"[['20'], 'Darren Beckford']","[['35', '36'], 'Ian Olney']"
+1992,447,away,"[['30', '59'], 'Ian Rush']"
+1992,448,home,"[['86'], 'Darren Anderton']"
+1992,448,away,"[['22', '54'], 'Mike Newell']"
+1992,449,home,"[['19'], 'Mark Bright']"
+1992,449,away
+1992,450,home,"[['09'], 'Ian Wright']","[['82'], 'Paul Dickov']","[['89'], 'Kevin Campbell']"
+1992,450,away
+1992,451,home,"[['65'], 'Tim Sherwood']"
+1992,451,away
+1992,452,home,"[['05'], 'John Williams']","[['40'], 'Mick Quinn']","[['73'], 'Peter Ndlovu']"
+1992,452,away,"[['06', '89', '90'], 'Rod Wallace']"
+1992,453,home,"[['40'], 'Simon Milton']","[['52'], 'Steve Whitton']"
+1992,453,away,"[['64'], 'Nigel Clough']"
+1992,454,home,"[['21', '85'], 'Ian Rush']","[['44', '88'], 'John Barnes']","[['47'], 'Steve Harkness']","[['82'], 'Mark Walters']"
+1992,454,away,"[['46'], 'Teddy Sheringham']","[['77'], 'Steve Sedgley']"
+1992,455,home,"[['39'], 'David White']","[['73'], 'Keith Curle']"
+1992,455,away,"[['06'], 'Matt Jackson']","[['19', '84'], 'Peter Beagrie']","[['32'], 'Peter Beardsley']","[['51'], ' Preki']"
+1992,456,home,"[['34'], 'Willie Falconer']","[['65'], 'Paul Wilkinson']","[['74'], 'John Hendrie']"
+1992,456,away,"[['14', '66'], 'Efan Ekoku']","[['68'], 'Andy Johnson']"
+1992,457,home,"[['29'], 'Neil Pointon']","[['44'], 'Ian Olney']","[['55'], 'Andy Ritchie']","[['64'], 'Gunnar Halle']"
+1992,457,away,"[['34', '67', '85'], 'Matthew Le Tissier']"
+1992,458,home,"[['07'], 'Andrew Scott']","[['16'], 'Paul Rogers']","[['43', '48'], 'Dane Whitehouse']"
+1992,458,away,"[['86'], 'David Lee']","[['87'], 'Andy Townsend']"
+1992,459,home,"[['67'], 'Les Ferdinand']","[['78'], 'Bradley Allen']"
+1992,459,away,"[['38'], 'Tony Daley']"
+1992,460,home,"[['81'], 'Dean Holdsworth']"
+1992,460,away,"[['63'], 'Paul Ince']","[['70'], 'Bryan Robson']"
+1992,461,home,"[['52'], 'Paul Dickov']"
+1992,461,away,"[['39'], 'Teddy Sheringham']","[['46', '78'], 'John Hendry']"
+1992,462,home,"[['27', '31'], 'Bradley Allen']","[['67'], 'Les Ferdinand']"
+1992,462,away,"[['78'], 'Mark Bright']"
