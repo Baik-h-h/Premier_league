@@ -1,8 +1,9 @@
 from django.db import models
 
-class Data(models.Model):
-    name = models.CharField(max_length=50)
-    pg_goal = models.FloatField()
+class Player(models.Model):
+    name = models.CharField(max_length=100)
+    point = models.FloatField()
+    goals = models.IntegerField()
 
     def __str__(self):
-        return self.choice_text
+        return str(self.name) + ',' + str(self.point) + ',' + str(self.goals)

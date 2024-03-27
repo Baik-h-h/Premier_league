@@ -1,0 +1,11 @@
+{% if name_dict %}
+    <form action="{% url 'premier_league:result' %}" method="post">
+        {% csrf_token %}
+        <p>Names similar to "{{ input_name }}"</p>
+        {% for name, value in name_dict.items %}
+            <input type="submit" value="{{ name }}, sim_per:{{value}}%" name="real_name">
+        {% endfor %}
+    </form>
+{% else %}
+    <p>There are no names matching " {{ input_name }} "</p>
+{% endif %}

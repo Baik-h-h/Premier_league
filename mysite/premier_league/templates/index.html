@@ -1,5 +1,5 @@
 
-<form action="{% url 'premier_league:result' %}" method="post">
+<form action="{% url 'premier_league:search' %}" method="post">
     {% csrf_token %}
     enter player name<input type="search" name="q">
     <input type="submit" value="검색">
