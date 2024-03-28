@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django import forms
 from .models import Player
 from thefuzz import fuzz, process
+import json
 
 def name_per(check_name):
     players = Player.objects.all()  # 이 부분을 함수 내로 이동하여 모델을 가져옵니다.
@@ -44,5 +45,7 @@ def result(request):
         info = Player.objects.get(name=real_name)
     except Player.DoesNotExist:
         info = None
+    point_lst = json.loads(info.point_lst)
+    match_info_lst = json.loads(info.match_info_lst)
     context = {'info': info}
     return render(request,"player_info.html",context)
