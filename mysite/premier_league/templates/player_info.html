@@ -1,3 +1,48 @@
-<p>{{info.name}}</p>
-<p>{{info.point}}</p>
-<p>{{info.goals}}</p>
+{% load static %}
+{% load postgres %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Player Info</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    {% json_script info.points_lst as points_lst %}
+    {% json_script info.match_num_lst as match_num_lst %}
+</head>
+<body>
+    <p>{{info.name}}</p>
+    <p>{{info.total_point}}</p>
+    <p>{{info.goals}}</p>
+    <canvas id="myChart" width="400" height="400"></canvas>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var points_lst = JSON.parse('{{ info.points_lst|escapejs }}');
+            var match_num_lst = JSON.parse('{{ info.match_num_lst|escapejs }}');
+    
+            var ctx = document.getElementById('myChart').getContext('2d');
+            var myChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: Array.from(Array(points_lst.length).keys()), // Create labels as 0, 1, 2, ...
+                    datasets: [{
+                        label: 'Expected Points Led by Each Goal',
+                        data: points_lst,
+                        backgroundColor: 'rgba(54, 162, 235, 0.2)', // Blue color with opacity
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+    
+</body>
+</html>

@@ -16,17 +16,19 @@ class Command(BaseCommand):
             reader = csv.DictReader(file)
             for row in reader:
                 name = row['name']
-                point, goals = eval(row['p/g_goal'])  # Evaluating the string representation of the list to get the actual list
+                total_point, goals, points_lst, match_num_lst  = eval(row['p/g_goal'])  # Evaluating the string representation of the list to get the actual list
 
                 # Create or update the Player object
                 player, created = Player.objects.get_or_create(
                     name=name,
-                    defaults={'point': point, 'goals': goals}
+                    defaults={'total_point': total_point, 'goals': goals, 'points_lst':points_lst, 'match_num_lst':match_num_lst}
                 )
 
                 if not created:
-                    player.point = point
+                    player.total_point = total_point
                     player.goals = goals
+                    player.points_lst = points_lst
+                    player.match_num_lst = match_num_lst
                     player.save()
 
         self.stdout.write(self.style.SUCCESS('Players data imported successfully'))

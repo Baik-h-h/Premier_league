@@ -45,7 +45,8 @@ def result(request):
         info = Player.objects.get(name=real_name)
     except Player.DoesNotExist:
         info = None
-    point_lst = json.loads(info.point_lst)
-    match_info_lst = json.loads(info.match_info_lst)
+    #points_lst = json.loads(info.points_lst)
+    #match_num_lst = json.loads(info.match_num_lst)
+
     context = {'info': info}
     return render(request,"player_info.html",context)
